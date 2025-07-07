@@ -26,12 +26,12 @@ def contains_date(text):
     return re.search(date_pattern, text) is not None
 
 
-# 配置
+# 配置 - 与GitHub Actions工作流保持一致
 CONFIG = {
     "timeout": 10,  # Timeout in seconds
     "max_parallel": 30,  # Max concurrent requests
-    "output_m3u": "LITV.m3u",  # Output file for the sorted M3U
-    "output_txt": "LITV.txt",  # Output file for the TXT format
+    "output_m3u": "LITV.m3u",  # 与工作流中的输出名一致
+    "output_txt": "LITV.txt",  # 与工作流中的输出名一致
     "iptv_directory": "IPTV",  # Directory containing IPTV files
     "logo_base_url": "https://itv.shrimp.cloudns.biz/logo"  # Base URL for logos
 }
@@ -314,6 +314,10 @@ def generate_output_files(valid_urls, cctv_channels, province_channels, m3u_file
                 })
     # --- URL去重逻辑结束 ---
 
+    # 确保LITV输出目录存在
+    os.makedirs(os.path.dirname(m3u_filename), exist_ok=True)
+    os.makedirs(os.path.dirname(txt_filename), exist_ok=True)
+
     # 写入 M3U 文件
     with open(m3u_filename, 'w', encoding='utf-8') as f:
         # 添加带有所需属性的标题行
@@ -445,6 +449,9 @@ async def main(file_urls, cctv_channel_file, province_channel_files):
     for valid_urls in results:
         all_valid_urls.extend(valid_urls)
 
+    # 确保输出目录存在
+    os.makedirs(CONFIG["iptv_directory"], exist_ok=True)
+    
     # 生成输出文件
     generate_output_files(
         all_valid_urls, 
