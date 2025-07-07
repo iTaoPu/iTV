@@ -51,7 +51,7 @@ jobs:
         rm -f Base.m3u CCTV.m3u CNTV.m3u
 
         # 更新README
-        echo -e "# LITV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](LITV.m3u)（标准LITV格式）\n- [TXT播放列表](LITV.txt)（格式：频道名称,直播源URL）" > README.md
+        echo -e "# LITV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（IPTV.M3U）\n- [TXT播放列表](IPTV.txt)（IPTV.TXT）\n- [M3U播放列表](LITV.m3u)（LITV.M3U）\n- [TXT播放列表](LITV.txt)（LITV.TXT）" > README.md
 
     - name: Commit Changes
       run: |
