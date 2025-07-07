@@ -15,60 +15,56 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: Setup Git
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "iptv-updater"
-
-    - name: Get Timestamp
-      id: time
+    - name: GetTime
+      id: date
       run: echo "date=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_OUTPUT
 
-    - name: Update Playlists
+    - name: 更新
       run: |
-        set -e
-        wget -qO base.m3u https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4a.m3u
+        # 下载基础源文件
+        wget -q https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4a.m3u -O Base.m3u
         
-        # 处理央视源
-        grep -A 1 '央视' base.m3u | awk '!/^--$/' | awk '!seen[$0]++' > CCTV.m3u
+        # 提取央视源并去重
+        grep -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CCTV.m3u
         
-        # 处理其他源
-        grep -v -A 1 '央视' base.m3u | awk '!/^--$/' | awk '!seen[$0]++' > CNTV.m3u
+        # 提取非央视源并去重
+        grep -v -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CNTV.m3u
         
-        # 生成主播放列表
+        # 整合源并去重生成M3U
         {
           echo '#EXTM3U x-tvg-url="https://erw.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"'
           cat CCTV.m3u
           cat CNTV.m3u
         } | awk '!seen[$0]++' > IPTV.m3u
         
-        # 生成文本格式播放列表
-        awk '
-          /^#EXTINF:/ {
-            gsub("\r", "")
-            split($0, a, ",")
-            name = a[2]
-            getline
-            url = $0
-            gsub("\r", "", url)
-            print name "," url
-          }' IPTV.m3u | awk '!seen[$0]++' > IPTV.txt
-        
+        # 生成自定义格式的TXT播放列表 (频道名称,URL)
+        awk 'BEGIN {ORS = "\n";} 
+             /^#EXTINF:/ { 
+                 split($0, parts, ",");
+                 channel_name = parts[length(parts)];
+                 gsub(/\r/, "", channel_name);
+                 getline;
+                 url = $0;
+                 gsub(/\r/, "", url);
+                 sub(/^ /, "", channel_name);
+                 print channel_name "," url;
+             }' IPTV.m3u | awk '!seen[$0]++' > IPTV.txt
+
         # 更新README
-        echo -e "# IPTV 自动更新\n\n### 更新于 ${{ steps.time.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)\n- [TXT播放列表](IPTV.txt)" > README.md
+        echo -e "# IPTV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（标准IPTV格式）\n- [TXT播放列表](IPTV.txt)（格式：频道名称,直播源URL）" > README.md
         
-        # 清理临时文件
-        rm base.m3u CCTV.m3u CNTV.m3u
+        # 清理中间文件
+        rm Base.m3u CCTV.m3u CNTV.m3u
 
-    - name: Commit Changes
+    - name: Clean
       run: |
-        git add IPTV.m3u IPTV.txt README.md
-        if [ -n "$(git status --porcelain)" ]; then
-          git commit -m "自动更新: ${{ steps.time.outputs.date }}"
-          echo "有更改，已提交"
-        else
-          echo "无更改，跳过提交"
-        fi
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "${{ steps.date.outputs.date }}"
+        git branch -D main
+        git branch -m main
 
-    - name: Push Updates
-      run: git push origin main
+    - name: Push
+      run: git push -f origin main
