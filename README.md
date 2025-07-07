@@ -1,7 +1,9 @@
-# LITV 自动更新
+# IPTV 自动更新
 
-### 更新于 2025-07-07 21:03:09 CST
+### 更新于 2025-07-07 21:15:47 CST
 
 ### 包含格式:
-- [M3U播放列表](LITV.m3u)（标准LITV格式）
-- [TXT播放列表](LITV.txt)（格式：频道名称,直播源URL）
+- [M3U播放列表](IPTV.m3u)（IPTV.M3U）
+- [TXT播放列表](IPTV.txt)（IPTV.TXT）
+- [M3U播放列表](LITV.m3u)（LITV.M3U）
+- [TXT播放列表](LITV.txt)（LITV.TXT）
