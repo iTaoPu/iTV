@@ -1,1183 +1,347 @@
 #EXTM3U x-tvg-url="https://erw.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV1.png" group-title="📺央视频道",CCTV1
+http://123.149.163.145:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV1.png" group-title="📺央视频道",CCTV1
+http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV1.png" group-title="📺央视频道",CCTV1
+http://118.81.106.155:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV1.png" group-title="📺央视频道",CCTV1
+http://221.193.168.222:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV1.png" group-title="📺央视频道",CCTV1
+http://58.243.224.242:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV10.png" group-title="📺央视频道",CCTV10
+http://124.128.73.58:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV10.png" group-title="📺央视频道",CCTV10
+http://123.149.163.145:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV10.png" group-title="📺央视频道",CCTV10
+http://101.74.28.160:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV10.png" group-title="📺央视频道",CCTV10
+http://221.193.168.222:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV10.png" group-title="📺央视频道",CCTV10
+http://118.81.106.155:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV10.png" group-title="📺央视频道",CCTV10
+http://58.243.224.242:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV11.png" group-title="📺央视频道",CCTV11
+http://101.74.28.160:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV11.png" group-title="📺央视频道",CCTV11
+http://118.81.106.155:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV11.png" group-title="📺央视频道",CCTV11
+http://123.149.163.145:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV11.png" group-title="📺央视频道",CCTV11
+http://124.128.73.58:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV11.png" group-title="📺央视频道",CCTV11
+http://221.193.168.222:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV11.png" group-title="📺央视频道",CCTV11
+http://58.243.224.242:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV12.png" group-title="📺央视频道",CCTV12
+http://221.193.168.222:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV12.png" group-title="📺央视频道",CCTV12
+http://123.149.163.145:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV12.png" group-title="📺央视频道",CCTV12
+http://124.128.73.58:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV12.png" group-title="📺央视频道",CCTV12
+http://118.81.106.155:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV12.png" group-title="📺央视频道",CCTV12
+http://58.243.224.242:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV13.png" group-title="📺央视频道",CCTV13
+http://123.149.163.145:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV13.png" group-title="📺央视频道",CCTV13
+http://118.81.106.155:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV13.png" group-title="📺央视频道",CCTV13
+http://124.128.73.58:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV13.png" group-title="📺央视频道",CCTV13
+http://221.193.168.222:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV14.png" group-title="📺央视频道",CCTV14
+http://124.128.73.58:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV14.png" group-title="📺央视频道",CCTV14
+http://123.149.163.145:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV14.png" group-title="📺央视频道",CCTV14
+http://101.74.28.160:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV14.png" group-title="📺央视频道",CCTV14
+http://118.81.106.155:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV14.png" group-title="📺央视频道",CCTV14
+http://58.243.224.242:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV15.png" group-title="📺央视频道",CCTV15
+http://123.149.163.145:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV15.png" group-title="📺央视频道",CCTV15
+http://101.74.28.160:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV15.png" group-title="📺央视频道",CCTV15
+http://221.193.168.222:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV15.png" group-title="📺央视频道",CCTV15
+http://118.81.106.155:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV15.png" group-title="📺央视频道",CCTV15
+http://58.243.224.242:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV17.png" group-title="📺央视频道",CCTV17
+http://101.74.28.160:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV17.png" group-title="📺央视频道",CCTV17
+http://58.243.224.242:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV2.png" group-title="📺央视频道",CCTV2
+http://118.81.106.155:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV2.png" group-title="📺央视频道",CCTV2
+http://124.128.73.58:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV2.png" group-title="📺央视频道",CCTV2
+http://58.243.224.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV3.png" group-title="📺央视频道",CCTV3
+http://221.193.168.222:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV3.png" group-title="📺央视频道",CCTV3
+http://123.149.163.145:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV3.png" group-title="📺央视频道",CCTV3
+http://124.128.73.58:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV3.png" group-title="📺央视频道",CCTV3
+http://101.74.28.160:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV4.png" group-title="📺央视频道",CCTV4
+http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV4.png" group-title="📺央视频道",CCTV4
+http://101.74.28.160:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV4.png" group-title="📺央视频道",CCTV4
+http://123.149.163.145:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV4.png" group-title="📺央视频道",CCTV4
+http://118.81.106.155:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV4.png" group-title="📺央视频道",CCTV4
+http://58.243.224.242:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5
+http://124.128.73.58:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5
+http://123.149.163.145:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5
+http://101.74.28.160:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5
+http://118.81.106.155:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5+
+http://101.74.28.160:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV6.png" group-title="📺央视频道",CCTV6
+http://123.149.163.145:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV6.png" group-title="📺央视频道",CCTV6
+http://124.128.73.58:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV6.png" group-title="📺央视频道",CCTV6
+http://221.193.168.222:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV6.png" group-title="📺央视频道",CCTV6
+http://118.81.106.155:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV7.png" group-title="📺央视频道",CCTV7
+http://118.81.106.155:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV7.png" group-title="📺央视频道",CCTV7
+http://124.128.73.58:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV7.png" group-title="📺央视频道",CCTV7
+http://221.193.168.222:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV7.png" group-title="📺央视频道",CCTV7
+http://123.149.163.145:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV7.png" group-title="📺央视频道",CCTV7
+http://101.74.28.160:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV7.png" group-title="📺央视频道",CCTV7
+http://58.243.224.242:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV8.png" group-title="📺央视频道",CCTV8
+http://124.128.73.58:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV8.png" group-title="📺央视频道",CCTV8
+http://101.74.28.160:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV8.png" group-title="📺央视频道",CCTV8
+http://123.149.163.145:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV8.png" group-title="📺央视频道",CCTV8
+http://118.81.106.155:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV9.png" group-title="📺央视频道",CCTV9
+http://221.193.168.222:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV9.png" group-title="📺央视频道",CCTV9
+http://123.149.163.145:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV9.png" group-title="📺央视频道",CCTV9
+http://124.128.73.58:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV9.png" group-title="📺央视频道",CCTV9
+http://118.81.106.155:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV9.png" group-title="📺央视频道",CCTV9
+http://58.243.224.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/上海卫视.png" group-title="📡卫视频道",上海卫视
+http://124.128.73.58:9901/tsfile/live/0107_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/上海卫视.png" group-title="📡卫视频道",上海卫视
+http://118.81.106.155:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4i2tsU&tk=smNdz6qOecOl
+http://101.74.28.160:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://124.128.73.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oQhTtA&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|东方卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国东方卫视.png" group-title="📡卫视频道",中国|东方卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Txct8T&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|凤凰卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国凤凰卫视.png" group-title="📡卫视频道",中国|凤凰卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cIWTBh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|北京卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国北京卫视.png" group-title="📡卫视频道",中国|北京卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Qii3Sc&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|四川卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国四川卫视.png" group-title="📡卫视频道",中国|四川卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VTToTS&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|广东南方卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国广东南方卫视.png" group-title="📡卫视频道",中国|广东南方卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Dw10XW&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|广东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国广东卫视.png" group-title="📡卫视频道",中国|广东卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ADtdUW&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|广西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国广西卫视.png" group-title="📡卫视频道",中国|广西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BE6TkQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|江苏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国江苏卫视.png" group-title="📡卫视频道",中国|江苏卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5Bga2r&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|浙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国浙江卫视.png" group-title="📡卫视频道",中国|浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5Xh6Qv&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|深圳卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国深圳卫视.png" group-title="📡卫视频道",中国|深圳卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5Kz4BC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|湖北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国湖北卫视.png" group-title="📡卫视频道",中国|湖北卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DG6Tu3&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|湖南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国湖南卫视.png" group-title="📡卫视频道",中国|湖南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xx0i1i&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|福建东南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国福建东南卫视.png" group-title="📡卫视频道",中国|福建东南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uCTgsf&tk=smNdz6qOecOl
+http://123.149.163.145:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://101.74.28.160:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://58.243.224.242:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dxSNZj&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/云南卫视.png" group-title="📡卫视频道",云南卫视
+http://58.243.224.242:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/兵团卫视.png" group-title="📡卫视频道",兵团卫视
+http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+http://124.128.73.58:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F17dys&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/卫视.png" group-title="📡卫视频道",卫视
+http://124.128.73.58:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://123.149.163.145:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://118.81.106.155:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://101.74.28.160:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://58.243.224.242:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="卫视频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/卫视频道.png" group-title="📡卫视频道",卫视频道
 #genre#
-#EXTINF:-1 tvg-name="台湾|卫视中文台 Star Movies Chinese" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾卫视中文台StarMoviesChinese.png" group-title="📡卫视频道",台湾|卫视中文台 Star Movies Chinese
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=12VD6C&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|卫视电影台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾卫视电影台.png" group-title="📡卫视频道",台湾|卫视电影台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Mv8bnL&tk=smNdz6qOecOl
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/厦门卫视.png" group-title="📡卫视频道",厦门卫视
+http://124.128.73.58:9901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xza7e5&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hrK5Js&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://123.149.163.145:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://101.74.28.160:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://118.81.106.155:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://58.243.224.242:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZubBnY&tk=smNdz6qOecOl
+http://101.74.28.160:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://124.128.73.58:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://58.243.224.242:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+http://124.128.73.58:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+http://58.243.224.242:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KAjINS&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://101.74.28.160:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://58.243.224.242:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=izP0pQ&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://123.149.163.145:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://101.74.28.160:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://58.243.224.242:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9hjdYb&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+http://118.81.106.155:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TOsAZG&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://101.74.28.160:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://58.243.224.242:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JqKxkm&tk=smNdz6qOecOl
+http://101.74.28.160:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://124.128.73.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://124.128.73.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="旅游卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/旅游卫视.png" group-title="📡卫视频道",旅游卫视
+http://124.128.73.58:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xZLHmB&tk=smNdz6qOecOl
+http://123.149.163.145:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://124.128.73.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://118.81.106.155:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://58.243.224.242:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EIOkh1&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://101.74.28.160:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://58.243.224.242:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bs53P6&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://101.74.28.160:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4gK9WH&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://118.81.106.155:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://123.149.163.145:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ViIPxk&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p9k9YN&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://123.149.163.145:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://58.243.224.242:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PWXgUS&tk=smNdz6qOecOl
+http://123.149.163.145:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://124.128.73.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://58.243.224.242:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://123.149.163.145:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://124.128.73.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://101.74.28.160:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://58.243.224.242:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kpgb7Q&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|卫视中文台 Star Movies Chinese" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影卫视中文台StarMoviesChinese.png" group-title="📡卫视频道",电影|卫视中文台 Star Movies Chinese
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uqH0ot&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|卫视电影台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影卫视电影台.png" group-title="📡卫视频道",电影|卫视电影台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c7eEpc&tk=smNdz6qOecOl
+http://123.149.163.145:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://58.243.224.242:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+http://124.128.73.58:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+http://58.243.224.242:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://124.128.73.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AQA1ML&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Vvkh6M&tk=smNdz6qOecOl
+http://101.74.28.160:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://124.128.73.58:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://118.81.106.155:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://58.243.224.242:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RYAWWk&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8HBIng&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|凤凰卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港凤凰卫视.png" group-title="📡卫视频道",香港|凤凰卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=njZVvP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="黄河卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/黄河卫视.png" group-title="📡卫视频道",黄河卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xNrMFC&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
+http://124.128.73.58:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bdJZ1g&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|东森电影 ETTV Movie" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾东森电影ETTVMovie.png" group-title="🎬影视剧频道",台湾|东森电影 ETTV Movie
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iSI29x&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|纬来电影台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾纬来电影台.png" group-title="🎬影视剧频道",台湾|纬来电影台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zbo4QF&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|美亚电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾美亚电影.png" group-title="🎬影视剧频道",台湾|美亚电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ardAuQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|东森电影 ETTV Movie" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影东森电影ETTVMovie.png" group-title="🎬影视剧频道",电影|东森电影 ETTV Movie
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eKdgMv&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|美亚电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影美亚电影.png" group-title="🎬影视剧频道",电影|美亚电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9sQDzl&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV5+体育高清" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5高清.png" group-title="🏀体育频道",CCTV5+体育高清
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SBP2Lr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="🏀体育频道",CCTV5体育
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4tkptV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV5 体育" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV5.png" group-title="🏀体育频道",中国|CCTV-5 体育
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3t1EoH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV5+ 体育赛事 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV5赛事HD.png" group-title="🏀体育频道",中国|CCTV-5+ 体育赛事 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CJANvU&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Arena" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育Arena.png" group-title="🏀体育频道",体育|Arena
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AQEFZE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Arena 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育Arena2.png" group-title="🏀体育频道",体育|Arena 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p2kpNJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Badminton 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroBadminton1.png" group-title="🏀体育频道",体育|Astro Badminton 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=triGfV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Badminton 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroBadminton2.png" group-title="🏀体育频道",体育|Astro Badminton 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=n1OgOr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Beinsports 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroBeinsports1.png" group-title="🏀体育频道",体育|Astro Beinsports 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fqyEkO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Beinsports 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroBeinsports2.png" group-title="🏀体育频道",体育|Astro Beinsports 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9pmwGV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Beinsports 3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroBeinsports3.png" group-title="🏀体育频道",体育|Astro Beinsports 3
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OqbLCR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Cricket" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroCricket.png" group-title="🏀体育频道",体育|Astro Cricket
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LrnFKg&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro EPL 1 backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroEPL1backup.png" group-title="🏀体育频道",体育|Astro EPL 1 backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SI436s&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Football" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroFootball.png" group-title="🏀体育频道",体育|Astro Football
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=y7ElP2&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Golf" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroGolf.png" group-title="🏀体育频道",体育|Astro Golf
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ovs8Ac&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Grandstand" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroGrandstand.png" group-title="🏀体育频道",体育|Astro Grandstand
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aqkvZV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Premier League 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroPremierLeague1.png" group-title="🏀体育频道",体育|Astro Premier League 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=naLm38&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Premier League 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroPremierLeague2.png" group-title="🏀体育频道",体育|Astro Premier League 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MLnmDu&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro Sports Plus" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroSportsPlus.png" group-title="🏀体育频道",体育|Astro Sports Plus
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gJqP5v&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Astro WSports" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育AstroWSports.png" group-title="🏀体育频道",体育|Astro W-Sports
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vtn681&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|BolaArena 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育BolaArena1.png" group-title="🏀体育频道",体育|BolaArena 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1zxzik&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|BolaArena 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育BolaArena2.png" group-title="🏀体育频道",体育|BolaArena 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cf9Wn4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|CCTV5 体育" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育CCTV5.png" group-title="🏀体育频道",体育|CCTV-5 体育
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KFypQO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|CCTV5+ 体育赛事 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育CCTV5赛事HD.png" group-title="🏀体育频道",体育|CCTV-5+ 体育赛事 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=B3KSuJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Fight Sports" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育FightSports.png" group-title="🏀体育频道",体育|Fight Sports
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rB5o0g&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|NBA TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育NBATV.png" group-title="🏀体育频道",体育|NBA TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=idCu6H&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|RTM Sports HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育RTMSportsHD.png" group-title="🏀体育频道",体育|RTM Sports HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NPhtPE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Rugby Pass TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育RugbyPassTV.png" group-title="🏀体育频道",体育|Rugby Pass TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zc3jmB&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|SPO TV 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SPOTV2.png" group-title="🏀体育频道",体育|SPO TV 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yZwuer&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|SPOTV 1 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SPOTV1HD.png" group-title="🏀体育频道",体育|SPOTV 1 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VpIs7N&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Skysports Cricket" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SkysportsCricket.png" group-title="🏀体育频道",体育|Skysports Cricket
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0WDadk&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Skysports EPL" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SkysportsEPL.png" group-title="🏀体育频道",体育|Skysports EPL
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ygaxUf&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Skysports F1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SkysportsF1.png" group-title="🏀体育频道",体育|Skysports F1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SBnY9e&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Skysports Main Event" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SkysportsMainEvent.png" group-title="🏀体育频道",体育|Skysports Main Event
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dPmFJU&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Skysports Mix" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SkysportsMix.png" group-title="🏀体育频道",体育|Skysports Mix
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3lWPCD&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Skysports News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SkysportsNews.png" group-title="🏀体育频道",体育|Skysports News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CSUfAO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Sony Ten 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SonyTen1.png" group-title="🏀体育频道",体育|Sony Ten 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4TI7u8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Sony Ten 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SonyTen2.png" group-title="🏀体育频道",体育|Sony Ten 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CRKGly&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Sony Ten 3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育SonyTen3.png" group-title="🏀体育频道",体育|Sony Ten 3
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yVqciJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Supersports 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育Supersports1.png" group-title="🏀体育频道",体育|Supersports 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6D7v9h&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Supersports 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育Supersports2.png" group-title="🏀体育频道",体育|Supersports 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4r3fFX&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Supersports 3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育Supersports3.png" group-title="🏀体育频道",体育|Supersports 3
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qGufPy&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Supersports 4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育Supersports4.png" group-title="🏀体育频道",体育|Supersports 4
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GENPys&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|TNT Sports 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育TNTSports2.png" group-title="🏀体育频道",体育|TNT Sports 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MsjB6N&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|TNT Sports 3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育TNTSports3.png" group-title="🏀体育频道",体育|TNT Sports 3
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NwZRj8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|TNT Sports 4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育TNTSports4.png" group-title="🏀体育频道",体育|TNT Sports 4
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EvFm8p&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|Tnt Sports 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育TntSports1.png" group-title="🏀体育频道",体育|Tnt Sports 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hhQTZ2&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|WWE" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育WWE.png" group-title="🏀体育频道",体育|WWE
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mPAHMz&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|爱尔达体育2台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育爱尔达体育2台.png" group-title="🏀体育频道",体育|爱尔达体育2台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tRIlC7&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="体育|爱尔达体育3台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/体育爱尔达体育3台.png" group-title="🏀体育频道",体育|爱尔达体育3台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ko2fvk&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|爱尔达体育2台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾爱尔达体育2台.png" group-title="🏀体育频道",台湾|爱尔达体育2台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dQQFRC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|爱尔达体育3台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾爱尔达体育3台.png" group-title="🏀体育频道",台湾|爱尔达体育3台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hPAQfg&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|纬来体育台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾纬来体育台.png" group-title="🏀体育频道",台湾|纬来体育台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DG8qRj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|凤凰资讯" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国凤凰资讯.png" group-title="🏍️港澳台频道",中国|凤凰资讯
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yQvwW0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|TVBS HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾TVBSHD.png" group-title="🏍️港澳台频道",台湾|TVBS HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jIO6pf&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|TVBS News 新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾TVBSNews新闻台.png" group-title="🏍️港澳台频道",台湾|TVBS News 新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZrCZUU&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|TVBS 欢乐台 （备份）" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾TVBS欢乐台备份.png" group-title="🏍️港澳台频道",台湾|TVBS 欢乐台 （备份）
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cCT1sf&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|东森新闻 ETTV News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾东森新闻ETTVNews.png" group-title="🏍️港澳台频道",台湾|东森新闻 ETTV News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Wq7ucO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|东森综合 ETTV Metro" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾东森综合ETTVMetro.png" group-title="🏍️港澳台频道",台湾|东森综合 ETTV Metro
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6zUxn4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|东森超视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾东森超视.png" group-title="🏍️港澳台频道",台湾|东森超视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i1xrCI&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|中天亚洲台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾中天亚洲台.png" group-title="🏍️港澳台频道",台湾|中天亚洲台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RK9AZ1&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|中天娱乐 CTI Entertaiment" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾中天娱乐CTIEntertaiment.png" group-title="🏍️港澳台频道",台湾|中天娱乐 CTI Entertaiment
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YrwrMJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|中天新闻 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾中天新闻HD.png" group-title="🏍️港澳台频道",台湾|中天新闻 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GBvxmL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|中天综合 CTI Metro" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾中天综合CTIMetro.png" group-title="🏍️港澳台频道",台湾|中天综合 CTI Metro
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0IPgEB&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|台视新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾台视新闻台.png" group-title="🏍️港澳台频道",台湾|台视新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1qpjc0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|寰宇新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾寰宇新闻台.png" group-title="🏍️港澳台频道",台湾|寰宇新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=babikE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|纬来育乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾纬来育乐.png" group-title="🏍️港澳台频道",台湾|纬来育乐
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gZHMKw&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|凤凰资讯" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港凤凰资讯.png" group-title="🏍️港澳台频道",香港|凤凰资讯
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NTaKW0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|凤凰香港" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港凤凰香港.png" group-title="🏍️港澳台频道",香港|凤凰香港
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oLHiBK&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|明珠台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港明珠台.png" group-title="🏍️港澳台频道",香港|明珠台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N3XAk7&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|翡翠台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港翡翠台.png" group-title="🏍️港澳台频道",香港|翡翠台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nFzcmQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|翡翠台 backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港翡翠台backup.png" group-title="🏍️港澳台频道",香港|翡翠台 backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=t6WmHe&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV2.png" group-title="💰央视付费频道",CCTV2财经
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NYoi6N&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV3.png" group-title="💰央视付费频道",CCTV3综艺
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sbjX0c&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV4国际" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV4国际.png" group-title="💰央视付费频道",CCTV4国际
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GVrT2J&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV6.png" group-title="💰央视付费频道",CCTV6电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9B1PfO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV7军农" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV7军农.png" group-title="💰央视付费频道",CCTV7军农
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ukZuED&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV8.png" group-title="💰央视付费频道",CCTV8电视剧
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fi2BIL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV9纪录.png" group-title="💰央视付费频道",CCTV9纪录
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=atFOBo&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV6.png" group-title="💰央视付费频道",中国|CCTV-6
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qTR4Yj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV7 军事农业" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV7军事农业.png" group-title="💰央视付费频道",中国|CCTV-7 军事农业
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6x5AL8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV8 电视剧 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV8HD.png" group-title="💰央视付费频道",中国|CCTV-8 电视剧 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mnRBj9&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV9 记录 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV9记录HD.png" group-title="💰央视付费频道",中国|CCTV-9 记录 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DAdHxL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV4 新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV4台.png" group-title="💰央视付费频道",中国|CCTV4 新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Leb0RM&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|CCTV6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影CCTV6.png" group-title="💰央视付费频道",电影|CCTV-6
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vx1E1s&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://itv.shrimp.cloudns.biz/logo/风云剧场.png" group-title="💰央视付费频道",风云剧场
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=My415p&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://itv.shrimp.cloudns.biz/logo/风云足球.png" group-title="💰央视付费频道",风云足球
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Lyhl1G&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV10.png" group-title="📛4K·8K频道",CCTV10科教
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=J3bbin&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV11.png" group-title="📛4K·8K频道",CCTV11戏曲
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ozFlD0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV12社会与法.png" group-title="📛4K·8K频道",CCTV12社会与法
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Jvle7Y&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV13.png" group-title="📛4K·8K频道",CCTV13新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T7zJdN&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV14.png" group-title="📛4K·8K频道",CCTV14少儿
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gUfI0G&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV15.png" group-title="📛4K·8K频道",CCTV15音乐
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4Utkv5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV1.png" group-title="📛4K·8K频道",CCTV1综合
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZFlcG0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Lifestyle&amp;Fashion" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度LifestyleampFashion.png" group-title="📛4K·8K频道",印度|Lifestyle&amp;Fashion
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OePdYJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Picture HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度PictureHD.png" group-title="📛4K·8K频道",印度|Picture HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dumS4c&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|TVRI National" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度TVRINational.png" group-title="📛4K·8K频道",印度|TVRI National
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bSBzM8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Vision Prime" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度VisionPrime.png" group-title="📛4K·8K频道",印度|Vision Prime
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0WTkDd&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|HBO Signature" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影HBOSignature.png" group-title="📛4K·8K频道",电影|HBO Signature
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZCbyJE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|Fashion TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录FashionTV.png" group-title="📛4K·8K频道",纪录|Fashion TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ByIaXj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|HBO Signature" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来HBOSignature.png" group-title="📛4K·8K频道",马来|HBO Signature
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3K54Fl&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|珠江台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国珠江台.png" group-title="🚌广东频道",中国|珠江台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=p3W5Yq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV1 综合 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV1HD.png" group-title="🚝福建频道",中国|CCTV-1 综合 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0QmgKr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV10 科教 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV10HD.png" group-title="🚝福建频道",中国|CCTV-10 科教 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2iHT43&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV11 戏曲" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV11.png" group-title="🚝福建频道",中国|CCTV-11 戏曲
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wBAaES&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV12 社会与法" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV12社会与法.png" group-title="🚝福建频道",中国|CCTV-12 社会与法
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F01Le8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV13 新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV13.png" group-title="🚝福建频道",中国|CCTV-13 新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CKQEMz&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV14 少儿" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV14.png" group-title="🚝福建频道",中国|CCTV-14 少儿
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zVYb9t&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV15 音乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV15.png" group-title="🚝福建频道",中国|CCTV-15 音乐
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9iCVLJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV3 综艺 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV3HD.png" group-title="🚝福建频道",中国|CCTV-3 综艺 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SB8FvO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV2 财经" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV2.png" group-title="🚞浙江频道",中国|CCTV-2 财经
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2XINrr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CCTV4 中文国际" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CCTV4中文国际.png" group-title="🚞浙江频道",中国|CCTV-4 中文国际
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TPcNi4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="山西影视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山西影视.png" group-title="🦼山西频道",山西影视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WKiooe&tk=smNdz6qOecOl
+http://124.128.73.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://118.81.106.155:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://58.243.224.242:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://itv.shrimp.cloudns.biz/logo/世界地理.png" group-title="💰央视付费频道",世界地理
+http://101.74.28.160:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="保定1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/保定1.png" group-title="🚒河北频道",保定1
+http://101.74.28.160:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河北农民.png" group-title="🚒河北频道",河北农民
+http://101.74.28.160:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北影视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河北影视.png" group-title="🚒河北频道",河北影视
+http://101.74.28.160:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北经济" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河北经济.png" group-title="🚒河北频道",河北经济
+http://101.74.28.160:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南公共.png" group-title="🚓河南频道",河南公共
+http://123.149.163.145:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南新闻.png" group-title="🚓河南频道",河南新闻
+http://123.149.163.145:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南民生.png" group-title="🚓河南频道",河南民生
+http://123.149.163.145:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南法制" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南法制.png" group-title="🚓河南频道",河南法制
+http://123.149.163.145:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南电视剧.png" group-title="🚓河南频道",河南电视剧
+http://123.149.163.145:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南都市.png" group-title="🚓河南频道",河南都市
+http://123.149.163.145:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山东体育.png" group-title="🦽山东频道",山东体育
+http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="济南综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/济南综合.png" group-title="🦽山东频道",济南综合
+http://124.128.73.58:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="齐鲁" tvg-logo="https://itv.shrimp.cloudns.biz/logo/齐鲁.png" group-title="🦽山东频道",齐鲁
+http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://itv.shrimp.cloudns.biz/logo/卡酷动画.png" group-title="🪁动漫频道",卡酷动画
+http://58.243.224.242:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://itv.shrimp.cloudns.biz/logo/嘉佳卡通.png" group-title="🪁动漫频道",嘉佳卡通
+http://123.149.163.145:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://itv.shrimp.cloudns.biz/logo/金鹰卡通.png" group-title="🪁动漫频道",金鹰卡通
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hvj397&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|靖天卡通台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童靖天卡通台.png" group-title="🧯樂玩公社",儿童|靖天卡通台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Eyaj59&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|AFC 亚洲旅游台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾AFC亚洲旅游台.png" group-title="🧯樂玩公社",台湾|AFC 亚洲旅游台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6bMzH5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|AXN Taiwan" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾AXNTaiwan.png" group-title="🧯樂玩公社",台湾|AXN Taiwan
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xMZnOp&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|CINEMAX" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾CINEMAX.png" group-title="🧯樂玩公社",台湾|CINEMAX
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1lQtRX&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|EYETV 戏剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾EYETV戏剧.png" group-title="🧯樂玩公社",台湾|EYETV 戏剧
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ToWB9C&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|EYETV 旅游" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾EYETV旅游.png" group-title="🧯樂玩公社",台湾|EYETV 旅游
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BoY1k9&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|HBO_HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾HBO_HD.png" group-title="🧯樂玩公社",台湾|HBO_HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3rZJ7J&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|HBO_HITS" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾HBO_HITS.png" group-title="🧯樂玩公社",台湾|HBO_HITS
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fzP9db&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|Hollywood Movies" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾HollywoodMovies.png" group-title="🧯樂玩公社",台湾|Hollywood Movies
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=APw1Px&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|MTV Live" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾MTVLive.png" group-title="🧯樂玩公社",台湾|MTV Live
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TYyxBK&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|三立台湾 Sanli Taiwan" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾三立台湾SanliTaiwan.png" group-title="🧯樂玩公社",台湾|三立台湾 Sanli Taiwan
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ev8nj8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|三立戏剧台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾三立戏剧台.png" group-title="🧯樂玩公社",台湾|三立戏剧台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Y898oq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|三立综合 Sanli Metro" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾三立综合SanliMetro.png" group-title="🧯樂玩公社",台湾|三立综合 Sanli Metro
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vBAVuo&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|三立都会台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾三立都会台.png" group-title="🧯樂玩公社",台湾|三立都会台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2KC3iQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|东森幼幼 Yoyo TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾东森幼幼YoyoTV.png" group-title="🧯樂玩公社",台湾|东森幼幼 Yoyo TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5KrZrR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|东森戏剧 ETTV Drama" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾东森戏剧ETTVDrama.png" group-title="🧯樂玩公社",台湾|东森戏剧 ETTV Drama
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=O5XhYe&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|东森洋片 ETTV Western" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾东森洋片ETTVWestern.png" group-title="🧯樂玩公社",台湾|东森洋片 ETTV Western
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8rSIk6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|东森财经新闻 ETTV Business" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾东森财经新闻ETTVBusiness.png" group-title="🧯樂玩公社",台湾|东森财经新闻 ETTV Business
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JS6PaF&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|中视 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾中视HD.png" group-title="🧯樂玩公社",台湾|中视 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=caB501&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|中视新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾中视新闻台.png" group-title="🧯樂玩公社",台湾|中视新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cltjrl&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|亚洲旅游 TLC Asia" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾亚洲旅游TLCAsia.png" group-title="🧯樂玩公社",台湾|亚洲旅游 TLC Asia
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Lgc5i0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|亚洲美食" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾亚洲美食.png" group-title="🧯樂玩公社",台湾|亚洲美食
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AhuNnK&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|八大娱乐 GTV Entertainment" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾八大娱乐GTVEntertainment.png" group-title="🧯樂玩公社",台湾|八大娱乐 GTV Entertainment
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EiN51e&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|八大戏剧 GTV Drama" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾八大戏剧GTVDrama.png" group-title="🧯樂玩公社",台湾|八大戏剧 GTV Drama
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ae69lW&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|八大第一 GTV First" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾八大第一GTVFirst.png" group-title="🧯樂玩公社",台湾|八大第一 GTV First
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yNcASF&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|八大综合 GTV Metro" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾八大综合GTVMetro.png" group-title="🧯樂玩公社",台湾|八大综合 GTV Metro
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dQz3ty&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|公视 CTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾公视CTV.png" group-title="🧯樂玩公社",台湾|公视 CTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xO5CwY&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|公视2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾公视2.png" group-title="🧯樂玩公社",台湾|公视2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VYuylu&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|华视 CTS HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾华视CTSHD.png" group-title="🧯樂玩公社",台湾|华视 CTS HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7lERk1&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|博斯无限" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾博斯无限.png" group-title="🧯樂玩公社",台湾|博斯无限
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Rg70HV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|博斯网球 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾博斯网球HD.png" group-title="🧯樂玩公社",台湾|博斯网球 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1MGDi8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|博斯运动 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾博斯运动1.png" group-title="🧯樂玩公社",台湾|博斯运动 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=52CaZj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|博斯运动 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾博斯运动2.png" group-title="🧯樂玩公社",台湾|博斯运动 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yWMmaR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|博斯高球2 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾博斯高球2HD.png" group-title="🧯樂玩公社",台湾|博斯高球2 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Si5aLt&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|台视 TTV HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾台视TTVHD.png" group-title="🧯樂玩公社",台湾|台视 TTV HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ly6oTK&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|台视综合台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾台视综合台.png" group-title="🧯樂玩公社",台湾|台视综合台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=C3etp8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|大爱1台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾大爱1台.png" group-title="🧯樂玩公社",台湾|大爱1台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wF2ncv&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|大爱2台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾大爱2台.png" group-title="🧯樂玩公社",台湾|大爱2台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vCO7Iw&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|好消息 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾好消息2.png" group-title="🧯樂玩公社",台湾|好消息 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YeHN8A&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|寰宇财经" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾寰宇财经.png" group-title="🧯樂玩公社",台湾|寰宇财经
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lqej5f&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|年代新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾年代新闻.png" group-title="🧯樂玩公社",台湾|年代新闻
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cYdNTg&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|星卫电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾星卫电影.png" group-title="🧯樂玩公社",台湾|星卫电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sm2p6H&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|民视 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾民视HD.png" group-title="🧯樂玩公社",台湾|民视 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DxUML5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|民视台湾台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾民视台湾台.png" group-title="🧯樂玩公社",台湾|民视台湾台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dRy5MF&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|民视新闻台 FTV News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾民视新闻台FTVNews.png" group-title="🧯樂玩公社",台湾|民视新闻台 FTV News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gh1p4I&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|爱尔达影剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾爱尔达影剧.png" group-title="🧯樂玩公社",台湾|爱尔达影剧
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LF46rS&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|爱尔达影剧台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾爱尔达影剧台.png" group-title="🧯樂玩公社",台湾|爱尔达影剧台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Kt3rHY&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|爱尔达综合台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾爱尔达综合台.png" group-title="🧯樂玩公社",台湾|爱尔达综合台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lRZS5i&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|纬来日本台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾纬来日本台.png" group-title="🧯樂玩公社",台湾|纬来日本台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WtVnYg&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|纬来精彩" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾纬来精彩.png" group-title="🧯樂玩公社",台湾|纬来精彩
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BN6unG&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|纬来综合台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾纬来综合台.png" group-title="🧯樂玩公社",台湾|纬来综合台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=px1Hgg&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|美食星球" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾美食星球.png" group-title="🧯樂玩公社",台湾|美食星球
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G9sVh4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|阿里郎 Arirang" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾阿里郎Arirang.png" group-title="🧯樂玩公社",台湾|阿里郎 Arirang
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ipfw0O&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|靖天卡通台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾靖天卡通台.png" group-title="🧯樂玩公社",台湾|靖天卡通台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZmnxjD&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|靖天国际台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾靖天国际台.png" group-title="🧯樂玩公社",台湾|靖天国际台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oOZk8u&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|非凡新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾非凡新闻台.png" group-title="🧯樂玩公社",台湾|非凡新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tKXDF8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|龙华偶像" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾龙华偶像.png" group-title="🧯樂玩公社",台湾|龙华偶像
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A9dqlr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|龙华戏剧 Lunghua Drama" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾龙华戏剧LunghuaDrama.png" group-title="🧯樂玩公社",台湾|龙华戏剧 Lunghua Drama
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sURe0a&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|龙华洋片 Lunghua Western" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾龙华洋片LunghuaWestern.png" group-title="🧯樂玩公社",台湾|龙华洋片 Lunghua Western
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sFN6ki&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|龙华经典台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾龙华经典台.png" group-title="🧯樂玩公社",台湾|龙华经典台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uDBX2d&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="台湾|龙详时代" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾龙详时代.png" group-title="🧯樂玩公社",台湾|龙详时代
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ehv0Xh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|大爱2台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影大爱2台.png" group-title="🧯樂玩公社",电影|大爱2台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ueLXy9&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|AFC 亚洲旅游台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录AFC亚洲旅游台.png" group-title="🧯樂玩公社",纪录|AFC 亚洲旅游台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jmVS1u&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|HOY资讯台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港HOY资讯台.png" group-title="🧯樂玩公社",香港|HOY资讯台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lJQQ9t&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|iNews 新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港iNews新闻台.png" group-title="🧯樂玩公社",香港|iNews 新闻台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gaMYpr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|AFC 亚洲旅游台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AFC亚洲旅游台.png" group-title="🧯樂玩公社",马来|AFC 亚洲旅游台
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=674CkU&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TVB 星河台 Xing He" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TVB星河台XingHe.png" group-title="🧯樂玩公社",马来|TVB 星河台 Xing He
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UUM1zR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|华丽台 HD （Wah Lai Toi）" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来华丽台HDWahLaiToi.png" group-title="🧯樂玩公社",马来|华丽台 HD （Wah Lai Toi）
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KEQ9Wq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|欢喜台 HD （Hua Hee Tai）" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来欢喜台HDHuaHeeTai.png" group-title="🧯樂玩公社",马来|欢喜台 HD （Hua Hee Tai）
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gNUByx&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="" tvg-logo="https://itv.shrimp.cloudns.biz/logo/.png" group-title="🧯樂玩公社",
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="中国|CGTN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国CGTN.png" group-title="🧯樂玩公社",中国|CGTN
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LjitGH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|Animax" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童Animax.png" group-title="🧯樂玩公社",儿童|Animax
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8G31iG&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|Baby TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童BabyTV.png" group-title="🧯樂玩公社",儿童|Baby TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Yqzfgb&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|Baby TV Eng" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童BabyTVEng.png" group-title="🧯樂玩公社",儿童|Baby TV Eng
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pKz3li&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|CBeebies" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童CBeebies.png" group-title="🧯樂玩公社",儿童|CBeebies
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QAo4dz&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|Cartoon Network" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童CartoonNetwork.png" group-title="🧯樂玩公社",儿童|Cartoon Network
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=34AvHH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|Kids TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童KidsTV.png" group-title="🧯樂玩公社",儿童|Kids TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hnZHHK&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|MiaoMi" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童MiaoMi.png" group-title="🧯樂玩公社",儿童|MiaoMi
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cHyyjn&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|Momo TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童MomoTV.png" group-title="🧯樂玩公社",儿童|Momo TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Vicg7i&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|Nick Jr" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童NickJr.png" group-title="🧯樂玩公社",儿童|Nick Jr
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=z32hZ9&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|Nickelodeon" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童Nickelodeon.png" group-title="🧯樂玩公社",儿童|Nickelodeon
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nWsMsk&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="儿童|东森幼幼 Yoyo TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/儿童东森幼幼YoyoTV.png" group-title="🧯樂玩公社",儿童|东森幼幼 Yoyo TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=azzDfD&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Adithya" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Adithya.png" group-title="🧯樂玩公社",印度|Adithya
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mrMbaR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|AlQuran AlKareem" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度AlQuranAlKareem.png" group-title="🧯樂玩公社",印度|AlQuran AlKareem
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0cB6aG&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|AnTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度AnTV.png" group-title="🧯樂玩公社",印度|AnTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jTAl6b&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Animax" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Animax.png" group-title="🧯樂玩公社",印度|Animax
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5IWFGC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Asianet" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Asianet.png" group-title="🧯樂玩公社",印度|Asianet
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=muoenv&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Asianet News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度AsianetNews.png" group-title="🧯樂玩公社",印度|Asianet News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uVS6vs&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Astro KTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度AstroKTV.png" group-title="🧯樂玩公社",印度|Astro KTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JzUeLq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Astro Sonypix" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度AstroSonypix.png" group-title="🧯樂玩公社",印度|Astro Sonypix
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iSaKaU&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Astro Sunlife" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度AstroSunlife.png" group-title="🧯樂玩公社",印度|Astro Sunlife
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XdJT3u&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Astro Sunmusic" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度AstroSunmusic.png" group-title="🧯樂玩公社",印度|Astro Sunmusic
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YXo540&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Astro Vaanavil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度AstroVaanavil.png" group-title="🧯樂玩公社",印度|Astro Vaanavil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=norYqq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Berita Satu" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度BeritaSatu.png" group-title="🧯樂玩公社",印度|Berita Satu
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cZNNw0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Bollyone" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Bollyone.png" group-title="🧯樂玩公社",印度|Bollyone
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ukmqog&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Celestial Movies HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度CelestialMoviesHD.png" group-title="🧯樂玩公社",印度|Celestial Movies HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T4d21p&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Cinemax" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Cinemax.png" group-title="🧯樂玩公社",印度|Cinemax
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kTrgDe&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Color HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度ColorHD.png" group-title="🧯樂玩公社",印度|Color HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Y8T3AF&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Colors Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度ColorsTamil.png" group-title="🧯樂玩公社",印度|Colors Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1DzLpb&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Daai TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度DaaiTV.png" group-title="🧯樂玩公社",印度|Daai TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=C2FjIs&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Discovery Kids Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度DiscoveryKidsTamil.png" group-title="🧯樂玩公社",印度|Discovery Kids Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7gqiAr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Discovery Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度DiscoveryTamil.png" group-title="🧯樂玩公社",印度|Discovery Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tEZv64&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Discovery World Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度DiscoveryWorldTamil.png" group-title="🧯樂玩公社",印度|Discovery World Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zyPAEr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|EWTN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度EWTN.png" group-title="🧯樂玩公社",印度|EWTN
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AHAZ6G&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Entertain" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Entertain.png" group-title="🧯樂玩公社",印度|Entertain
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cUVrEz&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Fight Sports" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度FightSports.png" group-title="🧯樂玩公社",印度|Fight Sports
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e1DPPV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|GTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度GTV.png" group-title="🧯樂玩公社",印度|GTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0uMWC9&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|History Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度HistoryTamil.png" group-title="🧯樂玩公社",印度|History Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jV2GKY&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Hits" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Hits.png" group-title="🧯樂玩公社",印度|Hits
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QuGjKp&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Hits Movie" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度HitsMovie.png" group-title="🧯樂玩公社",印度|Hits Movie
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=19UdVG&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Indosiar HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度IndosiarHD.png" group-title="🧯樂玩公社",印度|Indosiar HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G5J9IL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|JTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度JTV.png" group-title="🧯樂玩公社",印度|JTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=B8oJIy&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Jak TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度JakTV.png" group-title="🧯樂玩公社",印度|Jak TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NpihxQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Kompass TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度KompassTV.png" group-title="🧯樂玩公社",印度|Kompass TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RIIUzL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|MNC TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度MNCTV.png" group-title="🧯樂玩公社",印度|MNC TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9nbhaj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Makkal TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度MakkalTV.png" group-title="🧯樂玩公社",印度|Makkal TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zNINfT&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Metro TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度MetroTV.png" group-title="🧯樂玩公社",印度|Metro TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8tr29e&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Music TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度MusicTV.png" group-title="🧯樂玩公社",印度|Music TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qmZhHC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Muslim TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度MuslimTV.png" group-title="🧯樂玩公社",印度|Muslim TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JGtROF&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|NatGeo Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度NatGeoTamil.png" group-title="🧯樂玩公社",印度|NatGeo Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BZ4TU3&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Natgeo Wild Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度NatgeoWildTamil.png" group-title="🧯樂玩公社",印度|Natgeo Wild Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IJVz1h&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Net TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度NetTV.png" group-title="🧯樂玩公社",印度|Net TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jfOcQ0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|News 18 Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度News18Tamil.png" group-title="🧯樂玩公社",印度|News 18 Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DlxHW5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|One" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度One.png" group-title="🧯樂玩公社",印度|One
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JXlWsG&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|RCTI" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度RCTI.png" group-title="🧯樂玩公社",印度|RCTI
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=D5siMA&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|RTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度RTV.png" group-title="🧯樂玩公社",印度|RTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=s9vILi&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Rock Actions" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度RockActions.png" group-title="🧯樂玩公社",印度|Rock Actions
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4zvJ0E&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Rock Entertainment" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度RockEntertainment.png" group-title="🧯樂玩公社",印度|Rock Entertainment
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Rwyazq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|SCM" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度SCM.png" group-title="🧯樂玩公社",印度|SCM
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=epN3TT&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|SCTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度SCTV.png" group-title="🧯樂玩公社",印度|SCTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rZWSFa&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Sony Yay Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度SonyYayTamil.png" group-title="🧯樂玩公社",印度|Sony Yay Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UakEAU&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Star Vijay" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度StarVijay.png" group-title="🧯樂玩公社",印度|Star Vijay
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JI5mhp&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Starmaa HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度StarmaaHD.png" group-title="🧯樂玩公社",印度|Starmaa HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MNPkIw&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Starmaa Movies HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度StarmaaMoviesHD.png" group-title="🧯樂玩公社",印度|Starmaa Movies HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xBbZlo&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Starplus HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度StarplusHD.png" group-title="🧯樂玩公社",印度|Starplus HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dNpOEx&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Sun Music" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度SunMusic.png" group-title="🧯樂玩公社",印度|Sun Music
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ot42e9&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Sun TV HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度SunTVHD.png" group-title="🧯樂玩公社",印度|Sun TV HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VO5OdJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Sun TV India" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度SunTVIndia.png" group-title="🧯樂玩公社",印度|Sun TV India
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=asMCvI&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|TVMU" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度TVMU.png" group-title="🧯樂玩公社",印度|TVMU
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9PeDTL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Tawaf TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度TawafTV.png" group-title="🧯樂玩公社",印度|Tawaf TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=05IeJc&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Thrill" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Thrill.png" group-title="🧯樂玩公社",印度|Thrill
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AmKCBV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Trans 7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Trans7.png" group-title="🧯樂玩公社",印度|Trans 7
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MMwMv5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Transtv" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Transtv.png" group-title="🧯樂玩公社",印度|Transtv
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nPGD1M&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Tvone" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Tvone.png" group-title="🧯樂玩公社",印度|Tvone
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FArBsj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Vellithirai" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度Vellithirai.png" group-title="🧯樂玩公社",印度|Vellithirai
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fBgvTC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Vijay Super" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度VijaySuper.png" group-title="🧯樂玩公社",印度|Vijay Super
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EQNQEG&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Warner TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度WarnerTV.png" group-title="🧯樂玩公社",印度|Warner TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Asnre4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Zee Action" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度ZeeAction.png" group-title="🧯樂玩公社",印度|Zee Action
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1J4boP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Zee Business" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度ZeeBusiness.png" group-title="🧯樂玩公社",印度|Zee Business
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=35xYiX&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Zee Cinema HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度ZeeCinemaHD.png" group-title="🧯樂玩公社",印度|Zee Cinema HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5qyDXo&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Zee News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度ZeeNews.png" group-title="🧯樂玩公社",印度|Zee News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6jhyuM&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Zee TV HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度ZeeTVHD.png" group-title="🧯樂玩公社",印度|Zee TV HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=as0AiL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|Zee Tamil" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度ZeeTamil.png" group-title="🧯樂玩公社",印度|Zee Tamil
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FkYInD&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|iNews TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度iNewsTV.png" group-title="🧯樂玩公社",印度|iNews TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=O4RJuI&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="印度|tvN Movie" tvg-logo="https://itv.shrimp.cloudns.biz/logo/印度tvNMovie.png" group-title="🧯樂玩公社",印度|tvN Movie
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xVRPSO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="山西公共" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山西公共.png" group-title="🧯樂玩公社",山西公共
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Nnze3T&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="山西科教" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山西科教.png" group-title="🧯樂玩公社",山西科教
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YtUOeE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|CNA" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加CNA.png" group-title="🧯樂玩公社",新加|CNA
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YxuZor&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|CNA backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加CNAbackup.png" group-title="🧯樂玩公社",新加|CNA backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qe8Wrp&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|Channel 5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加Channel5.png" group-title="🧯樂玩公社",新加|Channel 5
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1HFhc0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|Channel 8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加Channel8.png" group-title="🧯樂玩公社",新加|Channel 8
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mL0ufO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|Channel U" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加ChannelU.png" group-title="🧯樂玩公社",新加|Channel U
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Na03Jq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|MeWatch CNA" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加MeWatchCNA.png" group-title="🧯樂玩公社",新加|MeWatch CNA
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IPKL1Q&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|MeWatch Ch 5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加MeWatchCh5.png" group-title="🧯樂玩公社",新加|MeWatch Ch 5
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UZljNZ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|MeWatch Ch 8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加MeWatchCh8.png" group-title="🧯樂玩公社",新加|MeWatch Ch 8
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZTOyV3&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|MeWatch Ch U" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加MeWatchChU.png" group-title="🧯樂玩公社",新加|MeWatch Ch U
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7pARh2&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|MeWatch Suria" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加MeWatchSuria.png" group-title="🧯樂玩公社",新加|MeWatch Suria
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HkVPwm&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|MeWatch Vasantham" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加MeWatchVasantham.png" group-title="🧯樂玩公社",新加|MeWatch Vasantham
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=T4glYP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|Suria" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加Suria.png" group-title="🧯樂玩公社",新加|Suria
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2R6Hav&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新加|Vasantham" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新加Vasantham.png" group-title="🧯樂玩公社",新加|Vasantham
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SMszRr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|ABC News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻ABCNews.png" group-title="🧯樂玩公社",新闻|ABC News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SpjGZ6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|AlJazeera" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻AlJazeera.png" group-title="🧯樂玩公社",新闻|Al-Jazeera
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vPv474&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|BBC World News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻BBCWorldNews.png" group-title="🧯樂玩公社",新闻|BBC World News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oQZGxt&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|BBC World News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻BBCWorldNews.png" group-title="🧯樂玩公社",新闻|BBC World News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4aCSyC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|Bloomberg News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻BloombergNews.png" group-title="🧯樂玩公社",新闻|Bloomberg News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=r6T65u&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|CBS HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻CBSHD.png" group-title="🧯樂玩公社",新闻|CBS HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0s0ACX&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|CBSN HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻CBSNHD.png" group-title="🧯樂玩公社",新闻|CBSN HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kZkxDL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|CGTN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻CGTN.png" group-title="🧯樂玩公社",新闻|CGTN
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=l39A8m&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|CNA" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻CNA.png" group-title="🧯樂玩公社",新闻|CNA
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iDLUBH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|CNBC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻CNBC.png" group-title="🧯樂玩公社",新闻|CNBC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4dzapr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|CNN International" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻CNNInternational.png" group-title="🧯樂玩公社",新闻|CNN International
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fqrP6I&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|CNN backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻CNNbackup.png" group-title="🧯樂玩公社",新闻|CNN backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j4Q95L&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|DW (Deutsch)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻DWDeutsch.png" group-title="🧯樂玩公社",新闻|DW (Deutsch)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NjWiiF&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|Fox News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻FoxNews.png" group-title="🧯樂玩公社",新闻|Fox News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=npDpla&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|France 24" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻France24.png" group-title="🧯樂玩公社",新闻|France 24
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FXpNZi&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|NHK World" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻NHKWorld.png" group-title="🧯樂玩公社",新闻|NHK World
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fBLGQa&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|Skynews" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻Skynews.png" group-title="🧯樂玩公社",新闻|Skynews
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pN9fFv&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="新闻|东森财经新闻 ETTV Business" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新闻东森财经新闻ETTVBusiness.png" group-title="🧯樂玩公社",新闻|东森财经新闻 ETTV Business
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NGxCIy&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|BSTBS" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本BSTBS.png" group-title="🧯樂玩公社",日本|BS-TBS
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xYt9cw&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|BSジャパン 181" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本BSジャパン181.png" group-title="🧯樂玩公社",日本|BSジャパン 181
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lpkxMQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|BSフジ BS Fuji" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本BSフジBSFuji.png" group-title="🧯樂玩公社",日本|BSフジ BS Fuji
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=D5RV6d&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|CNA Japan" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本CNAJapan.png" group-title="🧯樂玩公社",日本|CNA Japan
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bmhRwT&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|JET 綜合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本JET綜合.png" group-title="🧯樂玩公社",日本|JET 綜合
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XSvWHM&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|NHK Oaska" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本NHKOaska.png" group-title="🧯樂玩公社",日本|NHK Oaska
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h3sW2T&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|NHK World" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本NHKWorld.png" group-title="🧯樂玩公社",日本|NHK World
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yzmxxW&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|NHKE" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本NHKE.png" group-title="🧯樂玩公社",日本|NHK-E
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xmH57w&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|NHK総合2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本NHK総合2.png" group-title="🧯樂玩公社",日本|NHK-総合-2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G28C8U&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|NHKBS1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本NHKBS1.png" group-title="🧯樂玩公社",日本|NHKBS1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xVgFeb&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|NHKBSプレミア Premium" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本NHKBSプレミアPremium.png" group-title="🧯樂玩公社",日本|NHKBSプレミア Premium
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iBU3rW&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|TOKYOMX" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本TOKYOMX.png" group-title="🧯樂玩公社",日本|TOKYOMX
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bc8T3O&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|テレビ朝日 Asahi TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本テレビ朝日AsahiTV.png" group-title="🧯樂玩公社",日本|テレビ朝日 Asahi TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZhG8M3&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="日本|テレビ東京 Tokyo TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/日本テレビ東京TokyoTV.png" group-title="🧯樂玩公社",日本|テレビ東京 Tokyo TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2l2oNH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Amarin" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Amarin.png" group-title="🧯樂玩公社",泰国|Amarin
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NDoiVm&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Ch 8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Ch8.png" group-title="🧯樂玩公社",泰国|Ch 8
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=epx7U3&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Channel 3 Thailand" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Channel3Thailand.png" group-title="🧯樂玩公社",泰国|Channel 3 Thailand
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TGktdo&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Channel 5 Thailand" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Channel5Thailand.png" group-title="🧯樂玩公社",泰国|Channel 5 Thailand
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NPOsrS&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Channel 7 Thailand" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Channel7Thailand.png" group-title="🧯樂玩公社",泰国|Channel 7 Thailand
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LYY5rz&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Gmm Channel" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国GmmChannel.png" group-title="🧯樂玩公社",泰国|Gmm Channel
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LrfsMm&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|GmmOne" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国GmmOne.png" group-title="🧯樂玩公社",泰国|GmmOne
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=15xySb&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|MCOT HD Thailand1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国MCOTHDThailand1.png" group-title="🧯樂玩公社",泰国|MCOT HD Thailand-1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=u8wR17&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Mono" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Mono.png" group-title="🧯樂玩公社",泰国|Mono
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sV7KoQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Nation" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Nation.png" group-title="🧯樂玩公社",泰国|Nation
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yh0pI3&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Nbt" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Nbt.png" group-title="🧯樂玩公社",泰国|Nbt
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lOwweP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|New" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国New.png" group-title="🧯樂玩公社",泰国|New
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yesazx&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|PPTV Thailand1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国PPTVThailand1.png" group-title="🧯樂玩公社",泰国|PPTV Thailand1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0xlmFU&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|TPTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国TPTV.png" group-title="🧯樂玩公社",泰国|TPTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gVGsEN&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Thai Thai" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国ThaiThai.png" group-title="🧯樂玩公社",泰国|Thai Thai
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=N1XEZ3&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Thairath" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Thairath.png" group-title="🧯樂玩公社",泰国|Thairath
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ESTif0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Tnn24" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Tnn24.png" group-title="🧯樂玩公社",泰国|Tnn24
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=daskpu&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|Workpoint" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国Workpoint.png" group-title="🧯樂玩公社",泰国|Workpoint
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WjrGQy&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="泰国|tpbs" tvg-logo="https://itv.shrimp.cloudns.biz/logo/泰国tpbs.png" group-title="🧯樂玩公社",泰国|tpbs
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iZU6OX&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|AXN Taiwan" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影AXNTaiwan.png" group-title="🧯樂玩公社",电影|AXN Taiwan
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Cim2I5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Animax" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影Animax.png" group-title="🧯樂玩公社",电影|Animax
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fnb9Ro&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Astrol Kplus" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影AstrolKplus.png" group-title="🧯樂玩公社",电影|Astrol Kplus
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I960iM&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Axn HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影AxnHD.png" group-title="🧯樂玩公社",电影|Axn HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=P8mV5F&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|CINEMAX" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影CINEMAX.png" group-title="🧯樂玩公社",电影|CINEMAX
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kwqghw&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Celestial Classic" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影CelestialClassic.png" group-title="🧯樂玩公社",电影|Celestial Classic
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jCBSMv&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Celestial Movies HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影CelestialMoviesHD.png" group-title="🧯樂玩公社",电影|Celestial Movies HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Cb2zm7&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Cinemax" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影Cinemax.png" group-title="🧯樂玩公社",电影|Cinemax
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e54Fi5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Dreamworks" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影Dreamworks.png" group-title="🧯樂玩公社",电影|Dreamworks
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6GORoh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|HBO Family" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影HBOFamily.png" group-title="🧯樂玩公社",电影|HBO Family
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kvGlQE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|HBO HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影HBOHD.png" group-title="🧯樂玩公社",电影|HBO HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RdQZIq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|HBO Hits" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影HBOHits.png" group-title="🧯樂玩公社",电影|HBO Hits
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5YBtli&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|HBO_HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影HBO_HD.png" group-title="🧯樂玩公社",电影|HBO_HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Qlq1si&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|HBO_HITS" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影HBO_HITS.png" group-title="🧯樂玩公社",电影|HBO_HITS
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xZ6uEy&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Hits" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影Hits.png" group-title="🧯樂玩公社",电影|Hits
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ehRFQP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Hits Movie" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影HitsMovie.png" group-title="🧯樂玩公社",电影|Hits Movie
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sorUZ8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Hollywood Movies" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影HollywoodMovies.png" group-title="🧯樂玩公社",电影|Hollywood Movies
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aWngSh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Movies Now HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影MoviesNowHD.png" group-title="🧯樂玩公社",电影|Movies Now HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vD8Rb5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|One" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影One.png" group-title="🧯樂玩公社",电影|One
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6DvBZw&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Paramount Network" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影ParamountNetwork.png" group-title="🧯樂玩公社",电影|Paramount Network
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=a01eTC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Rock Actions" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影RockActions.png" group-title="🧯樂玩公社",电影|Rock Actions
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zPbXtB&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Rock Entertainment" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影RockEntertainment.png" group-title="🧯樂玩公社",电影|Rock Entertainment
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FjiKEe&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|SCM" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影SCM.png" group-title="🧯樂玩公社",电影|SCM
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8ooOLf&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Star Movies HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影StarMoviesHD.png" group-title="🧯樂玩公社",电影|Star Movies HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F8ppST&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Thrill" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影Thrill.png" group-title="🧯樂玩公社",电影|Thrill
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UzZvlI&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|Warner TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影WarnerTV.png" group-title="🧯樂玩公社",电影|Warner TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tiIE8X&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|tvN Movie" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影tvNMovie.png" group-title="🧯樂玩公社",电影|tvN Movie
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Mireb8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|东森洋片 ETTV Western" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影东森洋片ETTVWestern.png" group-title="🧯樂玩公社",电影|东森洋片 ETTV Western
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WxJtCj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|星卫电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影星卫电影.png" group-title="🧯樂玩公社",电影|星卫电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vPN4NL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|龙华洋片 Lunghua Western" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影龙华洋片LunghuaWestern.png" group-title="🧯樂玩公社",电影|龙华洋片 Lunghua Western
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NL69xL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="电影|龙详时代" tvg-logo="https://itv.shrimp.cloudns.biz/logo/电影龙详时代.png" group-title="🧯樂玩公社",电影|龙详时代
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uXD4Bi&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|Animal Planet (Eng)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录AnimalPlanetEng.png" group-title="🧯樂玩公社",纪录|Animal Planet (Eng)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=W1pMhY&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|Animal_Planet" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录Animal_Planet.png" group-title="🧯樂玩公社",纪录|Animal_Planet
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zlXzJA&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|Asia Travel" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录AsiaTravel.png" group-title="🧯樂玩公社",纪录|Asia Travel
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5IJERE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|BBC Earth HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录BBCEarthHD.png" group-title="🧯樂玩公社",纪录|BBC Earth HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LU3Sb1&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|BBC Earth Lifestyle" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录BBCEarthLifestyle.png" group-title="🧯樂玩公社",纪录|BBC Earth Lifestyle
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=D8O2UN&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|CI" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录CI.png" group-title="🧯樂玩公社",纪录|CI
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CfBojl&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|Discovery Asia" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录DiscoveryAsia.png" group-title="🧯樂玩公社",纪录|Discovery Asia
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZMwGvO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|Discovery HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录DiscoveryHD.png" group-title="🧯樂玩公社",纪录|Discovery HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kEKVj1&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|Foodnetwork Hd" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录FoodnetworkHd.png" group-title="🧯樂玩公社",纪录|Foodnetwork Hd
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=x15UIb&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|HGTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录HGTV.png" group-title="🧯樂玩公社",纪录|HGTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SLI2tY&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|History" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录History.png" group-title="🧯樂玩公社",纪录|History
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4V9AsB&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|MTV Live" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录MTVLive.png" group-title="🧯樂玩公社",纪录|MTV Live
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1kcryq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|NatGeo HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录NatGeoHD.png" group-title="🧯樂玩公社",纪录|NatGeo HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yM1C6S&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|NatGeo Wild HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录NatGeoWildHD.png" group-title="🧯樂玩公社",纪录|NatGeo Wild HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HLuyRP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|NatGeo_Wild HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录NatGeo_WildHD.png" group-title="🧯樂玩公社",纪录|NatGeo_Wild HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tCIQ2S&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|Natgeo_HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录Natgeo_HD.png" group-title="🧯樂玩公社",纪录|Natgeo_HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PkJhwa&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|TLC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录TLC.png" group-title="🧯樂玩公社",纪录|TLC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BFQWbc&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|亚洲旅游 TLC Asia" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录亚洲旅游TLCAsia.png" group-title="🧯樂玩公社",纪录|亚洲旅游 TLC Asia
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5YkG71&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|亚洲美食" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录亚洲美食.png" group-title="🧯樂玩公社",纪录|亚洲美食
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2NxgST&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="纪录|美食星球" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纪录美食星球.png" group-title="🧯樂玩公社",纪录|美食星球
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XWWEHE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|AlJazeera" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国AlJazeera.png" group-title="🧯樂玩公社",英国|Al-Jazeera
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LzY9dy&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Animal Planet (Eng)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国AnimalPlanetEng.png" group-title="🧯樂玩公社",英国|Animal Planet (Eng)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oDqg5z&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Axn HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国AxnHD.png" group-title="🧯樂玩公社",英国|Axn HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=z3pJad&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|BBC 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国BBC1.png" group-title="🧯樂玩公社",英国|BBC 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YR3kXl&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|BBC 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国BBC2.png" group-title="🧯樂玩公社",英国|BBC 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=he5WRj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|BBC Earth HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国BBCEarthHD.png" group-title="🧯樂玩公社",英国|BBC Earth HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=k1FgoA&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|BBC Earth Lifestyle" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国BBCEarthLifestyle.png" group-title="🧯樂玩公社",英国|BBC Earth Lifestyle
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BZo9Z6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|BBC World News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国BBCWorldNews.png" group-title="🧯樂玩公社",英国|BBC World News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lD1USS&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Bloomberg News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国BloombergNews.png" group-title="🧯樂玩公社",英国|Bloomberg News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xOj7rS&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|CBBC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国CBBC.png" group-title="🧯樂玩公社",英国|CBBC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Sv9BT0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|CBeebies" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国CBeebies.png" group-title="🧯樂玩公社",英国|CBeebies
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Syiif6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|CGTN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国CGTN.png" group-title="🧯樂玩公社",英国|CGTN
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VmXQR2&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|CNBC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国CNBC.png" group-title="🧯樂玩公社",英国|CNBC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yPgErP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Channel 4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国Channel4.png" group-title="🧯樂玩公社",英国|Channel 4
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Q3szA5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|DW (Deutsch)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国DWDeutsch.png" group-title="🧯樂玩公社",英国|DW (Deutsch)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qdi6FT&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Euronews" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国Euronews.png" group-title="🧯樂玩公社",英国|Euronews
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BuAPBE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|France 24" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国France24.png" group-title="🧯樂玩公社",英国|France 24
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pV8GJR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Freesports" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国Freesports.png" group-title="🧯樂玩公社",英国|Freesports
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sxEtvf&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|HBO HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国HBOHD.png" group-title="🧯樂玩公社",英国|HBO HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FF06H8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|HGTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国HGTV.png" group-title="🧯樂玩公社",英国|HGTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aeMPoH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|History" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国History.png" group-title="🧯樂玩公社",英国|History
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3rt6jx&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Hits Movie" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国HitsMovie.png" group-title="🧯樂玩公社",英国|Hits Movie
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pHM6Sr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Kids TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国KidsTV.png" group-title="🧯樂玩公社",英国|Kids TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VjApcg&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|MTV Live" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国MTVLive.png" group-title="🧯樂玩公社",英国|MTV Live
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=s6pmNq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|More4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国More4.png" group-title="🧯樂玩公社",英国|More4
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rZ5888&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|NHK World" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国NHKWorld.png" group-title="🧯樂玩公社",英国|NHK World
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ePeXQf&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|NatGeo HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国NatGeoHD.png" group-title="🧯樂玩公社",英国|NatGeo HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gtLNCS&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|NatGeo Wild HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国NatGeoWildHD.png" group-title="🧯樂玩公社",英国|NatGeo Wild HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QfRoQ2&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Nick Jr" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国NickJr.png" group-title="🧯樂玩公社",英国|Nick Jr
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=47z4LG&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Nickelodeon" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国Nickelodeon.png" group-title="🧯樂玩公社",英国|Nickelodeon
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RjHBio&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Pick TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国PickTV.png" group-title="🧯樂玩公社",英国|Pick TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3YXIEQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Skynews" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国Skynews.png" group-title="🧯樂玩公社",英国|Skynews
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9ITlAa&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Skysports Cricket" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国SkysportsCricket.png" group-title="🧯樂玩公社",英国|Skysports Cricket
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F0m5nh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Skysports EPL" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国SkysportsEPL.png" group-title="🧯樂玩公社",英国|Skysports EPL
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=41VeTT&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Skysports F1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国SkysportsF1.png" group-title="🧯樂玩公社",英国|Skysports F1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Kx04W4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Skysports Main Event" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国SkysportsMainEvent.png" group-title="🧯樂玩公社",英国|Skysports Main Event
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=35UkE8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Skysports News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国SkysportsNews.png" group-title="🧯樂玩公社",英国|Skysports News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OOZCEz&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Star Movies HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国StarMoviesHD.png" group-title="🧯樂玩公社",英国|Star Movies HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=y7PUw6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|TLC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国TLC.png" group-title="🧯樂玩公社",英国|TLC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RzybAj&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Thrill" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国Thrill.png" group-title="🧯樂玩公社",英国|Thrill
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PoXz8R&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|Warner TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国WarnerTV.png" group-title="🧯樂玩公社",英国|Warner TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Uy0jeI&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|itv 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国itv1.png" group-title="🧯樂玩公社",英国|itv 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9oCMrW&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="英国|itv 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/英国itv2.png" group-title="🧯樂玩公社",英国|itv 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QG90Gv&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|ANTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南ANTV.png" group-title="🧯樂玩公社",越南|ANTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=McKnU8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|BPTV 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南BPTV2.png" group-title="🧯樂玩公社",越南|BPTV 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kYbSQb&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|BRT HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南BRTHD.png" group-title="🧯樂玩公社",越南|BRT HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HV6rGH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|Ca Mau TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南CaMauTV.png" group-title="🧯樂玩公社",越南|Ca Mau TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rMIjCg&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|Danang TV1 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南DanangTV1HD.png" group-title="🧯樂玩公社",越南|Danang TV1 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9eOACt&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|Danang TV2 HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南DanangTV2HD.png" group-title="🧯樂玩公社",越南|Danang TV2 HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6J1wop&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|HBTV HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南HBTVHD.png" group-title="🧯樂玩公社",越南|HBTV HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NohDxO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|HTV 7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南HTV7.png" group-title="🧯樂玩公社",越南|HTV 7
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cH3LNq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|HTV 9" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南HTV9.png" group-title="🧯樂玩公社",越南|HTV 9
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I5laSQ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|PTTH 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南PTTH1.png" group-title="🧯樂玩公社",越南|PTTH 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rkkYB4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|VTV 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南VTV1.png" group-title="🧯樂玩公社",越南|VTV 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=g9JFXh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="越南|VTV 7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/越南VTV7.png" group-title="🧯樂玩公社",越南|VTV 7
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fAs4ps&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|All the Kpop" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国AlltheKpop.png" group-title="🧯樂玩公社",韩国|All the Kpop
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=W10g8l&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|Apps TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国AppsTV.png" group-title="🧯樂玩公社",韩国|Apps TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Lys5FR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|Arirang HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国ArirangHD.png" group-title="🧯樂玩公社",韩国|Arirang HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=51EhhO&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|CBS" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国CBS.png" group-title="🧯樂玩公社",韩国|CBS
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OorGNq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|CGNTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国CGNTV.png" group-title="🧯樂玩公社",韩国|CGNTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mGSjaA&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|EBS 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国EBS1.png" group-title="🧯樂玩公社",韩国|EBS 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qFC2Qt&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|EBS Kids" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国EBSKids.png" group-title="🧯樂玩公社",韩国|EBS Kids
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BDJae6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|EBS Plus2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国EBSPlus2.png" group-title="🧯樂玩公社",韩国|EBS Plus2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LMSVL5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|EBS2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国EBS2.png" group-title="🧯樂玩公社",韩国|EBS2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=h4cfio&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|J the Kpop" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国JtheKpop.png" group-title="🧯樂玩公社",韩国|J the Kpop
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HVyIRa&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|KBS World 24" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国KBSWorld24.png" group-title="🧯樂玩公社",韩国|KBS World 24
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=o3M508&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|SBS Plus" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国SBSPlus.png" group-title="🧯樂玩公社",韩国|SBS Plus
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Fr9ptM&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|YTN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国YTN.png" group-title="🧯樂玩公社",韩国|YTN
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aKWD7V&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|YTN DMB" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国YTNDMB.png" group-title="🧯樂玩公社",韩国|YTN DMB
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fV0Fd6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|YTN Korean" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国YTNKorean.png" group-title="🧯樂玩公社",韩国|YTN Korean
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q1rZsA&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|YTN Science" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国YTNScience.png" group-title="🧯樂玩公社",韩国|YTN Science
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lS01Wi&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="韩国|Yonhap News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国YonhapNews.png" group-title="🧯樂玩公社",韩国|Yonhap News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FxNRv1&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|J 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港J2.png" group-title="🧯樂玩公社",香港|J 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nmMwOr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|RHK 31" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港RHK31.png" group-title="🧯樂玩公社",香港|RHK 31
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xMiqej&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|RHK 32" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港RHK32.png" group-title="🧯樂玩公社",香港|RHK 32
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=09SWnY&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|VIUTV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港VIUTV1.png" group-title="🧯樂玩公社",香港|VIUTV1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YTwuWC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="香港|Viu6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/香港Viu6.png" group-title="🧯樂玩公社",香港|Viu6
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mwyrwX&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|AEC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AEC.png" group-title="🧯樂玩公社",马来|AEC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rwzZa7&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|AOD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AOD.png" group-title="🧯樂玩公社",马来|AOD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3cgzpS&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|AlHijrah" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AlHijrah.png" group-title="🧯樂玩公社",马来|Al-Hijrah
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iEzXR1&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|AlHijrah backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AlHijrahbackup.png" group-title="🧯樂玩公社",马来|Al-Hijrah backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dqvF2k&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|AlJazeera" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AlJazeera.png" group-title="🧯樂玩公社",马来|Al-Jazeera
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DZikL6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Animal Planet (Eng)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AnimalPlanetEng.png" group-title="🧯樂玩公社",马来|Animal Planet (Eng)
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=80pT50&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Arena" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Arena.png" group-title="🧯樂玩公社",马来|Arena
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PUWJqH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Arena 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Arena2.png" group-title="🧯樂玩公社",马来|Arena 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=52WCXZ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Astro LOL" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AstroLOL.png" group-title="🧯樂玩公社",马来|Astro LOL
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dwnsHl&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Astro MTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AstroMTV.png" group-title="🧯樂玩公社",马来|Astro MTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aMl1Vz&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Astro QJ" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AstroQJ.png" group-title="🧯樂玩公社",马来|Astro QJ
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RdCEL8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Astro Rusi" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AstroRusi.png" group-title="🧯樂玩公社",马来|Astro Rusi
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=txzYg6&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Astro Sonypix" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AstroSonypix.png" group-title="🧯樂玩公社",马来|Astro Sonypix
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZZ4bsI&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Astrol Kplus" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AstrolKplus.png" group-title="🧯樂玩公社",马来|Astrol Kplus
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KhxSo1&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Aura" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Aura.png" group-title="🧯樂玩公社",马来|Aura
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c6EVA1&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Awani" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Awani.png" group-title="🧯樂玩公社",马来|Awani
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YcuOCy&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Awesome TV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AwesomeTV.png" group-title="🧯樂玩公社",马来|Awesome TV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6O8rFh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Axn HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来AxnHD.png" group-title="🧯樂玩公社",马来|Axn HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rDXNY8&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|BBC World News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来BBCWorldNews.png" group-title="🧯樂玩公社",马来|BBC World News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CjpcEC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Bernama" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Bernama.png" group-title="🧯樂玩公社",马来|Bernama
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VmUXBu&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Bloomberg News" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来BloombergNews.png" group-title="🧯樂玩公社",马来|Bloomberg News
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AUFzHV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|BolaArena 1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来BolaArena1.png" group-title="🧯樂玩公社",马来|BolaArena 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c3VMMq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|BolaArena 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来BolaArena2.png" group-title="🧯樂玩公社",马来|BolaArena 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HtNm8P&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Boo" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Boo.png" group-title="🧯樂玩公社",马来|Boo
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dML4j0&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|CNA" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来CNA.png" group-title="🧯樂玩公社",马来|CNA
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rjTXIT&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|CNBC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来CNBC.png" group-title="🧯樂玩公社",马来|CNBC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GQXENr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|CNN backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来CNNbackup.png" group-title="🧯樂玩公社",马来|CNN backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I6JLyh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Cartoon Network" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来CartoonNetwork.png" group-title="🧯樂玩公社",马来|Cartoon Network
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=c87XPk&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Celestial Classic" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来CelestialClassic.png" group-title="🧯樂玩公社",马来|Celestial Classic
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jJm9mE&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Celestial Movies HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来CelestialMoviesHD.png" group-title="🧯樂玩公社",马来|Celestial Movies HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Np8RUP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Ceria" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Ceria.png" group-title="🧯樂玩公社",马来|Ceria
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wAeFUs&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Citra" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Citra.png" group-title="🧯樂玩公社",马来|Citra
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dvKVBI&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Citra backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Citrabackup.png" group-title="🧯樂玩公社",马来|Citra backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=729Ls2&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Dreamworks" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Dreamworks.png" group-title="🧯樂玩公社",马来|Dreamworks
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yDhjIr&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Foodnetwork Hd" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来FoodnetworkHd.png" group-title="🧯樂玩公社",马来|Foodnetwork Hd
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=e7AiC5&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Goshop" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Goshop.png" group-title="🧯樂玩公社",马来|Goshop
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NTeUjB&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|HBO HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来HBOHD.png" group-title="🧯樂玩公社",马来|HBO HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TZ6KuZ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|HBO Hits" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来HBOHits.png" group-title="🧯樂玩公社",马来|HBO Hits
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5yEyqG&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|HGTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来HGTV.png" group-title="🧯樂玩公社",马来|HGTV
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=toLocJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|KBS World" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来KBSWorld.png" group-title="🧯樂玩公社",马来|KBS World
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iqIwKR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Madinah HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来MadinahHD.png" group-title="🧯樂玩公社",马来|Madinah HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CPqr7h&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Mecca Live HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来MeccaLiveHD.png" group-title="🧯樂玩公社",马来|Mecca Live HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bPaon4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|NTV7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来NTV7.png" group-title="🧯樂玩公社",马来|NTV7
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7kAYPC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|NatGeo Wild HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来NatGeoWildHD.png" group-title="🧯樂玩公社",马来|NatGeo Wild HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=I0MJVB&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Nick Jr" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来NickJr.png" group-title="🧯樂玩公社",马来|Nick Jr
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qzJK8C&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Nickelodeon" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Nickelodeon.png" group-title="🧯樂玩公社",马来|Nickelodeon
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KxWAoT&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Oasis" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Oasis.png" group-title="🧯樂玩公社",马来|Oasis
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pFoT1J&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|One" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来One.png" group-title="🧯樂玩公社",马来|One
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=mosMjP&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Paramount Network" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来ParamountNetwork.png" group-title="🧯樂玩公社",马来|Paramount Network
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1qSWEi&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Prima" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Prima.png" group-title="🧯樂玩公社",马来|Prima
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9yTwl4&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Prima backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Primabackup.png" group-title="🧯樂玩公社",马来|Prima backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wS9s5F&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Prima backup 2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Primabackup2.png" group-title="🧯樂玩公社",马来|Prima backup 2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4zkzTC&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|RTM Asean" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来RTMAsean.png" group-title="🧯樂玩公社",马来|RTM Asean
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZJw7Le&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|RTM Sports HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来RTMSportsHD.png" group-title="🧯樂玩公社",马来|RTM Sports HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=H7lQWZ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Rania" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Rania.png" group-title="🧯樂玩公社",马来|Rania
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j2n7VX&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Ria" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Ria.png" group-title="🧯樂玩公社",马来|Ria
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kxoldD&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Ria3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Ria3.png" group-title="🧯樂玩公社",马来|Ria-3
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=caVM0J&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Rock Actions" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来RockActions.png" group-title="🧯樂玩公社",马来|Rock Actions
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kvW1RT&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Rock Entertainment" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来RockEntertainment.png" group-title="🧯樂玩公社",马来|Rock Entertainment
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UDowzL&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Sensasi" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Sensasi.png" group-title="🧯樂玩公社",马来|Sensasi
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=q3r9dR&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Siar" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来Siar.png" group-title="🧯樂玩公社",马来|Siar
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lt1Z8q&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|Sony HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来SonyHD.png" group-title="🧯樂玩公社",马来|Sony HD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5gWMhY&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TLC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TLC.png" group-title="🧯樂玩公社",马来|TLC
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8r0OKl&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TV1.png" group-title="🧯樂玩公社",马来|TV1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ag0z6F&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TV1 backup" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TV1backup.png" group-title="🧯樂玩公社",马来|TV1 backup
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tidENN&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TV2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TV2.png" group-title="🧯樂玩公社",马来|TV2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WsHLqq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TV3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TV3.png" group-title="🧯樂玩公社",马来|TV3
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4hKjxh&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TV3 SD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TV3SD.png" group-title="🧯樂玩公社",马来|TV3 SD
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OaJ8jw&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TV8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TV8.png" group-title="🧯樂玩公社",马来|TV8
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=g2UovJ&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TV9" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TV9.png" group-title="🧯樂玩公社",马来|TV9
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SwBeIq&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TVB Asia" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TVBAsia.png" group-title="🧯樂玩公社",马来|TVB Asia
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=L0rkkV&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TVB Classic" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TVBClassic.png" group-title="🧯樂玩公社",马来|TVB Classic
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=swpCnm&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TVB Entertainment" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TVBEntertainment.png" group-title="🧯樂玩公社",马来|TVB Entertainment
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TxHYyM&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TVB Jade" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TVBJade.png" group-title="🧯樂玩公社",马来|TVB Jade
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GUM4Yo&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|TvN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来TvN.png" group-title="🧯樂玩公社",马来|TvN
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=l5S9YH&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|WION" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来WION.png" group-title="🧯樂玩公社",马来|WION
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UKb2lS&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|tvN Movie" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来tvNMovie.png" group-title="🧯樂玩公社",马来|tvN Movie
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=juZfpb&tk=smNdz6qOecOl
-#EXTINF:-1 tvg-name="马来|爱奇艺 iQiyi" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马来爱奇艺iQiyi.png" group-title="🧯樂玩公社",马来|爱奇艺 iQiyi
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9cf8iG&tk=smNdz6qOecOl
+http://58.243.224.242:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
