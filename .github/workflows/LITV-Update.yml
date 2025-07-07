@@ -1,0 +1,75 @@
+name: LITV Update
+
+on:
+  workflow_dispatch:
+  watch:
+    types: [started]
+  schedule:
+    - cron: '0 3,12,21 * * *'
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install aiohttp
+
+    - name: Run scraping script
+      # 确保在仓库根目录执行
+      working-directory: ${{ github.workspace }}
+      run: python .github/workflows/LITV-Update.py
+
+    - name: GetTime
+      # 简化时间格式设置
+      run: echo "GET_TIME=$(date +'%Y-%m-%d %H:%M:%S %Z')" >> $GITHUB_ENV
+
+    - name: Update README.md
+      run: |
+        # 添加空文件检查
+        if [ -f "LITV.m3u" ] && [ -f "LITV.txt" ]; then
+          m3u_link="https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref }}/LITV.m3u"
+          txt_link="https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref }}/LITV.txt"
+          
+          sed -i "s|<!-- Last Run Time -->.*|<!-- Last Run Time --> ${GET_TIME}|" README.md
+          sed -i "s|<!-- M3U File Link -->.*|<!-- M3U File Link --> [M3U播放列表](${m3u_link})|" README.md
+          sed -i "s|<!-- TXT File Link -->.*|<!-- TXT File Link --> [TXT频道列表](${txt_link})|" README.md
+        else
+          echo "警告：M3U/TXT 文件未生成！"
+        fi
+
+    - name: Check for changes
+      id: changes
+      run: |
+        # 检测是否有实际变更
+        git add -A
+        if git diff-index --quiet HEAD --; then
+          echo "::set-output name=has_changes::false"
+        else
+          echo "::set-output name=has_changes::true"
+        fi
+
+    - name: Commit changes
+      # 只有实际有变更时才提交
+      if: steps.changes.outputs.has_changes == 'true'
+      env:
+        REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git remote set-url origin $REPO_URL
+        
+        git add README.md LITV.m3u LITV.txt
+        git commit -m "自动更新：${{ env.GET_TIME }}"
+        git push origin main
