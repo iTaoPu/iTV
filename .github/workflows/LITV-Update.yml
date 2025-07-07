@@ -45,8 +45,8 @@ jobs:
         
         # 添加实际存在的文件
         git add README.md
-        git add Internet_iTV.m3u
-        git add Internet_iTV.txt
+        git add LITV.m3u
+        git add LITV.txt
         
         git commit -am "自动更新：$GET_TIME"
         git push origin main
