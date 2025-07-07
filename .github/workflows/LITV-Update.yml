@@ -1,4 +1,4 @@
-name: IPTV Daily Update
+name: LITV Update
 
 on:
   schedule:
