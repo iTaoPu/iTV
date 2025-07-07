@@ -561,9 +561,9 @@ NewTV 爱情喜剧,http://111.22.153.159:35455/itv/2000000003000000010.m3u8?cdn=
 西游记续集,http://home.kuaidi521.com:35455/douyu/3113309
 我是特种兵之利刃出鞘,http://43.138.0.72:35455/yy/37999586
 狂飙,http://43.138.0.72:35455/yy/1355142167
-三国演义,http://tv.666150.xyz/huya.php?id=11602081
+ 三国演义,http://tv.666150.xyz/huya.php?id=11602081
 西游记,http://tv.666150.xyz/huya.php?id=26355861
-新白娘子传奇,http://tv.666150.xyz/huya.php?id=26355768
+ 新白娘子传奇,http://tv.666150.xyz/huya.php?id=26355768
 乌龙闯情关,http://tv.666150.xyz/huya.php?id=26355767
 柳舟计,http://tv.666150.xyz/huya.php?id=23860039
 与凤行,http://tv.666150.xyz/huya.php?id=26355866
@@ -682,7 +682,7 @@ BRTV国际频道,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川公共乡村,http://wouu.net:9977/udp/239.93.0.52:5140
 四川妇女儿童,http://wouu.net:9977/udp/239.93.0.219:5140
-龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+ 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
