@@ -41085,6 +41085,9 @@
 	<programme channel="明星大片" start="20250707193000 +0800" stop="20250707201800 +0800">
 		<title lang="zh">36_玫瑰的故事</title>
 	</programme>
+	<programme channel="明星大片" start="20250707201800 +0800" stop="20250707210600 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -57395,6 +57398,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250707195000 +0800" stop="20250707202000 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250707202000 +0800" stop="20250707212500 +0800">
+		<title lang="zh">15_爱的二八定律</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -78456,6 +78462,9 @@
 	<programme channel="黑莓电影" start="20250707180900 +0800" stop="20250707202300 +0800">
 		<title lang="zh">建国大业</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250707202300 +0800" stop="20250707222200 +0800">
+		<title lang="zh">非诚勿扰3</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -79602,6 +79611,9 @@
 	<programme channel="newtv精品纪录" start="20250707195100 +0800" stop="20250707202900 +0800">
 		<title lang="zh">礼贡堂东甲陈皮皇-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250707202900 +0800" stop="20250707205300 +0800">
+		<title lang="zh">03_味道云南</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79931,6 +79943,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250707195000 +0800" stop="20250707202000 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250707202000 +0800" stop="20250707212500 +0800">
+		<title lang="zh">15_爱的二八定律</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80274,6 +80289,9 @@
 	<programme channel="newtv军事评论" start="20250707195900 +0800" stop="20250707202400 +0800">
 		<title lang="zh">老兵的心愿 2024退伍季 不一样的告别</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250707202400 +0800" stop="20250707204900 +0800">
+		<title lang="zh">春节特别节目 “气球大战”“核战预演” 朝鲜半岛局势螺旋式升级</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80432,6 +80450,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250707193000 +0800" stop="20250707201800 +0800">
 		<title lang="zh">36_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250707201800 +0800" stop="20250707210600 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
