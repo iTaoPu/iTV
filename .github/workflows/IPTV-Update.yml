@@ -33,8 +33,8 @@ jobs:
         grep -v -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CNTV.m3u
         
         # 生成最终M3U
-        echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > LITV.m3u
-        cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> LITV.m3u
+        echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > IPTV.m3u
+        cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> IPTV.m3u
         
         # 生成TXT播放列表
         awk '/^#EXTINF:/ {
@@ -45,19 +45,19 @@ jobs:
             gsub(/\r/, "", url);
             sub(/^ /, "", name);
             print name "," url;
-        }' LITV.m3u | awk '!seen[$0]++' > LITV.txt
+        }' IPTV.m3u | awk '!seen[$0]++' > IPTV.txt
         
         # 清理临时文件
         rm -f Base.m3u CCTV.m3u CNTV.m3u
 
         # 更新README
-        echo -e "# IPTV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](LITV.m3u)（标准IPTV格式）\n- [TXT播放列表](LITV.txt)（格式：频道名称,直播源URL）" > README.md
+        echo -e "# IPTV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（标准IPTV格式）\n- [TXT播放列表](IPTV.txt)（格式：频道名称,直播源URL）" > README.md
 
     - name: Commit Changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add LITV.m3u LITV.txt README.md
+        git add IPTV.m3u IPTV.txt README.md
         git commit -m "${{ steps.date.outputs.date }}"
 
     - name: Push Update
