@@ -1,4 +1,4 @@
-name: LITV.Update
+name: LITV Update
 
 on:
   workflow_dispatch:
@@ -24,7 +24,7 @@ jobs:
     - name: Update Files
       run: |
         # 下载基础源文件
-        wget -q https://raw.githubusercontent.com/619myna/IPTV/main/qwt-a.m3u -O Base.m3u
+        wget -q https://live.catvod.com/mq.php?catvod.com=m3u -O Base.m3u
         
         # 处理央视源
         grep -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CCTV.m3u
@@ -33,7 +33,7 @@ jobs:
         grep -v -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CNTV.m3u
         
         # 生成最终M3U
-        echo '#EXTM3U x-tvg-url="https://erw.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > LITV.m3u
+        echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > LITV.m3u
         cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> LITV.m3u
         
         # 生成TXT播放列表
@@ -51,7 +51,7 @@ jobs:
         rm -f Base.m3u CCTV.m3u CNTV.m3u
 
         # 更新README
-        echo -e "# LITV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](LITV.m3u)（标准LITV格式）\n- [TXT播放列表](LITV.txt)（格式：频道名称,直播源URL）" > README.md
+        echo -e "# LITV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（IPTV.M3U）\n- [TXT播放列表](IPTV.txt)（IPTV.TXT）\n- [M3U播放列表](LITV.m3u)（LITV.M3U）\n- [TXT播放列表](LITV.txt)（LITV.TXT）" > README.md
 
     - name: Commit Changes
       run: |
