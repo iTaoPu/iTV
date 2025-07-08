@@ -464,7 +464,6 @@ async def main(file_urls, cctv_channel_file, province_channel_files):
 if __name__ == "__main__":
     # IPTV 文件 URL（您可以添加自己的文件 URL 列表）
     file_urls = [
-        "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"，
         "https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.1.txt"
     ]
 
