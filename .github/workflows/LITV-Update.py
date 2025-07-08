@@ -470,8 +470,8 @@ if __name__ == "__main__":
     province_channel_files = [
         ".github/workflows/iTV/📛4K·8K频道.txt",
         ".github/workflows/iTV/💰央视付费频道.txt",
-        ".github/workflows/iTV/🍁数字频道",
-        ".github/workflows/iTV/🍱NewTV频道",
+        ".github/workflows/iTV/🍁数字频道.txt",
+        ".github/workflows/iTV/🍱NewTV频道.txt",
         ".github/workflows/iTV/📡卫视频道.txt",
         ".github/workflows/iTV/🚃重庆频道.txt",
         ".github/workflows/iTV/🚄四川频道.txt",
