@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://erw.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV1" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/CCTV1.png" ,CCTV1
 http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV1
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV2" tvg-logo="https://vip.123pan.cn/1814643527/IPTV/logo/CCTV2.png" ,CCTV2
