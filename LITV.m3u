@@ -1345,10 +1345,6 @@ http://61.138.128.226:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid
 http://61.138.128.226:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="吉视都市" tvg-logo="https://itv.shrimp.cloudns.biz/logo/吉视都市.png" group-title="🚚吉林频道",吉视都市
 http://61.138.128.226:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三门峡新闻综合.png" group-title="🚜辽宁频道",三门峡新闻综合
-http://115.48.160.109:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东营新闻综合.png" group-title="🚜辽宁频道",东营新闻综合
-http://123.129.70.178:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建东南" tvg-logo="https://itv.shrimp.cloudns.biz/logo/福建东南.png" group-title="🚝福建频道",福建东南
 http://1.195.130.75:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建东南" tvg-logo="https://itv.shrimp.cloudns.biz/logo/福建东南.png" group-title="🚝福建频道",福建东南
@@ -1381,6 +1377,10 @@ http://101.66.194.243:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=
 http://101.66.195.130:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/浙江新闻.png" group-title="🚞浙江频道",浙江新闻
 http://101.66.199.120:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三门峡新闻综合.png" group-title="🚲上海频道",三门峡新闻综合
+http://115.48.160.109:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东营新闻综合.png" group-title="🚲上海频道",东营新闻综合
+http://123.129.70.178:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://itv.shrimp.cloudns.biz/logo/少儿动画.png" group-title="🚸少儿频道",少儿动画
 http://183.10.180.11:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://itv.shrimp.cloudns.biz/logo/少儿动画.png" group-title="🚸少儿频道",少儿动画
