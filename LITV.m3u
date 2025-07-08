@@ -1,1 +1,709 @@
 #EXTM3U x-tvg-url="https://erw.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV1.png" group-title="📺央视频道",CCTV1
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV1
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV10.png" group-title="📺央视频道",CCTV10
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV11.png" group-title="📺央视频道",CCTV11
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV12.png" group-title="📺央视频道",CCTV12
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV13.png" group-title="📺央视频道",CCTV13
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV14.png" group-title="📺央视频道",CCTV14
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV15.png" group-title="📺央视频道",CCTV15
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV16.png" group-title="📺央视频道",CCTV16
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV16.png" group-title="📺央视频道",CCTV16
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=CCTV16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV17.png" group-title="📺央视频道",CCTV17
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV17
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV2.png" group-title="📺央视频道",CCTV2
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV3.png" group-title="📺央视频道",CCTV3
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV4.png" group-title="📺央视频道",CCTV4
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=CCTV5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5+
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV5p
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV5.png" group-title="📺央视频道",CCTV5+
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=CCTV5+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV6.png" group-title="📺央视频道",CCTV6
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV7.png" group-title="📺央视频道",CCTV7
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV8.png" group-title="📺央视频道",CCTV8
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV9.png" group-title="📺央视频道",CCTV9
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CCTV9
+#EXTINF:-1 tvg-name="CCTV少儿" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CCTV少儿.png" group-title="📺央视频道",CCTV少儿
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CCTV少儿
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CETV1.png" group-title="📺央视频道",CETV1
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CETV1
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CETV2.png" group-title="📺央视频道",CETV2
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CETV2
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CETV4.png" group-title="📺央视频道",CETV4
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=CETV4
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CGTN.png" group-title="📺央视频道",CGTN
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CGTN英语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CGTN俄语.png" group-title="📺央视频道",CGTN俄语
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CGTN俄语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CGTN法语.png" group-title="📺央视频道",CGTN法语
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CGTN法语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CGTN西语.png" group-title="📺央视频道",CGTN西语
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CGTN西语
+#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CGTN记录.png" group-title="📺央视频道",CGTN记录
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CGTN记录
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CGTN阿语.png" group-title="📺央视频道",CGTN阿语
+http://api.mytv666.top/api/qwt.php?t=央视频道&id=CGTN阿语
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=东南卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=东方卫视
+#EXTINF:-1 tvg-name="东森美洲卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东森美洲卫视.png" group-title="📡卫视频道",东森美洲卫视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲卫视
+#EXTINF:-1 tvg-name="东风卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东风卫视.png" group-title="📡卫视频道",东风卫视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东风卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=内蒙古卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=北京卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=吉林卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=四川卫视
+#EXTINF:-1 tvg-name="国兴卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/国兴卫视.png" group-title="📡卫视频道",国兴卫视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=国兴卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/大湾区卫视.png" group-title="📡卫视频道",大湾区卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=大湾区卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/天津卫视.png" group-title="📡卫视频道",天津卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=天津卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=宁夏卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/安徽卫视.png" group-title="📡卫视频道",安徽卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=安徽卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山东卫视.png" group-title="📡卫视频道",山东卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=山东卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=山西卫视
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=广东卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=广西卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新疆卫视.png" group-title="📡卫视频道",新疆卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=新疆卫视
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/星空卫视.png" group-title="📡卫视频道",星空卫视
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=星空卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=江苏卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=江西卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=河北卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=河南卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=浙江卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=海南卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=深圳卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=湖北卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=湖南卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=甘肃卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=贵州卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=辽宁卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=重庆卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=陕西卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=青海卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://api.mytv666.top/api/qwt.php?t=卫视频道&id=黑龙江卫视
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://itv.shrimp.cloudns.biz/logo/优漫卡通.png" group-title="🍁数字频道",优漫卡通
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=优漫卡通
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://itv.shrimp.cloudns.biz/logo/卡酷少儿.png" group-title="🍁数字频道",卡酷少儿
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=卡酷少儿
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://itv.shrimp.cloudns.biz/logo/哈哈炫动.png" group-title="🍁数字频道",哈哈炫动
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=哈哈炫动
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://itv.shrimp.cloudns.biz/logo/嘉佳卡通.png" group-title="🍁数字频道",嘉佳卡通
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=嘉佳卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://itv.shrimp.cloudns.biz/logo/金鹰卡通.png" group-title="🍁数字频道",金鹰卡通
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=金鹰卡通
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东森电影.png" group-title="🎬影视剧频道",东森电影
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=东森电影
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://itv.shrimp.cloudns.biz/logo/天映经典.png" group-title="🎬影视剧频道",天映经典
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=天映经典
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://itv.shrimp.cloudns.biz/logo/天映经典.png" group-title="🎬影视剧频道",天映经典
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映经典
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纬来电影.png" group-title="🎬影视剧频道",纬来电影
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=纬来电影
+#EXTINF:-1 tvg-name="美亚电影(国)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/美亚电影国.png" group-title="🎬影视剧频道",美亚电影(国)
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=美亚电影(国)
+#EXTINF:-1 tvg-name="美亚电影(国)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/美亚电影国.png" group-title="🎬影视剧频道",美亚电影(国)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(国)
+#EXTINF:-1 tvg-name="美亚电影(粤)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/美亚电影粤.png" group-title="🎬影视剧频道",美亚电影(粤)
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=美亚电影(粤)
+#EXTINF:-1 tvg-name="美亚电影(粤)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/美亚电影粤.png" group-title="🎬影视剧频道",美亚电影(粤)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=美亚电影(粤)
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/美亚电影台.png" group-title="🎬影视剧频道",美亚电影台
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=美亚电影台
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/美亚电影台.png" group-title="🎬影视剧频道",美亚电影台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=美亚电影台
+#EXTINF:-1 tvg-name="靖天映画台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/靖天映画台.png" group-title="🎬影视剧频道",靖天映画台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天映画台
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙华电影.png" group-title="🎬影视剧频道",龙华电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华电影
+#EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA体育1.png" group-title="🏀体育频道",ELTA体育1
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育1
+#EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA体育2.png" group-title="🏀体育频道",ELTA体育2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育2
+#EXTINF:-1 tvg-name="ELTA体育3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA体育3.png" group-title="🏀体育频道",ELTA体育3
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育3
+#EXTINF:-1 tvg-name="ELTA体育4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA体育4.png" group-title="🏀体育频道",ELTA体育4
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=ELTA体育|4|
+#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/智林体育台.png" group-title="🏀体育频道",智林体育台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=智林体育台
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纬来体育.png" group-title="🏀体育频道",纬来体育
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=纬来体育
+#EXTINF:-1 tvg-name="TVBSHD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBSHD.png" group-title="🏍️港澳台频道",TVBSHD
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSHD
+#EXTINF:-1 tvg-name="TVBSNEWS" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBSNEWS.png" group-title="🏍️港澳台频道",TVBSNEWS
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBSNEWS
+#EXTINF:-1 tvg-name="TVBSuperFree" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBSuperFree.png" group-title="🏍️港澳台频道",TVBSuperFree
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBSuperFree
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBS新闻台.png" group-title="🏍️港澳台频道",TVBS新闻台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS新闻台
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBS欢乐台.png" group-title="🏍️港澳台频道",TVBS欢乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS欢乐台
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBS精采台.png" group-title="🏍️港澳台频道",TVBS精采台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=TVBS精采台
+#EXTINF:-1 tvg-name="TVB无线新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB无线新闻台.png" group-title="🏍️港澳台频道",TVB无线新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB无线新闻台
+#EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB明珠台.png" group-title="🏍️港澳台频道",TVB明珠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB明珠台
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三立新闻台.png" group-title="🏍️港澳台频道",三立新闻台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立新闻台
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东森超视.png" group-title="🏍️港澳台频道",东森超视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森超视
+#EXTINF:-1 tvg-name="东森超视美洲" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东森超视美洲.png" group-title="🏍️港澳台频道",东森超视美洲
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森超视美洲
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中天娱乐.png" group-title="🏍️港澳台频道",中天娱乐
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天娱乐
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中天新闻.png" group-title="🏍️港澳台频道",中天新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天新闻
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中天综合.png" group-title="🏍️港澳台频道",中天综合
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中天综合
+#EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/凤凰中文台.png" group-title="🏍️港澳台频道",凤凰中文台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
+#EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/凤凰资讯台.png" group-title="🏍️港澳台频道",凤凰资讯台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
+#EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/凤凰香港台.png" group-title="🏍️港澳台频道",凤凰香港台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
+#EXTINF:-1 tvg-name="台视新闻HD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台视新闻HD.png" group-title="🏍️港澳台频道",台视新闻HD
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视新闻HD
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/寰宇新闻.png" group-title="🏍️港澳台频道",寰宇新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻
+#EXTINF:-1 tvg-name="寰宇新闻台湾" tvg-logo="https://itv.shrimp.cloudns.biz/logo/寰宇新闻台湾.png" group-title="🏍️港澳台频道",寰宇新闻台湾
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇新闻台湾
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纬来育乐.png" group-title="🏍️港澳台频道",纬来育乐
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来育乐
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/翡翠台.png" group-title="🏍️港澳台频道",翡翠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=翡翠台
+#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/黄金翡翠台.png" group-title="🏍️港澳台频道",黄金翡翠台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黄金翡翠台
+#EXTINF:-1 tvg-name="FashionBox" tvg-logo="https://itv.shrimp.cloudns.biz/logo/FashionBox.png" group-title="📛4K·8K频道",FashionBox
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=FashionBox
+#EXTINF:-1 tvg-name="CTS华视新闻资讯" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CTS华视新闻资讯.png" group-title="🛺陕西频道",CTS华视新闻资讯
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CTS华视新闻资讯
+#EXTINF:-1 tvg-name="88跑马台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/88跑马台.png" group-title="🧯樂玩公社",88跑马台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=88跑马台
+#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Astro欢喜台.png" group-title="🧯樂玩公社",Astro欢喜台
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Astro欢喜台
+#EXTINF:-1 tvg-name="CTI+中天2台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CTI中天2台.png" group-title="🧯樂玩公社",CTI+中天2台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CTI+中天2台
+#EXTINF:-1 tvg-name="HKC18台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HKC18台.png" group-title="🧯樂玩公社",HKC18台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=HKC18台
+#EXTINF:-1 tvg-name="HKC18台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HKC18台.png" group-title="🧯樂玩公社",HKC18台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HKC18台
+#EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/JET综合台.png" group-title="🧯樂玩公社",JET综合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=JET综合台
+#EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/MOMO亲子台.png" group-title="🧯樂玩公社",MOMO亲子台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=MOMO亲子台
+#EXTINF:-1 tvg-name="MyTV千禧经典台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/MyTV千禧经典台.png" group-title="🧯樂玩公社",MyTV千禧经典台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=MyTV千禧经典台
+#EXTINF:-1 tvg-name="NowSports英超1台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports英超1台.png" group-title="🧯樂玩公社",NowSports英超1台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超1台
+#EXTINF:-1 tvg-name="NowSports英超2台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports英超2台.png" group-title="🧯樂玩公社",NowSports英超2台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超2台
+#EXTINF:-1 tvg-name="NowSports英超3台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports英超3台.png" group-title="🧯樂玩公社",NowSports英超3台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超3台
+#EXTINF:-1 tvg-name="NowSports英超4台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports英超4台.png" group-title="🧯樂玩公社",NowSports英超4台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超|4|台
+#EXTINF:-1 tvg-name="NowSports英超5台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports英超5台.png" group-title="🧯樂玩公社",NowSports英超5台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超5台
+#EXTINF:-1 tvg-name="NowSports英超6台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports英超6台.png" group-title="🧯樂玩公社",NowSports英超6台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports英超6台
+#EXTINF:-1 tvg-name="Now劇集台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now劇集台.png" group-title="🧯樂玩公社",Now劇集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now新闻台.png" group-title="🧯樂玩公社",Now新闻台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now新闻台
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now星影台.png" group-title="🧯樂玩公社",Now星影台
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=Now星影台
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now星影台.png" group-title="🧯樂玩公社",Now星影台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now星影台
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now爆谷台.png" group-title="🧯樂玩公社",Now爆谷台
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=Now爆谷台
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now爆谷台.png" group-title="🧯樂玩公社",Now爆谷台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now爆谷台
+#EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now直播台.png" group-title="🧯樂玩公社",Now直播台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now直播台
+#EXTINF:-1 tvg-name="Now華劇台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now華劇台.png" group-title="🧯樂玩公社",Now華劇台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台
+#EXTINF:-1 tvg-name="Now财经台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Now财经台.png" group-title="🧯樂玩公社",Now财经台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now财经台
+#EXTINF:-1 tvg-name="Smart知识台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Smart知识台.png" group-title="🧯樂玩公社",Smart知识台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Smart知识台
+#EXTINF:-1 tvg-name="TVBDrama翡翠劇集台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBDrama翡翠劇集台.png" group-title="🧯樂玩公社",TVBDrama翡翠劇集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBDrama翡翠劇集台
+#EXTINF:-1 tvg-name="TVBE翡翠娛樂台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBE翡翠娛樂台.png" group-title="🧯樂玩公社",TVBE翡翠娛樂台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBE翡翠娛樂台
+#EXTINF:-1 tvg-name="TVBPearlDrama明珠劇集台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBPearlDrama明珠劇集台.png" group-title="🧯樂玩公社",TVBPearlDrama明珠劇集台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPearlDrama明珠劇集台
+#EXTINF:-1 tvg-name="TVB功夫台(国)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB功夫台国.png" group-title="🧯樂玩公社",TVB功夫台(国)
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=TVB功夫台(国)
+#EXTINF:-1 tvg-name="TVB功夫台(国)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB功夫台国.png" group-title="🧯樂玩公社",TVB功夫台(国)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(国)
+#EXTINF:-1 tvg-name="TVB功夫台(粤)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB功夫台粤.png" group-title="🧯樂玩公社",TVB功夫台(粤)
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=TVB功夫台(粤)
+#EXTINF:-1 tvg-name="TVB功夫台(粤)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB功夫台粤.png" group-title="🧯樂玩公社",TVB功夫台(粤)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB功夫台(粤)
+#EXTINF:-1 tvg-name="TVB生活台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB生活台.png" group-title="🧯樂玩公社",TVB生活台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB生活台
+#EXTINF:-1 tvg-name="iFun動漫台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/iFun動漫台.png" group-title="🧯樂玩公社",i-Fun動漫台
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=i-Fun動漫台
+#EXTINF:-1 tvg-name="iFun動漫台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/iFun動漫台.png" group-title="🧯樂玩公社",i-Fun動漫台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=i-Fun動漫台
+#EXTINF:-1 tvg-name="mySUPER直播足球2台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/mySUPER直播足球2台.png" group-title="🧯樂玩公社",mySUPER直播足球2台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球2台
+#EXTINF:-1 tvg-name="mySUPER直播足球3台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/mySUPER直播足球3台.png" group-title="🧯樂玩公社",mySUPER直播足球3台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球3台
+#EXTINF:-1 tvg-name="mySUPER直播足球4台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/mySUPER直播足球4台.png" group-title="🧯樂玩公社",mySUPER直播足球4台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球|4|台
+#EXTINF:-1 tvg-name="mySUPER直播足球5台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/mySUPER直播足球5台.png" group-title="🧯樂玩公社",mySUPER直播足球5台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球5台
+#EXTINF:-1 tvg-name="mySUPER直播足球6台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/mySUPER直播足球6台.png" group-title="🧯樂玩公社",mySUPER直播足球6台
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=mySUPER直播足球6台
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三立台湾台.png" group-title="🧯樂玩公社",三立台湾台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立台湾台
+#EXTINF:-1 tvg-name="三立国际台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三立国际台.png" group-title="🧯樂玩公社",三立国际台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立国际台
+#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三立戏剧台.png" group-title="🧯樂玩公社",三立戏剧台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立戏剧台
+#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三立综合台.png" group-title="🧯樂玩公社",三立综合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立综合台
+#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三立都会台.png" group-title="🧯樂玩公社",三立都会台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立都会台
+#EXTINF:-1 tvg-name="东森中国台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东森中国台.png" group-title="🧯樂玩公社",东森中国台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森中国台
+#EXTINF:-1 tvg-name="亚洲剧台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/亚洲剧台.png" group-title="🧯樂玩公社",亚洲剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲剧台
+#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/亚洲旅游台.png" group-title="🧯樂玩公社",亚洲旅游台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=亚洲旅游台
+#EXTINF:-1 tvg-name="亚洲综合娱乐台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/亚洲综合娱乐台.png" group-title="🧯樂玩公社",亚洲综合娱乐台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=亚洲综合娱乐台
+#EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/八大娱乐台.png" group-title="🧯樂玩公社",八大娱乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大娱乐台
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/八大戏剧台.png" group-title="🧯樂玩公社",八大戏剧台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大戏剧台
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/八大第一台.png" group-title="🧯樂玩公社",八大第一台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大第一台
+#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/八大精彩台.png" group-title="🧯樂玩公社",八大精彩台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大精彩台
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/八大综合台.png" group-title="🧯樂玩公社",八大综合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大综合台
+#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/公视台语台.png" group-title="🧯樂玩公社",公视台语台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视台语台
+#EXTINF:-1 tvg-name="华语剧台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/华语剧台.png" group-title="🧯樂玩公社",华语剧台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=华语剧台
+#EXTINF:-1 tvg-name="台湾Plus" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾Plus.png" group-title="🧯樂玩公社",台湾Plus
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台湾Plus
+#EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台湾戏剧.png" group-title="🧯樂玩公社",台湾戏剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台湾戏剧
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台视.png" group-title="🧯樂玩公社",台视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台视综合.png" group-title="🧯樂玩公社",台视综合
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视综合
+#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://itv.shrimp.cloudns.biz/logo/台视财经.png" group-title="🧯樂玩公社",台视财经
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=台视财经
+#EXTINF:-1 tvg-name="娱家台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/娱家台.png" group-title="🧯樂玩公社",娱家台
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=娱家台
+#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/客家电视台.png" group-title="🧯樂玩公社",客家电视台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=客家电视台
+#EXTINF:-1 tvg-name="戏曲台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/戏曲台.png" group-title="🧯樂玩公社",戏曲台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=戏曲台
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/民视台湾台.png" group-title="🧯樂玩公社",民视台湾台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视台湾台
+#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/民视影剧台.png" group-title="🧯樂玩公社",民视影剧台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视影剧台
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/民视新闻台.png" group-title="🧯樂玩公社",民视新闻台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视新闻台
+#EXTINF:-1 tvg-name="民视旅游台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/民视旅游台.png" group-title="🧯樂玩公社",民视旅游台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视旅游台
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/民视第一台.png" group-title="🧯樂玩公社",民视第一台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视第一台
+#EXTINF:-1 tvg-name="民视综艺台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/民视综艺台.png" group-title="🧯樂玩公社",民视综艺台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视综艺台
+#EXTINF:-1 tvg-name="粤语片台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/粤语片台.png" group-title="🧯樂玩公社",粤语片台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=粤语片台
+#EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/華藝MBC綜合台.png" group-title="🧯樂玩公社",華藝MBC綜合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=華藝MBC綜合台
+#EXTINF:-1 tvg-name="都会台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/都会台.png" group-title="🧯樂玩公社",都会台
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=都会台
+#EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/采昌影剧台.png" group-title="🧯樂玩公社",采昌影剧台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=采昌影剧台
+#EXTINF:-1 tvg-name="霹雳台湾台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/霹雳台湾台.png" group-title="🧯樂玩公社",霹雳台湾台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=霹雳台湾台
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/靖天卡通台.png" group-title="🧯樂玩公社",靖天卡通台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天卡通台
+#EXTINF:-1 tvg-name="靖天国际台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/靖天国际台.png" group-title="🧯樂玩公社",靖天国际台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天国际台
+#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/靖天日本台.png" group-title="🧯樂玩公社",靖天日本台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天日本台
+#EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/靖天欢乐台.png" group-title="🧯樂玩公社",靖天欢乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天欢乐台
+#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/靖天综合台.png" group-title="🧯樂玩公社",靖天综合台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天综合台
+#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/靖天育乐台.png" group-title="🧯樂玩公社",靖天育乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖天育乐台
+#EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/靖洋卡通台.png" group-title="🧯樂玩公社",靖洋卡通台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=靖洋卡通台
+#EXTINF:-1 tvg-name="韩国娱乐台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/韩国娱乐台.png" group-title="🧯樂玩公社",韩国娱乐台
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=韩国娱乐台
+#EXTINF:-1 tvg-name="黃金華劇台" tvg-logo="https://itv.shrimp.cloudns.biz/logo/黃金華劇台.png" group-title="🧯樂玩公社",黃金華劇台
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=黃金華劇台
+#EXTINF:-1 tvg-name="28AI智慧赛马" tvg-logo="https://itv.shrimp.cloudns.biz/logo/28AI智慧赛马.png" group-title="🧯樂玩公社",28AI智慧赛马
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=28AI智慧赛马
+#EXTINF:-1 tvg-name="28AI智慧赛马" tvg-logo="https://itv.shrimp.cloudns.biz/logo/28AI智慧赛马.png" group-title="🧯樂玩公社",28AI智慧赛马
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=28AI智慧赛马
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/AXN.png" group-title="🧯樂玩公社",AXN
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/AXN.png" group-title="🧯樂玩公社",AXN
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AXN
+#EXTINF:-1 tvg-name="AXN頻道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/AXN頻道.png" group-title="🧯樂玩公社",AXN頻道
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=AXN頻道
+#EXTINF:-1 tvg-name="AXN頻道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/AXN頻道.png" group-title="🧯樂玩公社",AXN頻道
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=AXN頻道
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Animax.png" group-title="🧯樂玩公社",Animax
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Animax.png" group-title="🧯樂玩公社",Animax
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Animax
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Arirang.png" group-title="🧯樂玩公社",Arirang
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Arirang
+#EXTINF:-1 tvg-name="AstroAEC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/AstroAEC.png" group-title="🧯樂玩公社",AstroAEC
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroAEC
+#EXTINF:-1 tvg-name="AstroAOD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/AstroAOD.png" group-title="🧯樂玩公社",AstroAOD
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroAOD
+#EXTINF:-1 tvg-name="AstroQJ" tvg-logo="https://itv.shrimp.cloudns.biz/logo/AstroQJ.png" group-title="🧯樂玩公社",AstroQJ
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=AstroQJ
+#EXTINF:-1 tvg-name="C18跑马" tvg-logo="https://itv.shrimp.cloudns.biz/logo/C18跑马.png" group-title="🧯樂玩公社",C18跑马
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=C18跑马
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CINEMAX.png" group-title="🧯樂玩公社",CINEMAX
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=CINEMAX
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://itv.shrimp.cloudns.biz/logo/CINEMAX.png" group-title="🧯樂玩公社",CINEMAX
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=CINEMAX
+#EXTINF:-1 tvg-name="DreamWorks" tvg-logo="https://itv.shrimp.cloudns.biz/logo/DreamWorks.png" group-title="🧯樂玩公社",DreamWorks
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=DreamWorks
+#EXTINF:-1 tvg-name="EBS" tvg-logo="https://itv.shrimp.cloudns.biz/logo/EBS.png" group-title="🧯樂玩公社",EBS
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=EBS
+#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA娱乐.png" group-title="🧯樂玩公社",ELTA娱乐
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA娱乐
+#EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA影剧.png" group-title="🧯樂玩公社",ELTA影剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA影剧
+#EXTINF:-1 tvg-name="ELTA日韩" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA日韩.png" group-title="🧯樂玩公社",ELTA日韩
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA日韩
+#EXTINF:-1 tvg-name="ELTA生活旅游" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA生活旅游.png" group-title="🧯樂玩公社",ELTA生活旅游
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA生活旅游
+#EXTINF:-1 tvg-name="ELTA综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ELTA综合.png" group-title="🧯樂玩公社",ELTA综合
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=ELTA综合
+#EXTINF:-1 tvg-name="EYETV戏剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/EYETV戏剧.png" group-title="🧯樂玩公社",EYETV戏剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=EYETV戏剧
+#EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://itv.shrimp.cloudns.biz/logo/EYETV旅游.png" group-title="🧯樂玩公社",EYETV旅游
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=EYETV旅游
+#EXTINF:-1 tvg-name="GinxTV电竞频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/GinxTV电竞频道.png" group-title="🧯樂玩公社",GinxTV电竞频道
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=GinxTV电竞频道
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBO.png" group-title="🧯樂玩公社",HBO
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBOHD.png" group-title="🧯樂玩公社",HBOHD
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=HBOHD
+#EXTINF:-1 tvg-name="HBOHD" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBOHD.png" group-title="🧯樂玩公社",HBOHD
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBOHD
+#EXTINF:-1 tvg-name="HBO原创" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBO原创.png" group-title="🧯樂玩公社",HBO原创
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=HBO原创
+#EXTINF:-1 tvg-name="HBO原创" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBO原创.png" group-title="🧯樂玩公社",HBO原创
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO原创
+#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBO家庭.png" group-title="🧯樂玩公社",HBO家庭
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=HBO家庭
+#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBO家庭.png" group-title="🧯樂玩公社",HBO家庭
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO家庭
+#EXTINF:-1 tvg-name="HBO强档" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBO强档.png" group-title="🧯樂玩公社",HBO强档
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=HBO强档
+#EXTINF:-1 tvg-name="HBO强档" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HBO强档.png" group-title="🧯樂玩公社",HBO强档
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=HBO强档
+#EXTINF:-1 tvg-name="HOY76" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HOY76.png" group-title="🧯樂玩公社",HOY76
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY76
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HOY77.png" group-title="🧯樂玩公社",HOY77
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY77
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HOY78.png" group-title="🧯樂玩公社",HOY78
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HOY78
+#EXTINF:-1 tvg-name="HandsUP" tvg-logo="https://itv.shrimp.cloudns.biz/logo/HandsUP.png" group-title="🧯樂玩公社",HandsUP
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=HandsUP
+#EXTINF:-1 tvg-name="History" tvg-logo="https://itv.shrimp.cloudns.biz/logo/History.png" group-title="🧯樂玩公社",History
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=History
+#EXTINF:-1 tvg-name="InetTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/InetTV.png" group-title="🧯樂玩公社",InetTV
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=InetTV
+#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/JTBC.png" group-title="🧯樂玩公社",JTBC
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=JTBC
+#EXTINF:-1 tvg-name="JTBCGOLF" tvg-logo="https://itv.shrimp.cloudns.biz/logo/JTBCGOLF.png" group-title="🧯樂玩公社",JTBCGOLF
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=JTBCGOLF
+#EXTINF:-1 tvg-name="KBS1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/KBS1.png" group-title="🧯樂玩公社",KBS1
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=KBS1
+#EXTINF:-1 tvg-name="KBS2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/KBS2.png" group-title="🧯樂玩公社",KBS2
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=KBS2
+#EXTINF:-1 tvg-name="KBSDrama" tvg-logo="https://itv.shrimp.cloudns.biz/logo/KBSDrama.png" group-title="🧯樂玩公社",KBSDrama
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=KBSDrama
+#EXTINF:-1 tvg-name="Kix" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Kix.png" group-title="🧯樂玩公社",Kix
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=Kix
+#EXTINF:-1 tvg-name="Kix" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Kix.png" group-title="🧯樂玩公社",Kix
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Kix
+#EXTINF:-1 tvg-name="LIVE三立" tvg-logo="https://itv.shrimp.cloudns.biz/logo/LIVE三立.png" group-title="🧯樂玩公社",LIVE三立
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=LIVE三立
+#EXTINF:-1 tvg-name="LUXETV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/LUXETV.png" group-title="🧯樂玩公社",LUXETV
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=LUXETV
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/MBC.png" group-title="🧯樂玩公社",MBC
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=MBC
+#EXTINF:-1 tvg-name="MBN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/MBN.png" group-title="🧯樂玩公社",MBN
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=MBN
+#EXTINF:-1 tvg-name="MTV音乐频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/MTV音乐频道.png" group-title="🧯樂玩公社",MTV音乐频道
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=MTV音乐频道
+#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Mnet.png" group-title="🧯樂玩公社",Mnet
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Mnet
+#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NBATV.png" group-title="🧯樂玩公社",NBATV
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NBATV
+#EXTINF:-1 tvg-name="NickJr儿童频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NickJr儿童频道.png" group-title="🧯樂玩公社",NickJr儿童频道
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=NickJr儿童频道
+#EXTINF:-1 tvg-name="NickJr儿童频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NickJr儿童频道.png" group-title="🧯樂玩公社",NickJr儿童频道
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=NickJr儿童频道
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Nickelodeon.png" group-title="🧯樂玩公社",Nickelodeon
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Nickelodeon.png" group-title="🧯樂玩公社",Nickelodeon
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Nickelodeon
+#EXTINF:-1 tvg-name="NowJelli紫金国际" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowJelli紫金国际.png" group-title="🧯樂玩公社",NowJelli紫金国际
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=NowJelli紫金国际
+#EXTINF:-1 tvg-name="NowSports1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports1.png" group-title="🧯樂玩公社",NowSports1
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports1
+#EXTINF:-1 tvg-name="NowSports2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports2.png" group-title="🧯樂玩公社",NowSports2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports2
+#EXTINF:-1 tvg-name="NowSports3" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports3.png" group-title="🧯樂玩公社",NowSports3
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports3
+#EXTINF:-1 tvg-name="NowSports4" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports4.png" group-title="🧯樂玩公社",NowSports4
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports|4|
+#EXTINF:-1 tvg-name="NowSports5" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports5.png" group-title="🧯樂玩公社",NowSports5
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports5
+#EXTINF:-1 tvg-name="NowSports6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports6.png" group-title="🧯樂玩公社",NowSports6
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports6
+#EXTINF:-1 tvg-name="NowSports7" tvg-logo="https://itv.shrimp.cloudns.biz/logo/NowSports7.png" group-title="🧯樂玩公社",NowSports7
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=NowSports7
+#EXTINF:-1 tvg-name="OCN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/OCN.png" group-title="🧯樂玩公社",OCN
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=OCN
+#EXTINF:-1 tvg-name="POPC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/POPC.png" group-title="🧯樂玩公社",POPC
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=POPC
+#EXTINF:-1 tvg-name="POPC" tvg-logo="https://itv.shrimp.cloudns.biz/logo/POPC.png" group-title="🧯樂玩公社",POPC
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=POPC
+#EXTINF:-1 tvg-name="ROCK综艺娱乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ROCK综艺娱乐.png" group-title="🧯樂玩公社",ROCK综艺娱乐
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=ROCK综艺娱乐
+#EXTINF:-1 tvg-name="ROCK综艺娱乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ROCK综艺娱乐.png" group-title="🧯樂玩公社",ROCK综艺娱乐
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ROCK综艺娱乐
+#EXTINF:-1 tvg-name="ROCK超级娱乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ROCK超级娱乐.png" group-title="🧯樂玩公社",ROCK超级娱乐
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=ROCK超级娱乐
+#EXTINF:-1 tvg-name="ROCK超级娱乐" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ROCK超级娱乐.png" group-title="🧯樂玩公社",ROCK超级娱乐
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ROCK超级娱乐
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://itv.shrimp.cloudns.biz/logo/RTHK31.png" group-title="🧯樂玩公社",RTHK31
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK31
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://itv.shrimp.cloudns.biz/logo/RTHK32.png" group-title="🧯樂玩公社",RTHK32
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=RTHK32
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://itv.shrimp.cloudns.biz/logo/SBS.png" group-title="🧯樂玩公社",SBS
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=SBS
+#EXTINF:-1 tvg-name="SBSBiz" tvg-logo="https://itv.shrimp.cloudns.biz/logo/SBSBiz.png" group-title="🧯樂玩公社",SBSBiz
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=SBSBiz
+#EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/SPOTV.png" group-title="🧯樂玩公社",SPOTV
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=SPOTV
+#EXTINF:-1 tvg-name="TRACESportStars" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TRACESportStars.png" group-title="🧯樂玩公社",TRACESportStars
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=TRACESportStars
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB1.png" group-title="🧯樂玩公社",TVB1
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB1
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBJ1.png" group-title="🧯樂玩公社",TVBJ1
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBJ1
+#EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVBPlus.png" group-title="🧯樂玩公社",TVBPlus
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPlus
+#EXTINF:-1 tvg-name="TVB千禧经典" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB千禧经典.png" group-title="🧯樂玩公社",TVB千禧经典
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB千禧经典
+#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB娱乐新闻.png" group-title="🧯樂玩公社",TVB娱乐新闻
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB娱乐新闻
+#EXTINF:-1 tvg-name="TVB星河频道(国)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB星河频道国.png" group-title="🧯樂玩公社",TVB星河频道(国)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(国)
+#EXTINF:-1 tvg-name="TVB星河频道(粤)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/TVB星河频道粤.png" group-title="🧯樂玩公社",TVB星河频道(粤)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB星河频道(粤)
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Thrill.png" group-title="🧯樂玩公社",Thrill
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Thrill
+#EXTINF:-1 tvg-name="Thrill惊悚" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Thrill惊悚.png" group-title="🧯樂玩公社",Thrill惊悚
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=Thrill惊悚
+#EXTINF:-1 tvg-name="Thrill惊悚" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Thrill惊悚.png" group-title="🧯樂玩公社",Thrill惊悚
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Thrill惊悚
+#EXTINF:-1 tvg-name="Tooniverse" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Tooniverse.png" group-title="🧯樂玩公社",Tooniverse
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=Tooniverse
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ViuTV.png" group-title="🧯樂玩公社",ViuTV
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV
+#EXTINF:-1 tvg-name="ViuTV6" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ViuTV6.png" group-title="🧯樂玩公社",ViuTV6
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=ViuTV6
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/YTN.png" group-title="🧯樂玩公社",YTN
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=YTN
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ZooMoo.png" group-title="🧯樂玩公社",ZooMoo
+http://api.mytv666.top/api/qwt.php?t=少儿频道&id=ZooMoo
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://itv.shrimp.cloudns.biz/logo/ZooMoo.png" group-title="🧯樂玩公社",ZooMoo
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=ZooMoo
+#EXTINF:-1 tvg-name="Z频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/Z频道.png" group-title="🧯樂玩公社",Z频道
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=Z频道
+#EXTINF:-1 tvg-name="amc最爱电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/amc最爱电影.png" group-title="🧯樂玩公社",amc最爱电影
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=amc最爱电影
+#EXTINF:-1 tvg-name="amc最爱电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/amc最爱电影.png" group-title="🧯樂玩公社",amc最爱电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=amc最爱电影
+#EXTINF:-1 tvg-name="tVN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/tVN.png" group-title="🧯樂玩公社",tVN
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=tVN
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/tvN.png" group-title="🧯樂玩公社",tvN
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=tvN
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://itv.shrimp.cloudns.biz/logo/tvN.png" group-title="🧯樂玩公社",tvN
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=tvN
+#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三立iNEWS.png" group-title="🧯樂玩公社",三立iNEWS
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=三立iNEWS
+#EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东森幼幼.png" group-title="🧯樂玩公社",东森幼幼
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森幼幼
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东森洋片.png" group-title="🧯樂玩公社",东森洋片
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=东森洋片
+#EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东森美洲.png" group-title="🧯樂玩公社",东森美洲
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=东森美洲
+#EXTINF:-1 tvg-name="中国电影频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国电影频道.png" group-title="🧯樂玩公社",中国电影频道
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=中国电影频道
+#EXTINF:-1 tvg-name="中国电影频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中国电影频道.png" group-title="🧯樂玩公社",中国电影频道
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=中国电影频道
+#EXTINF:-1 tvg-name="中旺电视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中旺电视.png" group-title="🧯樂玩公社",中旺电视
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=中旺电视
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中视.png" group-title="🧯樂玩公社",中视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中视新闻.png" group-title="🧯樂玩公社",中视新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视新闻
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://itv.shrimp.cloudns.biz/logo/中视经典.png" group-title="🧯樂玩公社",中视经典
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视经典
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/公视.png" group-title="🧯樂玩公社",公视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/公视戏剧.png" group-title="🧯樂玩公社",公视戏剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视戏剧
+#EXTINF:-1 tvg-name="公视新闻网" tvg-logo="https://itv.shrimp.cloudns.biz/logo/公视新闻网.png" group-title="🧯樂玩公社",公视新闻网
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=公视新闻网
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://itv.shrimp.cloudns.biz/logo/动物星球.png" group-title="🧯樂玩公社",动物星球
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=动物星球
+#EXTINF:-1 tvg-name="华纳电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/华纳电影.png" group-title="🧯樂玩公社",华纳电影
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=华纳电影
+#EXTINF:-1 tvg-name="华纳电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/华纳电影.png" group-title="🧯樂玩公社",华纳电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=华纳电影
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/华视.png" group-title="🧯樂玩公社",华视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=华视
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://itv.shrimp.cloudns.biz/logo/博斯无限.png" group-title="🧯樂玩公社",博斯无限
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯无限
+#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/博斯无限2.png" group-title="🧯樂玩公社",博斯无限2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯无限2
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://itv.shrimp.cloudns.biz/logo/博斯网球.png" group-title="🧯樂玩公社",博斯网球
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯网球
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/博斯运动1.png" group-title="🧯樂玩公社",博斯运动1
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯运动1
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/博斯运动2.png" group-title="🧯樂玩公社",博斯运动2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯运动2
+#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/博斯高球1.png" group-title="🧯樂玩公社",博斯高球1
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯高球1
+#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/博斯高球2.png" group-title="🧯樂玩公社",博斯高球2
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯高球2
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://itv.shrimp.cloudns.biz/logo/博斯魅力.png" group-title="🧯樂玩公社",博斯魅力
+http://api.mytv666.top/api/qwt.php?t=体育频道&id=博斯魅力
+#EXTINF:-1 tvg-name="原住民频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/原住民频道.png" group-title="🧯樂玩公社",原住民频道
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=原住民频道
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://itv.shrimp.cloudns.biz/logo/国家地理.png" group-title="🧯樂玩公社",国家地理
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=国家地理
+#EXTINF:-1 tvg-name="城市电视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/城市电视.png" group-title="🧯樂玩公社",城市电视
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=城市电视
+#EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/壹新闻.png" group-title="🧯樂玩公社",壹新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹新闻
+#EXTINF:-1 tvg-name="壹电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/壹电影.png" group-title="🧯樂玩公社",壹电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=壹电影
+#EXTINF:-1 tvg-name="天映频道(国)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/天映频道国.png" group-title="🧯樂玩公社",天映频道(国)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(国)
+#EXTINF:-1 tvg-name="天映频道(粤)" tvg-logo="https://itv.shrimp.cloudns.biz/logo/天映频道粤.png" group-title="🧯樂玩公社",天映频道(粤)
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=天映频道(粤)
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/好莱坞电影.png" group-title="🧯樂玩公社",好莱坞电影
+http://api.mytv666.top/api/qwt.php?t=影视频道&id=好莱坞电影
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/好莱坞电影.png" group-title="🧯樂玩公社",好莱坞电影
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=好莱坞电影
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://itv.shrimp.cloudns.biz/logo/寰宇财经.png" group-title="🧯樂玩公社",寰宇财经
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=寰宇财经
+#EXTINF:-1 tvg-name="小公视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/小公视.png" group-title="🧯樂玩公社",小公视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=小公视
+#EXTINF:-1 tvg-name="年代Much" tvg-logo="https://itv.shrimp.cloudns.biz/logo/年代Much.png" group-title="🧯樂玩公社",年代Much
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代Much
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/年代新闻.png" group-title="🧯樂玩公社",年代新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=年代新闻
+#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://itv.shrimp.cloudns.biz/logo/探索频道.png" group-title="🧯樂玩公社",探索频道
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=探索频道
+#EXTINF:-1 tvg-name="新时代1" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新时代1.png" group-title="🧯樂玩公社",新时代1
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代1
+#EXTINF:-1 tvg-name="新时代2" tvg-logo="https://itv.shrimp.cloudns.biz/logo/新时代2.png" group-title="🧯樂玩公社",新时代2
+http://api.mytv666.top/api/qwt.php?t=国外频道&id=新时代2
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://itv.shrimp.cloudns.biz/logo/民视.png" group-title="🧯樂玩公社",民视
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=民视
+#EXTINF:-1 tvg-name="猪哥亮歌厅秀" tvg-logo="https://itv.shrimp.cloudns.biz/logo/猪哥亮歌厅秀.png" group-title="🧯樂玩公社",猪哥亮歌厅秀
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=猪哥亮歌厅秀
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://itv.shrimp.cloudns.biz/logo/纬来日本.png" group-title="🧯樂玩公社",纬来日本
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=纬来日本
+#EXTINF:-1 tvg-name="鏡新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/鏡新闻.png" group-title="🧯樂玩公社",鏡新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=鏡新闻
+#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://itv.shrimp.cloudns.biz/logo/非凡商业.png" group-title="🧯樂玩公社",非凡商业
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡商业
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/非凡新闻.png" group-title="🧯樂玩公社",非凡新闻
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=非凡新闻
+#EXTINF:-1 tvg-name="高点综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/高点综合.png" group-title="🧯樂玩公社",高点综合
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=高点综合
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙华偶像.png" group-title="🧯樂玩公社",龙华偶像
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华偶像
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙华卡通.png" group-title="🧯樂玩公社",龙华卡通
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华卡通
+#EXTINF:-1 tvg-name="龙华影剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙华影剧.png" group-title="🧯樂玩公社",龙华影剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华影剧
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙华戏剧.png" group-title="🧯樂玩公社",龙华戏剧
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华戏剧
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙华日韩.png" group-title="🧯樂玩公社",龙华日韩
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华日韩
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙华洋片.png" group-title="🧯樂玩公社",龙华洋片
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华洋片
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙华经典.png" group-title="🧯樂玩公社",龙华经典
+http://api.mytv666.top/api/qwt.php?t=台湾频道&id=龙华经典
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://itv.shrimp.cloudns.biz/logo/龙祥电影.png" group-title="🧯樂玩公社",龙祥电影
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=龙祥电影
