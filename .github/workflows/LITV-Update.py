@@ -346,6 +346,8 @@ def generate_output_files(valid_urls, cctv_channels, province_channels, m3u_file
             "📺央视频道",
             "📡卫视频道",
             "💰央视付费频道",
+            "🍁数字频道",
+            "🍱NewTV频道",
             "🚃重庆频道",
             "🚄四川频道",
             "🚅云南频道",
@@ -458,7 +460,7 @@ async def main(file_urls, cctv_channel_file, province_channel_files):
 if __name__ == "__main__":
     # IPTV 文件 URL（您可以添加自己的文件 URL 列表）
     file_urls = [
-        "https://raw.githubusercontent.com/iTCoffe/Loong/refs/heads/lite/iTV/2025070801.txt"
+        "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
     ]
 
     # CCTV 频道文件（例如 IPTV/CCTV.txt）
@@ -468,6 +470,8 @@ if __name__ == "__main__":
     province_channel_files = [
         ".github/workflows/iTV/📛4K·8K频道.txt",
         ".github/workflows/iTV/💰央视付费频道.txt",
+        ".github/workflows/iTV/🍁数字频道",
+        ".github/workflows/iTV/🍱NewTV频道",
         ".github/workflows/iTV/📡卫视频道.txt",
         ".github/workflows/iTV/🚃重庆频道.txt",
         ".github/workflows/iTV/🚄四川频道.txt",
