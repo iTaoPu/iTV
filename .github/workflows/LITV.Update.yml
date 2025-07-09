@@ -1,4 +1,4 @@
-name: LITV Update
+name: LITV.Update
 
 on:
   workflow_dispatch:
