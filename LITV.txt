@@ -1,337 +1,203 @@
-📛4K·8K频道,#genre#
- CCTV10科教,http://live.chinacert.cftest5.cn/mgtv/624878405.m3u8
- CCTV11戏曲,http://live.chinacert.cftest5.cn/mgtv/667987558.m3u8
- CCTV12社会与法,http://live.chinacert.cftest5.cn/mgtv/673168185.m3u8
- CCTV13新闻,http://live.chinacert.cftest5.cn/mgtv/608807423.m3u8
- CCTV14少儿,http://live.chinacert.cftest5.cn/mgtv/624878440.m3u8
- CCTV15音乐,http://live.chinacert.cftest5.cn/mgtv/673168223.m3u8
- CCTV17农业农村,http://live.chinacert.cftest5.cn/mgtv/673168256.m3u8
- CCTV1综合,http://live.chinacert.cftest5.cn/mgtv/608807420.m3u8
-tvg-id="FASHIONONE" tvg-name="FASHIONONE" tvg-logo="https://epg.v1.mk/logo/FASHIONONE.png" group-title="4K频道",Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-tvg-id="LOUPE4K" tvg-name="LOUPE4K" tvg-logo="https://epg.v1.mk/logo/LOUPE4K.png" group-title="4K频道",Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="4K频道",Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="8K频道",北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 📺央视频道,#genre#
-CCTV1,http://171.118.162.149:9003/hls/1/index.m3u8
-CCTV10,http://171.118.162.149:9003/hls/11/index.m3u8
-CCTV11,http://171.118.162.149:9003/hls/12/index.m3u8
-CCTV12,http://171.118.162.149:9003/hls/13/index.m3u8
-CCTV13,http://171.118.162.149:9003/hls/14/index.m3u8
-CCTV14,http://171.118.162.149:9003/hls/15/index.m3u8
-CCTV15,http://171.118.162.149:9003/hls/16/index.m3u8
-CCTV16,http://171.118.162.149:9003/hls/17/index.m3u8
-CCTV17,http://171.118.162.149:9003/hls/18/index.m3u8
-CCTV2,http://171.118.162.149:9003/hls/2/index.m3u8
-CCTV3,http://171.118.162.149:9003/hls/3/index.m3u8
-CCTV4,http://171.118.162.149:9003/hls/4/index.m3u8
-CCTV5,http://171.118.162.149:9003/hls/5/index.m3u8
-CCTV5+,http://171.118.162.149:9003/hls/6/index.m3u8
-CCTV6,http://171.118.162.149:9003/hls/7/index.m3u8
-CCTV7,http://171.118.162.149:9003/hls/8/index.m3u8
-CCTV8,http://171.118.162.149:9003/hls/9/index.m3u8
-CCTV9,http://171.118.162.149:9003/hls/10/index.m3u8
+CCTV1,http://182.113.6.126:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://101.66.199.1:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://101.66.195.120:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://123.149.160.118:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://123.129.70.178:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://106.118.70.238:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://123.149.160.118:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://101.66.199.1:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://101.66.195.120:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10,http://123.129.70.178:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://106.118.70.238:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://101.66.199.1:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11,http://101.66.195.120:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11,http://123.149.160.118:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://123.129.70.178:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://101.66.199.1:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12,http://101.66.195.120:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12,http://123.149.160.118:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://123.129.70.178:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://106.118.70.238:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://101.66.199.1:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,http://101.66.195.120:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,http://123.149.160.118:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://106.118.70.238:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://123.149.160.118:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://101.66.199.1:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://101.66.195.120:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://106.118.70.238:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://123.149.160.118:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://101.66.199.1:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://101.66.195.120:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://101.66.199.1:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://101.66.195.120:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://182.113.6.126:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://123.149.160.118:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://106.118.70.238:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://101.66.199.1:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://101.66.195.120:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://182.113.6.126:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://123.149.160.118:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://106.118.70.238:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://123.149.160.118:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://182.113.6.126:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://101.66.199.1:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://101.66.195.120:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://123.129.70.178:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://106.118.70.238:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://123.149.160.118:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://101.66.199.1:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://101.66.195.120:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://182.113.6.126:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://123.129.70.178:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://101.66.199.1:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://101.66.195.120:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://182.113.6.126:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://123.149.160.118:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://123.129.70.178:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://106.118.70.238:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://182.113.6.126:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://101.66.199.1:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://101.66.195.120:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7,http://123.149.160.118:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://106.118.70.238:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://123.149.160.118:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://182.113.6.126:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://101.66.199.1:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8,http://101.66.195.120:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9,http://123.149.160.118:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://101.66.199.1:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9,http://101.66.195.120:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9,http://106.118.70.238:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 📡卫视频道,#genre#
- 东南卫视,http://live.chinacert.cftest5.cn/mgtv/849116810.m3u8
- 东方卫视,http://live.chinacert.cftest5.cn/mgtv/651632648.m3u8
- 吉林卫视,http://live.chinacert.cftest5.cn/mgtv/947472500.m3u8
- 大湾区卫视,http://live.chinacert.cftest5.cn/mgtv/608917627.m3u8
- 广东卫视,http://live.chinacert.cftest5.cn/mgtv/608831231.m3u8
- 江苏卫视,http://live.chinacert.cftest5.cn/mgtv/623899368.m3u8
- 江西卫视,http://live.chinacert.cftest5.cn/mgtv/783847495.m3u8
- 河南卫视,http://live.chinacert.cftest5.cn/mgtv/790187291.m3u8
- 海南卫视,http://live.chinacert.cftest5.cn/mgtv/947472502.m3u8
- 海峡卫视,http://live.chinacert.cftest5.cn/mgtv/849119120.m3u8
- 湖北卫视,http://live.chinacert.cftest5.cn/mgtv/947472496.m3u8
- 陕西卫视,http://live.chinacert.cftest5.cn/mgtv/738910838.m3u8
- 青海卫视,http://live.chinacert.cftest5.cn/mgtv/947472506.m3u8
-tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/dongnan.m3u8
-tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/dongfang.m3u8
-tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",云南卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/yunnan.m3u8
-tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视-NPTV,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/neimenggu.m3u8
-tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/beijing.m3u8
-tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/jiling.m3u8
-tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/sichuan.m3u8
-tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/tianjing.m3u8
-tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/ningxia.m3u8
-tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/anhui.m3u8
-tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/shandong.m3u8
-tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="卫视",山西卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/shanxi.m3u8
-tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="卫视",广东卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/guangdong.m3u8
-tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/guangxi.m3u8
-tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/xinjiang.m3u8
-tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/jiangsu.m3u8
-tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/jiangxi.m3u8
-tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/hebei.m3u8
-tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/henan.m3u8
-tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/zhejiang.m3u8
-tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/hainan.m3u8
-tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/shenzheng.m3u8
-tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/hubei.m3u8
-tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/hunan.m3u8
-tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/gansu.m3u8
-tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/xizang.m3u8
-tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/guizhou.m3u8
-tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/liaoning.m3u8
-tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/chongqing.m3u8
-tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="卫视",陕西卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/shanxiws.m3u8
-tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/qinghai.m3u8
-tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视-NPTV,http://live.chinacert.cftest5.cn/nptv/heilongjiang.m3u8
-东南卫视,http://171.118.162.149:9003/hls/24/index.m3u8
-东方卫视,http://171.118.162.149:9003/hls/23/index.m3u8
-云南卫视,http://171.118.162.149:9003/hls/48/index.m3u8
-兵团卫视,http://171.118.162.149:9003/hls/50/index.m3u8
-内蒙古卫视,http://171.118.162.149:9003/hls/38/index.m3u8
-北京卫视,http://171.118.162.149:9003/hls/20/index.m3u8
-吉林卫视,http://171.118.162.149:9003/hls/34/index.m3u8
-四川卫视,http://171.118.162.149:9003/hls/44/index.m3u8
-天津卫视,http://171.118.162.149:9003/hls/45/index.m3u8
-宁夏卫视,http://171.118.162.149:9003/hls/39/index.m3u8
-安徽卫视,http://171.118.162.149:9003/hls/21/index.m3u8
-山东卫视,http://171.118.162.149:9003/hls/41/index.m3u8
-山西卫视,http://171.118.162.149:9003/hls/19/index.m3u8
-广东卫视,http://171.118.162.149:9003/hls/26/index.m3u8
-广西卫视,http://171.118.162.149:9003/hls/27/index.m3u8
-新疆卫视,http://171.118.162.149:9003/hls/47/index.m3u8
-江苏卫视,http://171.118.162.149:9003/hls/35/index.m3u8
-江西卫视,http://171.118.162.149:9003/hls/36/index.m3u8
-河北卫视,http://171.118.162.149:9003/hls/29/index.m3u8
-河南卫视,http://171.118.162.149:9003/hls/30/index.m3u8
-浙江卫视,http://171.118.162.149:9003/hls/49/index.m3u8
-海南卫视,http://171.118.162.149:9003/hls/28/index.m3u8
-深圳卫视,http://171.118.162.149:9003/hls/43/index.m3u8
-湖北卫视,http://171.118.162.149:9003/hls/32/index.m3u8
-湖南卫视,http://171.118.162.149:9003/hls/33/index.m3u8
-甘肃卫视,http://171.118.162.149:9003/hls/25/index.m3u8
-西藏卫视,http://171.118.162.149:9003/hls/46/index.m3u8
-辽宁卫视,http://171.118.162.149:9003/hls/37/index.m3u8
-重庆卫视,http://171.118.162.149:9003/hls/22/index.m3u8
-陕西卫视,http://171.118.162.149:9003/hls/42/index.m3u8
-青海卫视,http://171.118.162.149:9003/hls/40/index.m3u8
-黑龙江卫视,http://171.118.162.149:9003/hls/31/index.m3u8
-💰付费频道,#genre#
- CCTV2财经,http://live.chinacert.cftest5.cn/mgtv/631780532.m3u8
- CCTV3综艺,http://live.chinacert.cftest5.cn/mgtv/624878271.m3u8
- CCTV4中文国际,http://live.chinacert.cftest5.cn/mgtv/631780421.m3u8
- CCTV4欧洲,http://live.chinacert.cftest5.cn/mgtv/608807419.m3u8
- CCTV4美洲,http://live.chinacert.cftest5.cn/mgtv/608807416.m3u8
- CCTV6电影,http://live.chinacert.cftest5.cn/mgtv/624878396.m3u8
- CCTV7国防军事,http://live.chinacert.cftest5.cn/mgtv/673168121.m3u8
- CCTV8电视剧,http://live.chinacert.cftest5.cn/mgtv/624878356.m3u8
- CCTV9纪录,http://live.chinacert.cftest5.cn/mgtv/673168140.m3u8
- 中学生,http://live.chinacert.cftest5.cn/mgtv/708869532.m3u8
- 发现之旅,http://live.chinacert.cftest5.cn/mgtv/624878970.m3u8
- 老故事,http://live.chinacert.cftest5.cn/mgtv/884121956.m3u8
-tvg-id="cctv8k" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场-NPTV,http://live.chinacert.cftest5.cn/nptv/fyjc.m3u8
-tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场-NPTV,http://live.chinacert.cftest5.cn/nptv/hjjc.m3u8
-tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场-NPTV,http://live.chinacert.cftest5.cn/nptv/dyjc.m3u8
-tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-世界地理,http://171.118.162.149:9003/hls/59/index.m3u8
-怀旧剧场,http://171.118.162.149:9003/hls/58/index.m3u8
-第一剧场,http://171.118.162.149:9003/hls/60/index.m3u8
-风云剧场,http://171.118.162.149:9003/hls/61/index.m3u8
+上海卫视,http://123.129.70.178:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://101.66.199.1:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+东南卫视,http://101.66.195.120:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://123.149.160.118:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://101.66.199.1:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://101.66.195.120:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://182.113.6.126:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://106.118.70.238:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://101.66.199.1:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://101.66.195.120:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://182.113.6.126:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://123.149.160.118:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://123.129.70.178:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://106.118.70.238:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+卫视频道,#genre#
+吉林卫视,http://101.66.199.1:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://101.66.195.120:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+吉林卫视,http://106.118.70.238:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://123.149.160.118:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://101.66.199.1:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.195.120:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://106.118.70.238:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://182.113.6.126:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://101.66.199.1:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://101.66.195.120:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.199.1:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.195.120:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://106.118.70.238:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://123.149.160.118:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://182.113.6.126:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://101.66.199.1:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.195.120:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://106.118.70.238:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://101.66.199.1:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://101.66.195.120:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://106.118.70.238:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://101.66.199.1:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://101.66.195.120:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://123.129.70.178:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://101.66.199.1:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.195.120:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+新疆卫视,http://106.118.70.238:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+旅游卫视,http://123.129.70.178:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://101.66.199.1:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://101.66.195.120:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://182.113.6.126:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://123.149.160.118:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://101.66.199.1:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.195.120:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://106.118.70.238:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://101.66.199.1:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://101.66.195.120:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://106.118.70.238:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://101.66.199.1:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://101.66.195.120:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://123.149.160.118:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://106.118.70.238:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://182.113.6.126:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://101.66.199.1:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://101.66.195.120:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://123.149.160.118:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://123.129.70.178:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://106.118.70.238:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://123.149.160.118:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://182.113.6.126:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://123.129.70.178:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://182.113.6.126:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://101.66.199.1:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://101.66.195.120:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://123.149.160.118:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://106.118.70.238:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://123.149.160.118:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://182.113.6.126:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://101.66.199.1:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://101.66.195.120:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://106.118.70.238:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://106.118.70.238:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://101.66.199.1:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://101.66.195.120:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://106.118.70.238:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://182.113.6.126:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://101.66.199.1:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://101.66.195.120:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.199.1:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.195.120:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://123.129.70.178:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://106.118.70.238:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://101.66.199.1:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://101.66.195.120:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://106.118.70.238:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://106.118.70.238:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://101.66.199.1:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://101.66.195.120:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://182.113.6.126:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://123.129.70.178:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 🍁数字频道,#genre#
- CCTV5+体育赛事,http://live.chinacert.cftest5.cn/mgtv/641886773.m3u8
- CHC动作电影,http://live.chinacert.cftest5.cn/mgtv/644368714.m3u8
- CHC家庭影院,http://live.chinacert.cftest5.cn/mgtv/644368373.m3u8
- CHC影迷电影,http://live.chinacert.cftest5.cn/mgtv/952383261.m3u8
- 上海第一财经,http://live.chinacert.cftest5.cn/mgtv/608780988.m3u8
- 优漫卡通频道,http://live.chinacert.cftest5.cn/mgtv/626064703.m3u8
- 嘉佳卡通,http://live.chinacert.cftest5.cn/mgtv/614952364.m3u8
-金鹰卡通,http://171.118.162.149:9003/hls/56/index.m3u8
-🚅云南频道,#genre#
- 徐州新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731747.m3u8
- 泰州新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731818.m3u8
-🚂江苏频道,#genre#
- 南京十八频道,http://live.chinacert.cftest5.cn/mgtv/838151753.m3u8
- 南京教科频道,http://live.chinacert.cftest5.cn/mgtv/838153729.m3u8
- 南京新闻综合频道,http://live.chinacert.cftest5.cn/mgtv/838109047.m3u8
- 江苏城市频道,http://live.chinacert.cftest5.cn/mgtv/626064714.m3u8
- 江苏影视频道,http://live.chinacert.cftest5.cn/mgtv/626064697.m3u8
- 江苏教育,http://live.chinacert.cftest5.cn/mgtv/628008321.m3u8
- 淮安新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731826.m3u8
- 连云港新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731715.m3u8
-🦽山东频道,#genre#
-tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",中国教育电视台-NPTV,http://live.chinacert.cftest5.cn/nptv/cetv1.m3u8
-🦼山西频道,#genre#
- 盐城新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731825.m3u8
-🚲上海频道,#genre#
- 上海新闻综合,http://live.chinacert.cftest5.cn/mgtv/651632657.m3u8
- 上视东方影视,http://live.chinacert.cftest5.cn/mgtv/617290047.m3u8
-🛹新疆频道,#genre#
- 宿迁新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731832.m3u8
+嘉佳卡通,http://123.149.160.118:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://101.66.199.1:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.195.120:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://106.118.70.238:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+🚒河北频道,#genre#
+唐山新闻,http://106.118.70.238:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+河北农民,http://106.118.70.238:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河北影视,http://106.118.70.238:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河北经济,http://106.118.70.238:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+河北都市,http://106.118.70.238:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+滦南电视,http://106.118.70.238:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+滦州电视,http://106.118.70.238:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+🚓河南频道,#genre#
+河南公共,http://123.149.160.118:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻,http://123.149.160.118:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生,http://123.149.160.118:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法制,http://123.149.160.118:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧,http://123.149.160.118:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市,http://123.149.160.118:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 🚞浙江频道,#genre#
- 公共新闻频道,http://live.chinacert.cftest5.cn/mgtv/626064693.m3u8
-🎥咪咕视频,#genre#
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-1,http://live.chinacert.cftest5.cn/itv/3000000001000005308.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-10,http://live.chinacert.cftest5.cn/itv/3000000001000031494.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-11,http://live.chinacert.cftest5.cn/itv/3000000010000005837.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-12,http://live.chinacert.cftest5.cn/itv/3000000020000011518.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-13,http://live.chinacert.cftest5.cn/itv/3000000020000011519.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-14,http://live.chinacert.cftest5.cn/itv/3000000020000011520.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-15,http://live.chinacert.cftest5.cn/itv/3000000020000011521.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-16,http://live.chinacert.cftest5.cn/itv/3000000020000011522.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-17,http://live.chinacert.cftest5.cn/itv/3000000020000011523.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-18,http://live.chinacert.cftest5.cn/itv/3000000020000011524.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-19,http://live.chinacert.cftest5.cn/itv/3000000020000011525.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-2,http://live.chinacert.cftest5.cn/itv/3000000001000005969.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-20,http://live.chinacert.cftest5.cn/itv/3000000020000011528.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-21,http://live.chinacert.cftest5.cn/itv/3000000020000011529.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-22,http://live.chinacert.cftest5.cn/itv/3000000020000011530.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-23,http://live.chinacert.cftest5.cn/itv/3000000020000011531.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-24,http://live.chinacert.cftest5.cn/itv/3000000010000000097.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-25,http://live.chinacert.cftest5.cn/itv/3000000010000002019.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-26,http://live.chinacert.cftest5.cn/itv/3000000010000002809.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-27,http://live.chinacert.cftest5.cn/itv/3000000010000003915.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-28,http://live.chinacert.cftest5.cn/itv/3000000010000004193.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-29,http://live.chinacert.cftest5.cn/itv/3000000010000006077.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-3,http://live.chinacert.cftest5.cn/itv/3000000001000007218.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-30,http://live.chinacert.cftest5.cn/itv/3000000010000006658.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-31,http://live.chinacert.cftest5.cn/itv/3000000010000009788.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-32,http://live.chinacert.cftest5.cn/itv/3000000010000010833.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-33,http://live.chinacert.cftest5.cn/itv/3000000010000011297.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-34,http://live.chinacert.cftest5.cn/itv/3000000010000011518.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-35,http://live.chinacert.cftest5.cn/itv/3000000010000012558.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-36,http://live.chinacert.cftest5.cn/itv/3000000010000012616.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-37,http://live.chinacert.cftest5.cn/itv/3000000010000015470.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-38,http://live.chinacert.cftest5.cn/itv/3000000010000015560.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-39,http://live.chinacert.cftest5.cn/itv/3000000010000017678.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-4,http://live.chinacert.cftest5.cn/itv/3000000001000008001.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-40,http://live.chinacert.cftest5.cn/itv/3000000010000019839.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-41,http://live.chinacert.cftest5.cn/itv/3000000010000021904.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-42,http://live.chinacert.cftest5.cn/itv/3000000010000023434.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-43,http://live.chinacert.cftest5.cn/itv/3000000010000025380.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-44,http://live.chinacert.cftest5.cn/itv/3000000010000027691.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-45,http://live.chinacert.cftest5.cn/itv/3000000010000031669.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-5,http://live.chinacert.cftest5.cn/itv/3000000001000008176.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-6,http://live.chinacert.cftest5.cn/itv/3000000001000008379.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-7,http://live.chinacert.cftest5.cn/itv/3000000001000010129.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-8,http://live.chinacert.cftest5.cn/itv/3000000001000010948.m3u8?cdn=FifastbLive
-tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-9,http://live.chinacert.cftest5.cn/itv/3000000001000028638.m3u8?cdn=FifastbLive
-🏀体育频道,#genre#
- CCTV5体育,http://live.chinacert.cftest5.cn/mgtv/641886683.m3u8
- 体育休闲频道,http://live.chinacert.cftest5.cn/mgtv/626064707.m3u8
- 咪咕24小时体育台,http://live.chinacert.cftest5.cn/mgtv/654102378.m3u8
-虎牙 JJ斗地主,https://live.chinacert.cftest5.cn/huya/14079954
-虎牙 JJ斗地主-副房间,https://live.chinacert.cftest5.cn/huya/23695493
-虎牙 JJ斗地主-轮播,https://live.chinacert.cftest5.cn/huya/jjworld
-🪁动漫频道,#genre#
-斗鱼 海绵宝宝,https://live.chinacert.cftest5.cn/douyu/12400977
-虎牙 蜡笔小新,https://live.chinacert.cftest5.cn/huya/30362138
-虎牙 蜡笔小新-2,https://live.chinacert.cftest5.cn/huya/29862625
+杭州影视,http://101.66.199.1:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+杭州影视,http://101.66.195.120:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.199.1:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江新闻,http://101.66.195.120:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 🧯樂玩公社,#genre#
- 07/08 18:14_东亚杯_日本 vs 中国香港_审片后清流,https://www.freetv.top/migu/956037611.m3u8?migutoken=a75adfe93dceebda3346efb993cba5ec709e9546c5da78ddc5da0b129f7425e9f0dd7feeb461845b2d97731a4c1732c83c2db7add13d47485a8aaf742fb9b93e9fa81e83a4016f79a3de4dd560
- 07/08 18:14_东亚杯_日本 vs 中国香港_张昊泽,https://www.freetv.top/migu/956013509.m3u8?migutoken=ef58820ef10f08b94370a49dc0c55277e5159d3bce0aae68f117d22ccfd805c553345332f0af3d7c90de7fbef4c09d69dfd035f6a8982a8cfaaf3b1f9be617c561eff46700b828eec93ce09216
- 07/08 19:00_激战前夜UFC中国赛特辑第7期：UFC上海站出战选手胜场回顾_激战前夜UFC中国赛特辑第7期：UFC上海站出战选手胜场回顾_王琰博,https://www.freetv.top/migu/955978240.m3u8?migutoken=f7ed28a4b78ed494091f90c7a153b705013e8daa850364dcc9104e8e5331b8888814bf15d6e3cce49a53be7d9d621c6bd451eb151fa58abc0f285085cb5329b210a17cd8590d0e3c23c59f3615
- 07/08 19:15_中国女篮系列热身赛_中国vs澳大利亚_吕程 赵爽,https://www.freetv.top/migu/955893844.m3u8?migutoken=b397e655b13e53499b3cc67e07e24d45d944af5b4fc895af954816c5acc4f125b46e043d05aabe3efdb2078efef03c20a9ee3adeb93a0376191dc3ab7f2ca404edfbc97292d70984694c71dfdf
- 07/08 19:15_中国女篮系列热身赛_中国vs澳大利亚_清流播出,https://www.freetv.top/migu/955893378.m3u8?migutoken=f990180ca77f2539c891154e47ec1b0c0ec55f2c44495122e28458a88aba0eb533425f793c0e0b36f2ecd95b7e01eb38280efaf4a8867ddc634562598c853909a38471ac0e43b5e797ca54faac
- 07/08 19:20_NBL_合肥狂风峻茂vs长沙勇胜_解说,https://www.freetv.top/migu/955607665.m3u8?migutoken=552d72ca6ad26a088916075e0704cb00df245b03d222d56bdf9ebe5b341f5c50ec851ea63e479baa4feef8bd5f1017bf7819826c1a6912f0b83cf741711fe3bab60fd0c86b49e0c36f7100b1da
- 07/08 19:20_NBL_合肥狂风峻茂vs长沙勇胜_赛场原声,https://www.freetv.top/migu/955607638.m3u8?migutoken=4eb39451b2e01bcb55362dcedf13237e80a8317fd95b7c32d129dc44e55eaefa898254d27c935841b26a2ea9ea63c53c33741fd4519fabad6c8079d9c459c702eee650a28043b7adf5df4fae39
- 07/08 19:20_NBL_湖北文旅93-100江西鲸裕清酒_解说,https://www.freetv.top/migu/955607720.m3u8?migutoken=cc18c3293b703f12b03e40b59bf46640d0c546e7f67d8b35a03b552ac8a86feae7faf46adf5bccd766eefc8ba8408a1f070f2c3e4e27da93d5580a9c0e0dcdfcf82882ba2b67e903d40cf36085
- 07/08 19:20_NBL_湖北文旅93-100江西鲸裕清酒_赛场原声,https://www.freetv.top/migu/955607686.m3u8?migutoken=c2e6ccbfb94c1ee504a4228fd5456cc173750318270ef4859053cf5e0171e95974ef6acf19fd2f7b50f90cb3891b6809865ddde1cb58311f3f652f0dc0a9a548c1ffac71bcb309d6ee8cb54f6b
- 07/08 19:20_NBL_石家庄翔蓝116-108广西威壮_解说,https://www.freetv.top/migu/955607680.m3u8?migutoken=dceda8e7db153358305ecbd1ebab4f79e4c88255c6ea25d036ce5e1bd049dc61f5a9aeb75732431ede8d940715df294e5dfec6779fb4c486d5a56d9e3a5930295ea3b44b9b8ce87e4565cee65c
- 07/08 19:20_NBL_石家庄翔蓝116-108广西威壮_赛场原声,https://www.freetv.top/migu/955607673.m3u8?migutoken=9b22a6bb957ce3cbeebe3b58ab083756446e728416da023728ec0ab76d396978636e3884e1536c5c1ec8bb2801668aecbc753523e9344bb4b401f24f595e0feca7005231e3b67a64ac507ff472
- 07/08 20:00_WTT美国大满贯：比赛日_WTT美国大满贯：比赛日_程靖淇 周雨 侯英超,https://www.freetv.top/migu/955793411.m3u8?migutoken=ec22541817cbd676c354b14b3d8ee481e95c27324bd8c9db38e361774e68c8cf59b487a72fc3be656dc8fb8a2573a1a072d2adc7c68561d63533aa78ddea3492458c9628a6ae6259b48dbee5b1
- 07/09 02:00_世俱杯半决赛_弗卢米嫩塞 vs 切尔西_娄一晨 刘越 郎鹤炎,https://www.freetv.top/migu/956037834.m3u8?migutoken=de5af7b10a235aff7dc57f704eb5fa08393256b0afcae29fdecd5f62a010e88dbb17cc6e25db30c20f305ed7f4e9da69c8e63248bb014df4a8504d9ebea3dc6d592de98fda2190cd52a9975ad7
- 07/09 02:00_世俱杯半决赛_弗卢米嫩塞 vs 切尔西_娄一晨 刘越 郎鹤炎,https://www.freetv.top/migu/956037737.m3u8?migutoken=e3447cfdf0ab69f2d47761dd93bd46cc2f24369132b40c5b3a0bc168217a47aff05d7a749baffa03cc42530b71ff6dd302ddb9897c1407eaf84fc738d9ace0a527a669dad9d0c16a171149da88
- 07/09 02:45_世俱杯半决赛_弗卢米嫩塞 vs 切尔西_江忠德,https://www.freetv.top/migu/956037795.m3u8?migutoken=83500b6bdb4024ed988dca81834d0cd45ccc962ae838404c3f045c7d5ace51ee6dcf77b855613a7825faac6762d940b89873cd597accfeb92190e1abc9bf606a4419551dc4241a91d3bb7033cf
- 07/09 02:45_世俱杯半决赛_弗卢米嫩塞 vs 切尔西_洪荒,https://www.freetv.top/migu/956037716.m3u8?migutoken=16b0a7b3bff38013d353771d14b3bcd80a10ccfe2fb23cb1b6e114b4bde280f9e8de6347ab1a22cc853e11f3fc089289092f6708dedac89e7320859c5709660fba264d14465e8fa22f13fec3e2
- 07/09 02:45_世俱杯半决赛_弗卢米嫩塞 vs 切尔西_赛场原声,https://www.freetv.top/migu/956037359.m3u8?migutoken=f4895ee50d07908fc8884d4b5863f5efa23aeb3387b6767184c969a7981c0d541bad383b2b0746412d74daa7ed3fbe501fda4c2199aab41ce0204eb19267d4c7d2c3dba379f2e401f7af727e57
- 07/09 02:45_世俱杯半决赛_弗卢米嫩塞 vs 切尔西_陈渤胄,https://www.freetv.top/migu/956037496.m3u8?migutoken=f98237161f66fac2cefe900e0abe1ab30f8c17a55622fa0de92f47397d9271fbb62e76caef21535f6da72a8c0f39dffaed216666d5e92f37c4977d9e55f1c4a2525d7711866240947c18ef4c02
- 07/09 03:30_世俱杯半决赛_弗卢米嫩塞 vs 切尔西_美国大满贯正赛Day3,https://www.freetv.top/migu/955793539.m3u8?migutoken=227c4cf2cca2b7cd8ed5311d6d9eacee5bbe038138bab81160b83ed8c5fabf8dab07aad3baa632a6e9bc9cfa2f7e9b9c146568adff53d35c1ca67b07b648a03102d77bdda84b4fe7c3edb2d3e5
- 07/09 03:30_陈幸同单局轰出11-0 蒯曼晋级_陈幸同单局轰出11-0 蒯曼晋级_英文解说,https://www.freetv.top/migu/955793529.m3u8?migutoken=9da303bfa5b1b7f5c4139bd3da59467aeca4d841e7ca7f306ea95a166586bd53bcb976d44d9f16193a1a2c6242e343d595d9013e06dd553aceb6930e89b90808600bdb1dc28d8e65b9f9d00805
- 07/09 06:55_NBA夏季联赛_灰熊VS76人_英文原声,https://www.freetv.top/migu/955828706.m3u8?migutoken=8aaa26f7a4546379ea70494262e8fb8a114be9578eca1e94ecf9f4c595223d568aa64ee81745544dcf4450b4a80c945a254eb2f1fa350f574f850dbc0713b960a35f1666f4628182bc02adeb47
- 07/09 06:55_NBA夏季联赛_灰熊VS76人_金哲豪,https://www.freetv.top/migu/955828710.m3u8?migutoken=36a62f847b16646e8e6e58a76eb402cf87782f4d79a542c1d464bcb86ec2a39b95b9ca7d9bc778f68aa65adab1ea6fdee3b42f88217fcc4e033bbc251b513ee7564540262bfecb13d4929c96b6
- 07/09 06:55_NBA夏季联赛_热火VS勇士_王冠证,https://www.freetv.top/migu/955828671.m3u8?migutoken=9c4140f0bb318bdef0729b3a1240e0238a2b67fc2aa876fc7377698344066baad246630cdb983f4346773614284c0d0bf0492c740d9ba2c92f73678bbd5aebf75b6c0d0d9a6c8e205716236a3f
- 07/09 06:55_NBA夏季联赛_热火VS勇士_英文原声,https://www.freetv.top/migu/955828631.m3u8?migutoken=9d5358a3b9fc3b9e3601aedc74960accab3a9b4fd8196375ee41dbe07b6b7cfbcb363ece6ea1ac9236e49cc92b2e2c6776b73cb21819f8fff0f471466c0137a0cd60e5a4825d0eb46aba69d309
- 07/09 07:40_BLG vs FLY_BLG vs FLY_官方解说,https://www.freetv.top/migu/956042098.m3u8?migutoken=d7d4d71aaa9c2ef4481e8b3f5a4b67a8addfbeb89be921e3ed4e375c9c8557110db253b01016b597a1511b86cfbb091927ac945a68bf0b9180093478c91e53879710a581d42473c3073dd01db6
- 07/09 08:55_NBA夏季联赛_雷霆VS爵士_王琰博,https://www.freetv.top/migu/955828773.m3u8?migutoken=fa70d51ecaaa83e0fdb46150d89a9a18d0dff13e05ee33cac42abdbdac2ebfbee52a1a776a247f4fea18c8cd642bcc673a8f2a76cbb9402eacd344dc1b7c0b913301c035cdc4a0a81dff7b16dd
- 07/09 08:55_NBA夏季联赛_雷霆VS爵士_英文原声,https://www.freetv.top/migu/955828765.m3u8?migutoken=4a37b91c272c9581e930ee56f2aef23ca4984dd470910ef3e5dfd6fe41026e15c234ff5d5af671712bdeb11225c14544c5a02e15e629fb7e9242384b6a8c282314f91adbb41d3a02d41b11d16a
- 07/09 09:00_孙颖莎逆转晋级16强 王楚钦3-1高承睿_孙颖莎逆转晋级16强 王楚钦3-1高承睿_1号桌,https://www.freetv.top/migu/955794370.m3u8?migutoken=1b13a87719a3024460c59dd410bc39fa2fd3c4e0a2c796e3b3fd85b362cb609726b6b2793c402e54b4ba10592077798aff58e29bfbb354b7948daff8ba709d901cb661eedb73fa0a6d7966c1e8
- 07/09 09:00_孙颖莎逆转晋级16强 王楚钦3-1高承睿_孙颖莎逆转晋级16强 王楚钦3-1高承睿_英文解说,https://www.freetv.top/migu/955794431.m3u8?migutoken=dc9ff0690282985061dad59f27ce1a5b83aff07e1f806be5a4cd04a11c3fa46771614836083afacf1dfbf14fea13c926b6d4682a10607068f1e3bbb66c0a14e5ccbd352d230b306a5d820cb11e
- 07/09 09:00_孙颖莎逆转晋级16强 王楚钦3-1高承睿_孙颖莎逆转晋级16强 王楚钦3-1高承睿_解说切换,https://www.freetv.top/migu/955794449.m3u8?migutoken=7d97a3383f34fb92d8a87a9c067b5ddbba96d8aba7d909fa4fec50ef5cfd1f2a10197ccad20c0d23ca070d1ee12800daa4f79f5d2396908851319558e6539214ceb6e67e149810d74c62fa0b31
- 07/09 09:35_孙颖莎逆转晋级16强 王楚钦3-1高承睿_孙颖莎逆转晋级16强 王楚钦3-1高承睿_4号桌,https://www.freetv.top/migu/955794488.m3u8?migutoken=fbb2d6eac00700fe60bd5f6a964c0dddbd45142943aa4b1d0b356a737713319b600f36c5cfb96ceb09b4783665a66e8ce90a21f0a5f0b41cd7f60c6795a8cdbbc55f4b15d17dd1d098cce03ac0
- 07/09 09:55_NBA夏季联赛_湖人VS马刺_王晓晨,https://www.freetv.top/migu/955828836.m3u8?migutoken=fa564650960e665de53eae56ba371855e3161996657662c765c965f87fbf9098e435d05d04460a2fea3fb7f4739fa8c67eaa636a70bb67416f78e0b9df40416a5a41d520d305e2fbbd8f083ac2
- 07/09 09:55_NBA夏季联赛_湖人VS马刺_英文原声,https://www.freetv.top/migu/955828819.m3u8?migutoken=f6b729b19ebf46d3eadb1ba639c8ebc988b49d0144f1d36327162154b6bb9026e1bfab35aae2f27866e25a9e54c41be0224bc1a5ab0be6a912f0899090adb7baf6fc98d40a97094264580dfb2c
- 07/09 15:20_女足东亚杯_日本 vs 中国台北_审片后清流,https://www.freetv.top/migu/956037680.m3u8?migutoken=c1e750f12d15aaeb9a3fe243c13a27afb30d74148b4ea6b0197c7cc9c5120959a93dbb5990ad369761b46a74735fa89778643400c58bb2ab5140902c0ff0ac0de65ab0f1331f2110744453b802
- 07/09 15:20_女足东亚杯_日本 vs 中国台北_鲁靖明,https://www.freetv.top/migu/956013196.m3u8?migutoken=06fbe0cad4dc39642172cfe0304b1a3bc5b04f237224ddc2e381c1e09dadfd168f6df0629d0a7a91f79f35b3f47e69b56517a22f6c0af436a5162d866df4deb1d806c36d945cc9f49cda703e15
- 07/09 16:40_西安WE vs 长沙TES.A_西安WE vs 长沙TES.A_官方解说,https://www.freetv.top/migu/956069881.m3u8?migutoken=eeed00c408501b3e42ab67a190dcb303d78610e35e785b758fbc8611e7e44c77ae4463f6f378dd6bbfee41609778131b6e4d050982c368296d8a8566ef06615417341b1c2a6b8cc68fad61cddf
- 07/09 18:50_女足东亚杯_韩国 vs 中国_审片后清流,https://www.freetv.top/migu/956039411.m3u8?migutoken=ec31b1212fb77ac757960c228743af392abb70aac994dc29c6c8e957c62624359a05fe83bf124b757a6177fe2597ff3dae55722a6d8a485ec8eed7222d9154048835a80bc41e682171c08cd775
- 07/09 18:50_女足东亚杯_韩国 vs 中国_张昊泽,https://www.freetv.top/migu/956013438.m3u8?migutoken=86cd7861b24822cd7386375dcfb4c591cc2af40e786907bca920913c62197092d456c3568896f8147b615d7620e6c04ca8ada69ddf030b7c734244fedb7bd46be704069c7d8b3cf33ee1411569
- 07/09 19:00_激战前夜UFC中国赛特辑第8期：重温上海站主赛选手胜场合集_激战前夜UFC中国赛特辑第8期：重温上海站主赛选手胜场合集_王琰博,https://www.freetv.top/migu/955978277.m3u8?migutoken=7023f52b5915ea36013fdecfb25cea71214e2b08cd3fd75e276878a68b09d76e39cff83d63a2dc187db5693e22972a673f09d71d65bcb23ef2bc3f2e2764814e5e6dea97e20836e0f454cada8d
- 07/09 19:20_NBL_香港金牛vs盐南苏科雄狮_解说,https://www.freetv.top/migu/955607762.m3u8?migutoken=c8cbc20f7bf7f7c2f87d6ca09c0d0fbef7d1089f270b294af603b9e25f04a1aa3cc3067eb89626ffaf111b6148d8e95d9dd722dcf15ad3602557c08001dee77dea8a54e1c7fdeffd2c489565f9
- 07/09 19:20_NBL_香港金牛vs盐南苏科雄狮_赛场原声,https://www.freetv.top/migu/955607736.m3u8?migutoken=3609c0b90b1fd23c12479e64d2636cf2d743efab15fac25f7ab167f0982f43c7f13d7aef57173347e16cf9ccdfab27cd0a8c4b34d3c5baeae4a38fee343346262ba0aec59d54119e5c8d354b7b
- 07/09 20:00_WTT美国大满贯：比赛日_WTT美国大满贯：比赛日_刘国正 程靖淇 周雨,https://www.freetv.top/migu/955794498.m3u8?migutoken=fce5b155a22e430b3538f4a4038ab02393ef0265597c3d3e1d28b9d99fc1783f497fded38fd5738d9a4f667c25b42a5313e5cd1abc39dffcb1eabfb8b0adc5e86614cadf87b6ab7f5d1a78034b
- 07/09 20:00_济南RW侠 vs 上海RNG.M_济南RW侠 vs 上海RNG.M_官方解说,https://www.freetv.top/migu/956070257.m3u8?migutoken=6a16ad90c9ed0e12708aced748035224f4a040e7411528a6dda9e372b91bcab39cc958e07ce9b6dd23240220b5e8606c458301080b47f78cfa37d3f7f64813ef574989c6e3c3b6fa55b22d5c8b
- 07/10 02:00_世俱杯半决赛_巴黎圣日耳曼 vs 皇家马德里_苏东 黄健翔 孙继海,https://www.freetv.top/migu/956038468.m3u8?migutoken=e3f5cca4c4c9a26272ed9a6ae41e8ab67a8b1b87b71944442269d18adabdc77c584588598c781417149c703c370e73cc8da32b506144b82a16992262ab4e33f1cde4fd44f3f037bfcf23f14cee
- 07/10 02:00_世俱杯半决赛_巴黎圣日耳曼 vs 皇家马德里_苏东 黄健翔 孙继海,https://www.freetv.top/migu/956038397.m3u8?migutoken=7c4e632649a8b130e7c242cd8900a4d76fe3d88cd34abb4d9c210495cb5e548cedd83f49659453f786666d16319012647d5642324697fc90ca60cca0333cd7aeae35f90e61e8224b6ce304a8ec
- 07/10 02:45_世俱杯半决赛_巴黎圣日耳曼 vs 皇家马德里_智能文字解说,https://www.freetv.top/migu/956038316.m3u8?migutoken=3b87ee7e905996101a8742b3be9d83a1807010f19979a16a910afe26dd0817029b332acd605ad11e001f12fe562638b50e014ee31f97ef0a9e42c20f37f4e14c19820584c44451c42bc04a07a9
- 07/10 02:45_世俱杯半决赛_巴黎圣日耳曼 vs 皇家马德里_江忠德 彭伟国,https://www.freetv.top/migu/956038374.m3u8?migutoken=d3ab265e69fe86b805f96e02274e52e33a5cd5581c5145429a86ce605fe7b475a6f1e16d814f6accd5e409408eb124dcc90ab029e269bf7cce4f87d1575ddcaaa3a18fd2c92ac311eb0ee9fde0
- 07/10 02:45_世俱杯半决赛_巴黎圣日耳曼 vs 皇家马德里_洪荒,https://www.freetv.top/migu/956038439.m3u8?migutoken=8687b19515eb8ac237318d4236ae9f9667dffb9413bb50a2ec2ac92576a3c34dc0febb6cc87955be00b130548026193b370a840885b979b2ddb9576ecc8e3d949919ba157085a51c23608b7bc5
- 07/10 02:45_世俱杯半决赛_巴黎圣日耳曼 vs 皇家马德里_赛场原声,https://www.freetv.top/migu/956038262.m3u8?migutoken=43785bb3964e69e7032c27a7db1ad06f722f623d5d5752709721914dd2beb5cbca42bdff5201fffbade6209c93ec62f273a9fb97cc3a4030789ee4b33eecaf22dbc700caf7ea72e3787c3d7941
- 07/10 02:45_世俱杯半决赛_巴黎圣日耳曼 vs 皇家马德里_陈渤胄,https://www.freetv.top/migu/956038354.m3u8?migutoken=621cc215eb623a8ace9bdcfa88bd77fb02ed5556f62b7762cb5d5e621cef6ca326c9d199c4ab1c11b39f88e41062bdbd4bce1b09b1beca0aeaac18d5bd99f38640df08446bb7f30235fa0456f7
- 07/10 03:30_世俱杯半决赛_巴黎圣日耳曼 vs 皇家马德里_美国大满贯正赛Day4,https://www.freetv.top/migu/955794593.m3u8?migutoken=10199b7b1f875e739bad4590acfda06aa1c47f24cd70027eaf9631d235dabf256ed510bd2d1ebb3ac949d229c5d69d3007dad448ce41b3f90f63613c7067f4c9154ff4f3dcfe7c7b4f5192eaf0
- 07/10 03:30_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_1号桌,https://www.freetv.top/migu/955794507.m3u8?migutoken=3b3377156e99dd897da2e5d22d6a77f2d2858ceaca900825ec382f67ce696c38170fb2a5e610700ac1c721b11b2c484e3dae2b1be84e319f6f86420fd153cc4964ca83d811e29401d0f6a5c5c7
- 07/10 03:30_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_2号桌,https://www.freetv.top/migu/955794542.m3u8?migutoken=da183377aa28cc47cb3ae1d63b996b8c126a68bb0d50b95a24266a4b07e7ac846cf18ae92d22988d7b6f1ac340a2e24c220bf78692683529aecf87bbae035772d7a89467842bd82dd91295b018
- 07/10 03:30_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_3号桌,https://www.freetv.top/migu/955794557.m3u8?migutoken=f1d068070fc071a8abfe50f66bc2caa57d480d771e2658bdaae4c9e3269b1340876f323f2d9e14ac5de13d4d33ecf29557d26820bee9aa66c0a8357251c58acfeb2f6e7b871251df5fe63c0074
- 07/10 03:30_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_4号桌,https://www.freetv.top/migu/955794573.m3u8?migutoken=498b71cbb965b0e7bd3932d7fa5694d2b319dbac37d1ea38929504f1a73c3aee336c1c472e4978eef5d9a44f83de2bbf4dbe440b407344db4e17e1907b16a3bf5b45bd478a0a53d4a3e8ed8e9c
- 07/10 03:30_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_混双1/4决赛、男女双打1/8决赛、单打1/16决赛及残疾人赛事_英文解说,https://www.freetv.top/migu/955794586.m3u8?migutoken=2e38b4aeddb5350b5e78c2d5fa10fb07fb6208d5551243952b43a1b467c44f9a77d38d5c5ef26aaccce7c3b970b6907af8ae9d90413385e497ca935b9cf356d40eb4e25dc8c2b30837cec417bf
- CETV1,http://live.chinacert.cftest5.cn/mgtv/923287154.m3u8
- CETV2,http://live.chinacert.cftest5.cn/mgtv/923287211.m3u8
- CETV4,http://live.chinacert.cftest5.cn/mgtv/923287339.m3u8
- CGTN,http://live.chinacert.cftest5.cn/mgtv/609017205.m3u8
- CGTN俄语,http://live.chinacert.cftest5.cn/mgtv/609006446.m3u8
- CGTN外语记录,http://live.chinacert.cftest5.cn/mgtv/609006487.m3u8
- CGTN法语,http://live.chinacert.cftest5.cn/mgtv/609006476.m3u8
- CGTN西班牙语,http://live.chinacert.cftest5.cn/mgtv/609006450.m3u8
- CGTN阿拉伯语,http://live.chinacert.cftest5.cn/mgtv/609154345.m3u8
- 《长安的荔枝》主演作品集,http://live.chinacert.cftest5.cn/mgtv/625133682.m3u8
- 中国航天“逆袭”之路,http://live.chinacert.cftest5.cn/mgtv/617432318.m3u8
- 体坛名栏汇,http://live.chinacert.cftest5.cn/mgtv/629943305.m3u8
- 华语乐坛最强音,http://live.chinacert.cftest5.cn/mgtv/707671890.m3u8
- 南方影视,http://live.chinacert.cftest5.cn/mgtv/614961829.m3u8
- 和美乡途轮播台,http://live.chinacert.cftest5.cn/mgtv/713591450.m3u8
- 开封鼓楼,http://live.chinacert.cftest5.cn/mgtv/681448619.m3u8
- 掼蛋精英赛,http://live.chinacert.cftest5.cn/mgtv/631354620.m3u8
- 新动力量创一流,http://live.chinacert.cftest5.cn/mgtv/713589837.m3u8
- 新片放映厅,http://live.chinacert.cftest5.cn/mgtv/619495952.m3u8
- 最强综艺趴,http://live.chinacert.cftest5.cn/mgtv/629942228.m3u8
- 江苏国际,http://live.chinacert.cftest5.cn/mgtv/626064674.m3u8
- 江苏综艺频道,http://live.chinacert.cftest5.cn/mgtv/626065193.m3u8
- 深度对话,http://live.chinacert.cftest5.cn/mgtv/625703337.m3u8
- 熊猫频道1,http://live.chinacert.cftest5.cn/mgtv/608933610.m3u8
- 熊猫频道10,http://live.chinacert.cftest5.cn/mgtv/609169285.m3u8
- 熊猫频道2,http://live.chinacert.cftest5.cn/mgtv/608933640.m3u8
- 熊猫频道3,http://live.chinacert.cftest5.cn/mgtv/608934619.m3u8
- 熊猫频道4,http://live.chinacert.cftest5.cn/mgtv/608934721.m3u8
- 熊猫频道5,http://live.chinacert.cftest5.cn/mgtv/608935104.m3u8
- 熊猫频道6,http://live.chinacert.cftest5.cn/mgtv/608935797.m3u8
- 熊猫频道7,http://live.chinacert.cftest5.cn/mgtv/609169286.m3u8
- 熊猫频道8,http://live.chinacert.cftest5.cn/mgtv/609169287.m3u8
- 熊猫频道9,http://live.chinacert.cftest5.cn/mgtv/609169226.m3u8
- 红色轮播台,http://live.chinacert.cftest5.cn/mgtv/713600957.m3u8
- 经典动画大集合,http://live.chinacert.cftest5.cn/mgtv/629942219.m3u8
- 赛事最经典,http://live.chinacert.cftest5.cn/mgtv/646596895.m3u8
- 钱塘江,http://live.chinacert.cftest5.cn/mgtv/647370520.m3u8
- 高清大片,http://live.chinacert.cftest5.cn/mgtv/629943678.m3u8
-tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://epg.v1.mk/logo/CGTNALBY.png" group-title="央视",cgtnar-NPTV,http://live.chinacert.cftest5.cn/nptv/cgtnar.m3u8
-tvg-id="CGTNEN" tvg-name="CGTNEN" tvg-logo="https://epg.v1.mk/logo/CGTN.png" group-title="央视",cgtn-NPTV,http://live.chinacert.cftest5.cn/nptv/cgtn.m3u8
-tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv16-NPTV,http://live.chinacert.cftest5.cn/nptv/cctv16.m3u8
-tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",cctv4k-NPTV,http://live.chinacert.cftest5.cn/nptv/cctv4k.m3u8
-tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",cctv8k-NPTV,http://live.chinacert.cftest5.cn/nptv/cctv8k.m3u8
-tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://epg.v1.mk/logo/cgtndocumentary.png" group-title="央视",cgtndoc-NPTV,http://live.chinacert.cftest5.cn/nptv/cgtndoc.m3u8
-tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://epg.v1.mk/logo/cgtnfrench.png" group-title="央视",cgtnfr-NPTV,http://live.chinacert.cftest5.cn/nptv/cgtnfr.m3u8
-tvg-id="cgtnru" tvg-name="cgtnru" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",cgtnru-NPTV,http://live.chinacert.cftest5.cn/nptv/cgtnru.m3u8
-tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",cgtnsp-NPTV,http://live.chinacert.cftest5.cn/nptv/cgtnsp.m3u8
-tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4K频道",咪咕4K-1,http://live.chinacert.cftest5.cn/itv/3000000010000005180.m3u8?cdn=FifastbLive
-tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4K频道",咪咕4K-2,http://live.chinacert.cftest5.cn/itv/3000000010000015686.m3u8?cdn=FifastbLive
-抖音 掼蛋冠军杯,https://live.chinacert.cftest5.cn/douyin/120711859724
-斗鱼 RunningMan,https://live.chinacert.cftest5.cn/douyu/131977
-斗鱼 柯南轮播,https://live.chinacert.cftest5.cn/douyu/1487654?stream=flv
-斗鱼 炊事班的故事,https://live.chinacert.cftest5.cn/douyu/319576
-斗鱼 电影轮播-1,https://live.chinacert.cftest5.cn/douyu/12434419
-虎牙 出奇智胜斗地主,https://live.chinacert.cftest5.cn/huya/139168
-虎牙 爱情公寓,https://live.chinacert.cftest5.cn/huya/11336726
-虎牙 电影轮播-1,https://live.chinacert.cftest5.cn/huya/11342412
-虎牙 电影轮播-周星驰,https://live.chinacert.cftest5.cn/huya/25646817
-虎牙 虎牙掼蛋赛事,https://live.chinacert.cftest5.cn/huya/139167
+kaku少儿,http://106.118.70.238:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+乡村,http://182.113.6.126:9901/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
+公共,http://182.113.6.126:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+卢龙电视,http://106.118.70.238:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻,http://182.113.6.126:9901/tsfile/live/0109_7.m3u8?key=txiptv&playlive=1&authid=0
+昌黎电视,http://106.118.70.238:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+武术,http://182.113.6.126:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+电视剧,http://182.113.6.126:9901/tsfile/live/0109_6.m3u8?key=txiptv&playlive=1&authid=0
+秦皇岛公共,http://106.118.70.238:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
