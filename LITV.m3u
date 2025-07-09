@@ -1121,10 +1121,6 @@ http://183.10.180.112:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=
 http://183.10.180.11:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="4K超" tvg-logo="https://itv.shrimp.cloudns.biz/logo/4K超.png" group-title="📛4K·8K频道",4K超
 http://119.125.134.142:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三门峡新闻综合.png" group-title="🚈安徽频道",三门峡新闻综合
-http://115.48.160.109:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东营新闻综合.png" group-title="🚈安徽频道",东营新闻综合
-http://123.129.70.178:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="安徽公共" tvg-logo="https://itv.shrimp.cloudns.biz/logo/安徽公共.png" group-title="🚈安徽频道",安徽公共
 http://223.241.247.214:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="马鞍山新闻" tvg-logo="https://itv.shrimp.cloudns.biz/logo/马鞍山新闻.png" group-title="🚈安徽频道",马鞍山新闻
@@ -1401,6 +1397,10 @@ http://106.118.70.238:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=
 http://121.19.134.155:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京少儿" tvg-logo="https://itv.shrimp.cloudns.biz/logo/北京少儿.png" group-title="🛩️北京频道",北京少儿
 http://115.48.160.109:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="三门峡新闻综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/三门峡新闻综合.png" group-title="🛺陕西频道",三门峡新闻综合
+http://115.48.160.109:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东营新闻综合.png" group-title="🛺陕西频道",东营新闻综合
+http://123.129.70.178:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://itv.shrimp.cloudns.biz/logo/陕西都市青春.png" group-title="🛺陕西频道",陕西都市青春
 http://36.40.236.237:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="东营公共" tvg-logo="https://itv.shrimp.cloudns.biz/logo/东营公共.png" group-title="🦽山东频道",东营公共
