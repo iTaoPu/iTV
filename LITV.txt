@@ -217,8 +217,6 @@ tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/�
  苏州新闻综合,http://live.laobaitv.net/mgtv/639731952.m3u8
  连云港新闻综合,http://www.douzhicloud.site:35455/mgtv/639731715.m3u8
  连云港新闻综合,http://live.laobaitv.net/mgtv/639731715.m3u8
-🛵青海频道,#genre#
- 江阴新闻综合,http://live.laobaitv.net/mgtv/955227979.m3u8
 🦽山东频道,#genre#
 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",中国教育电视台,http://www.douzhicloud.site:35455/nptv/cetv1.m3u8
 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",中国教育电视台-NPTV,http://live.laobaitv.net/nptv/cetv1.m3u8
@@ -228,6 +226,7 @@ tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.m
  上视东方影视,http://www.douzhicloud.site:35455/mgtv/617290047.m3u8
  上视东方影视,http://live.laobaitv.net/mgtv/617290047.m3u8
 🚞浙江频道,#genre#
+ 江阴新闻综合,http://live.laobaitv.net/mgtv/955227979.m3u8
  钱塘江,http://www.douzhicloud.site:35455/mgtv/647370520.m3u8
  钱塘江,http://live.laobaitv.net/mgtv/647370520.m3u8
 🎥咪咕视频,#genre#
