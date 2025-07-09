@@ -24,19 +24,37 @@ jobs:
     - name: Update Files
       run: |
         # 下载基础源文件
-        wget -q https://raw.githubusercontent.com/suxuang/myIPTV/main/tv.m3u -O Base.m3u
+        wget -q https://raw.githubusercontent.com/suxuang/myIPTV/main/tv.m3u -O Base1.m3u
+        wget -q http://live.laobaitv.net/tv.m3u -O Base2.m3u
+        
+        # 合并两个源
+        cat Base1.m3u Base2.m3u > Base.m3u
         
         # 处理央视源
-        grep -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CCTV.m3u
+        grep -A 1 '央视' Base.m3u | grep -v '^--$' > CCTV.m3u
         
         # 处理非央视源
-        grep -v -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CNTV.m3u
+        grep -v -A 1 '央视' Base.m3u | grep -v '^--$' > CNTV.m3u
         
-        # 生成最终M3U
+        # 生成最终M3U（按URL去重）
         echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > LITV.m3u
-        cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> LITV.m3u
         
-        # 生成TXT播放列表
+        # 合并源并按URL去重（保留第一个出现的记录）
+        awk '/^#EXTINF:/ {
+            name_line = $0
+            getline url_line
+            # 提取并清理URL
+            url = url_line
+            sub(/\r$/, "", url)
+            # 只检查URL重复
+            if (!seen[url]) {
+                print name_line
+                print url_line
+            }
+            seen[url] = 1
+        }' CCTV.m3u CNTV.m3u >> LITV.m3u
+        
+        # 生成TXT播放列表（按URL去重）
         awk '/^#EXTINF:/ {
             split($0, a, ","); 
             name = a[2];
@@ -44,11 +62,15 @@ jobs:
             gsub(/\r/, "", name);
             gsub(/\r/, "", url);
             sub(/^ /, "", name);
-            print name "," url;
-        }' LITV.m3u | awk '!seen[$0]++' > LITV.txt
+            # 只检查URL重复
+            if (!seen[url]) {
+                print name "," url
+            }
+            seen[url] = 1
+        }' LITV.m3u > LITV.txt
         
         # 清理临时文件
-        rm -f Base.m3u CCTV.m3u CNTV.m3u
+        rm -f Base.m3u Base1.m3u Base2.m3u CCTV.m3u CNTV.m3u
 
         # 更新README
         echo -e "# LITV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（IPTV.M3U）\n- [TXT播放列表](IPTV.txt)（IPTV.TXT）\n- [M3U播放列表](LITV.m3u)（LITV.M3U）\n- [TXT播放列表](LITV.txt)（LITV.TXT）" > README.md
