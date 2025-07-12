@@ -24,7 +24,7 @@ jobs:
     - name: Update Files
       run: |
         # 下载基础源文件
-        wget -q https://raw.githubusercontent.com/619myna/IPTV/refs/heads/main/qwt-a.m3u -O Base.m3u
+        wget -q https://live.catvod.com/mq.php?catvod.com=m3u -O Base.m3u
         
         # 处理央视源
         grep -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CCTV.m3u
