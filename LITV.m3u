@@ -79,6 +79,44 @@ http://live.chinacert.cftest5.cn/nptv/dyjc.m3u8
 http://live.chinacert.cftest5.cn/nptv/fyjc.m3u8
 #EXTINF:-1,tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",怀旧剧场-NPTV
 http://live.chinacert.cftest5.cn/nptv/hjjc.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频道", CCTV1
+http://live.catvod.com/catvod.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视频道", CCTV2
+http://live.catvod.com/catvod.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视频道", CCTV3
+http://live.catvod.com/catvod.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视频道", CCTV4
+http://live.catvod.com/catvod.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://logo.catvod.com/CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="央视频道", CCTV4欧洲
+http://live.catvod.com/catvod.php?id=cctv4o
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://logo.catvod.com/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="央视频道", CCTV4美洲
+http://live.catvod.com/catvod.php?id=cctv4a
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视频道", CCTV5
+http://live.catvod.com/catvod.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5%2B.png" group-title="央视频道", CCTV5+
+http://live.catvod.com/catvod.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视频道", CCTV6
+http://live.catvod.com/catvod.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视频道", CCTV7
+http://live.catvod.com/catvod.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视频道", CCTV8
+http://live.catvod.com/catvod.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视频道", CCTV9
+http://live.catvod.com/catvod.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视频道", CCTV10
+http://live.catvod.com/catvod.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视频道", CCTV11
+http://live.catvod.com/catvod.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视频道", CCTV12
+http://live.catvod.com/catvod.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视频道", CCTV13
+http://live.catvod.com/catvod.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视频道", CCTV14
+http://live.catvod.com/catvod.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视频道", CCTV15
+http://live.catvod.com/catvod.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视频道", CCTV17
+http://live.catvod.com/catvod.php?id=cctv17
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/index.m3u8
@@ -400,3 +438,78 @@ http://live.chinacert.cftest5.cn/itv/3000000010000025380.m3u8?cdn=FifastbLive
 http://live.chinacert.cftest5.cn/itv/3000000010000027691.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-45
 http://live.chinacert.cftest5.cn/itv/3000000010000031669.m3u8?cdn=FifastbLive
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="电影频道", CHC影迷电影
+http://live.catvod.com/catvod.php?id=chcym
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="电影频道", CHC动作电影
+http://live.catvod.com/catvod.php?id=chcdz
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="电影频道", CHC家庭影院
+http://live.catvod.com/catvod.php?id=chcjt
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 北京卫视
+http://live.catvod.com/catvod.php?id=bjws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 东方卫视
+http://live.catvod.com/catvod.php?id=dfws
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 天津卫视
+http://live.catvod.com/catvod.php?id=tjws
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 重庆卫视
+http://live.catvod.com/catvod.php?id=cqws
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 黑龙江卫视
+http://live.catvod.com/catvod.php?id=hljws
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 吉林卫视
+http://live.catvod.com/catvod.php?id=jlws
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 辽宁卫视
+http://live.catvod.com/catvod.php?id=lnws
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 内蒙古卫视
+http://live.catvod.com/catvod.php?id=nmws
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 宁夏卫视
+http://live.catvod.com/catvod.php?id=nxws
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 甘肃卫视
+http://live.catvod.com/catvod.php?id=gsws
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 青海卫视
+http://live.catvod.com/catvod.php?id=qhws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 陕西卫视
+http://live.catvod.com/catvod.php?id=sxws
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 河北卫视
+http://live.catvod.com/catvod.php?id=hbws
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 山西卫视
+http://live.catvod.com/catvod.php?id=sxiws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 山东卫视
+http://live.catvod.com/catvod.php?id=sdws
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 安徽卫视
+http://live.catvod.com/catvod.php?id=ahws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 河南卫视
+http://live.catvod.com/catvod.php?id=hnws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 湖北卫视
+http://live.catvod.com/catvod.php?id=hubws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 湖南卫视
+http://live.catvod.com/catvod.php?id=hunws
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 江西卫视
+http://live.catvod.com/catvod.php?id=jxws
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 浙江卫视
+http://live.catvod.com/catvod.php?id=zjws
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 东南卫视
+http://live.catvod.com/catvod.php?id=dnws
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 厦门卫视
+http://live.catvod.com/catvod.php?id=xmws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 广东卫视
+http://live.catvod.com/catvod.php?id=gdws
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 深圳卫视
+http://live.catvod.com/catvod.php?id=szws
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 广西卫视
+http://live.catvod.com/catvod.php?id=gxws
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 云南卫视
+http://live.catvod.com/catvod.php?id=ynws
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 贵州卫视
+http://live.catvod.com/catvod.php?id=gzws
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 四川卫视
+http://live.catvod.com/catvod.php?id=scws
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 新疆卫视
+http://live.catvod.com/catvod.php?id=xjws
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 兵团卫视
+http://live.catvod.com/catvod.php?id=btws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 西藏卫视
+http://live.catvod.com/catvod.php?id=xzws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 海南卫视
+http://live.catvod.com/catvod.php?id=hinws
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 三沙卫视
+http://live.catvod.com/catvod.php?id=ssws
