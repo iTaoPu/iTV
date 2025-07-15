@@ -23,8 +23,12 @@ jobs:
 
     - name: Update Files
       run: |
-        # 下载基础源文件
-        wget -q http://live.laobaitv.net/tv.m3u -O Base.m3u
+        # 下载基础源文件（新增第二个源）
+        wget -q http://live.laobaitv.net/tv.m3u -O Base1.m3u
+        wget -q https://iptv.catvod.com/tv.m3u -O Base2.m3u
+        
+        # 合并并去重基础源
+        cat Base1.m3u Base2.m3u | awk '!seen[$0]++' > Base.m3u
         
         # 处理央视源
         grep -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CCTV.m3u
@@ -48,7 +52,7 @@ jobs:
         }' LITV.m3u | awk '!seen[$0]++' > LITV.txt
         
         # 清理临时文件
-        rm -f Base.m3u CCTV.m3u CNTV.m3u
+        rm -f Base*.m3u CCTV.m3u CNTV.m3u
 
         # 更新README
         echo -e "# LITV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（IPTV.M3U）\n- [TXT播放列表](IPTV.txt)（IPTV.TXT）\n- [M3U播放列表](LITV.m3u)（LITV.M3U）\n- [TXT播放列表](LITV.txt)（LITV.TXT）" > README.md
