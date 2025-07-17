@@ -513,6 +513,13 @@ NewTV 爱情喜剧,http://111.22.153.159:35455/itv/2000000003000000010.m3u8?cdn=
 金庸武侠,http://home.kuaidi521.com:35455/huya/11342435
 功夫电影,http://home.kuaidi521.com:35455/huya/11352941
 贺岁电影,http://home.kuaidi521.com:35455/huya/11601986
+怪兽电影,http://home.kuaidi521.com:35455/huya/21059577
+喜剧电影,http://home.kuaidi521.com:35455/huya/11602044
+玄幻电影,http://home.kuaidi521.com:35455/huya/11342414
+罪犯电影,http://home.kuaidi521.com:35455/huya/11352962
+战争电影,http://home.kuaidi521.com:35455/huya/21059574
+谍战电影,http://home.kuaidi521.com:35455/huya/21059585
+枪战电影,http://home.kuaidi521.com:35455/huya/21059579
 狄仁杰电影,http://home.kuaidi521.com:35455/huya/30080229
 末日电影合集,http://43.138.0.72:35455/yy/1354889019
 宇宙科幻合集,http://home.kuaidi521.com:35455/huya/11342428
