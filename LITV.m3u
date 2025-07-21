@@ -117,6 +117,74 @@ https://live.catvod.com/catvod.php?id=cctv14
 https://live.catvod.com/catvod.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视频道", CCTV17
 https://live.catvod.com/catvod.php?id=cctv17
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV1.png" group-title="央视",CCTV-1综合
+https://cqcb.iptv.darwinchow.com/cctv1HD
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV2.png" group-title="央视",CCTV-2财经
+https://cqcb.iptv.darwinchow.com/cctv2HD
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV3.png" group-title="央视",CCTV-3综艺
+https://cqcb.iptv.darwinchow.com/cctv3HD
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV4.png" group-title="央视",CCTV-4中文国际
+https://cqcb.iptv.darwinchow.com/cctv4HD
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV5.png" group-title="央视",CCTV-5体育
+https://cqcb.iptv.darwinchow.com/cctv5HD
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
+https://cqcb.iptv.darwinchow.com/cctv5SportHD
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV6.png" group-title="央视",CCTV-6电影
+https://cqcb.iptv.darwinchow.com/cctv6HD
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV7.png" group-title="央视",CCTV-7国防军事
+https://cqcb.iptv.darwinchow.com/cctv7HD
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV8.png" group-title="央视",CCTV-8电视剧
+https://cqcb.iptv.darwinchow.com/cctv8HD
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV9.png" group-title="央视",CCTV-9纪录
+https://cqcb.iptv.darwinchow.com/cctv9HD
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV10.png" group-title="央视",CCTV-10科教
+https://cqcb.iptv.darwinchow.com/cctv10HD
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV11.png" group-title="央视",CCTV-11戏曲
+https://cqcb.iptv.darwinchow.com/cctv11HD
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV12.png" group-title="央视",CCTV-12社会与法
+https://cqcb.iptv.darwinchow.com/cctv12HD
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV13.png" group-title="央视",CCTV-13新闻
+https://cqcb.iptv.darwinchow.com/CCTVNewsHD
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV14.png" group-title="央视",CCTV-14少儿
+https://cqcb.iptv.darwinchow.com/cctvseHD
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV15.png" group-title="央视",CCTV-15音乐
+https://cqcb.iptv.darwinchow.com/cctv15HD
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+https://cqcb.iptv.darwinchow.com/cctv16HD
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV16.png" group-title="央视",CCTV-16奥林匹克4K
+https://cqcb.iptv.darwinchow.com/CCTV16_4K
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV17.png" group-title="央视",CCTV-17农业农村
+https://cqcb.iptv.darwinchow.com/cctv17HD
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://static.iptv.darwinchow.com/logo/CCTV4K.png" group-title="央视",CCTV-4K
+https://cqcb.iptv.darwinchow.com/CCTV4K
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://static.iptv.darwinchow.com/logo/CGTN.png" group-title="央视",CGTN
+https://cqcb.iptv.darwinchow.com/cgtnSD
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://static.iptv.darwinchow.com/logo/第一剧场.png" group-title="央视",第一剧场
+https://cqcb.iptv.darwinchow.com/diyijuchangHD
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://static.iptv.darwinchow.com/logo/怀旧剧场.png" group-title="央视",怀旧剧场
+https://cqcb.iptv.darwinchow.com/hjjcHD
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://static.iptv.darwinchow.com/logo/风云剧场.png" group-title="央视",风云剧场
+https://cqcb.iptv.darwinchow.com/fyjcHD
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://static.iptv.darwinchow.com/logo/风云音乐.png" group-title="央视",风云音乐
+https://cqcb.iptv.darwinchow.com/fyyyHD
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://static.iptv.darwinchow.com/logo/风云足球.png" group-title="央视",风云足球
+https://cqcb.iptv.darwinchow.com/fyzqHD
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://static.iptv.darwinchow.com/logo/央视台球.png" group-title="央视",央视台球
+https://cqcb.iptv.darwinchow.com/ystqHD
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://static.iptv.darwinchow.com/logo/高尔夫网球.png" group-title="央视",高尔夫网球
+https://cqcb.iptv.darwinchow.com/golfHD
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://static.iptv.darwinchow.com/logo/女性时尚.png" group-title="央视",女性时尚
+https://cqcb.iptv.darwinchow.com/nvxing
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://static.iptv.darwinchow.com/logo/兵器科技.png" group-title="央视",兵器科技
+https://cqcb.iptv.darwinchow.com/bqkjHD
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://static.iptv.darwinchow.com/logo/文化精品.png" group-title="央视",央视文化精品
+https://cqcb.iptv.darwinchow.com/yswhHD
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://static.iptv.darwinchow.com/logo/发现之旅.png" group-title="央视",发现之旅
+https://cqcb.iptv.darwinchow.com/faxian
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://static.iptv.darwinchow.com/logo/老故事.png" group-title="央视",老故事
+https://cqcb.iptv.darwinchow.com/gushi
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://static.iptv.darwinchow.com/logo/中学生.png" group-title="央视",中学生
+https://cqcb.iptv.darwinchow.com/qicai
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/index.m3u8
@@ -513,3 +581,215 @@ https://live.catvod.com/catvod.php?id=xzws
 https://live.catvod.com/catvod.php?id=hinws
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 三沙卫视
 https://live.catvod.com/catvod.php?id=ssws
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆卫视.png" group-title="重庆",重庆卫视
+https://cqcb.iptv.darwinchow.com/chongqingHD
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆新闻.png" group-title="重庆",重庆新闻
+https://cqcb.iptv.darwinchow.com/CQTVNewsHD
+#EXTINF:-1 tvg-name="重庆影视" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆影视.png" group-title="重庆",重庆影视剧
+https://cqcb.iptv.darwinchow.com/cqyingshiHD
+#EXTINF:-1 tvg-name="重庆社会与法" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆社会与法.png" group-title="重庆",重庆社会与法
+https://cqcb.iptv.darwinchow.com/CQTVTrendyHD
+#EXTINF:-1 tvg-name="重庆时尚生活" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆时尚生活.png" group-title="重庆",重庆红岩文化
+https://cqcb.iptv.darwinchow.com/cqssgwHD
+#EXTINF:-1 tvg-name="重庆文体娱乐" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆文体娱乐.png" group-title="重庆",重庆文体娱乐
+https://cqcb.iptv.darwinchow.com/cqwtylHD
+#EXTINF:-1 tvg-name="重庆新农村" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆新农村.png" group-title="重庆",重庆新农村
+https://cqcb.iptv.darwinchow.com/cqggncHD
+#EXTINF:-1 tvg-name="重庆少儿" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆少儿.png" group-title="重庆",重庆少儿
+https://cqcb.iptv.darwinchow.com/cqseHD
+#EXTINF:-1 tvg-name="重庆红叶" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆红叶.png" group-title="重庆",重庆红叶
+https://cqcb.iptv.darwinchow.com/CQTVkejiaoHD
+#EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆汽摩.png" group-title="重庆",重庆汽摩
+https://cqcb.iptv.darwinchow.com/cqcarSD
+#EXTINF:-1 tvg-name="重庆移动" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆移动.png" group-title="重庆",重庆移动
+https://cqcb.iptv.darwinchow.com/mryyHD
+#EXTINF:-1 tvg-name="重广融媒" tvg-logo="https://static.iptv.darwinchow.com/logo/重广融媒.png" group-title="重庆",重广融媒
+https://cqcb.iptv.darwinchow.com/cqrongmei
+#EXTINF:-1 tvg-name="重庆党员教育" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆党员教育.png" group-title="重庆",重庆党员教育
+https://cqcb.iptv.darwinchow.com/dyjyHD
+#EXTINF:-1 tvg-name="北碚综合" tvg-logo="https://static.iptv.darwinchow.com/logo/北碚综合.png" group-title="重庆",北碚综合
+https://cqcb.iptv.darwinchow.com/beibeiHD
+#EXTINF:-1 tvg-name="城口综合" tvg-logo="https://static.iptv.darwinchow.com/logo/城口综合.png" group-title="重庆",城口综合
+https://cqcb.iptv.darwinchow.com/chengkouHD
+#EXTINF:-1 tvg-name="璧山综合" tvg-logo="https://static.iptv.darwinchow.com/logo/璧山综合.png" group-title="重庆",璧山综合
+https://cqcb.iptv.darwinchow.com/bishanHD
+#EXTINF:-1 tvg-name="垫江综合" tvg-logo="https://static.iptv.darwinchow.com/logo/垫江综合.png" group-title="重庆",垫江综合
+https://cqcb.iptv.darwinchow.com/dianjiangHD
+#EXTINF:-1 tvg-name="丰都综合" tvg-logo="https://static.iptv.darwinchow.com/logo/丰都综合.png" group-title="重庆",丰都综合
+https://cqcb.iptv.darwinchow.com/fdzh
+#EXTINF:-1 tvg-name="奉节综合" tvg-logo="https://static.iptv.darwinchow.com/logo/奉节综合.png" group-title="重庆",奉节综合
+https://cqcb.iptv.darwinchow.com/fengjieHD
+#EXTINF:-1 tvg-name="涪陵综合" tvg-logo="https://static.iptv.darwinchow.com/logo/涪陵综合.png" group-title="重庆",涪陵综合
+https://cqcb.iptv.darwinchow.com/fulingzh
+#EXTINF:-1 tvg-name="合川综合" tvg-logo="https://static.iptv.darwinchow.com/logo/合川综合.png" group-title="重庆",合川综合
+https://cqcb.iptv.darwinchow.com/hechuan
+#EXTINF:-1 tvg-name="云阳综合" tvg-logo="https://static.iptv.darwinchow.com/logo/云阳综合.png" group-title="重庆",云阳综合
+https://cqcb.iptv.darwinchow.com/jiangjinHD
+#EXTINF:-1 tvg-name="开州综合" tvg-logo="https://static.iptv.darwinchow.com/logo/开州综合.png" group-title="重庆",开州综合
+https://cqcb.iptv.darwinchow.com/kaizhouHD
+#EXTINF:-1 tvg-name="南川综合" tvg-logo="https://static.iptv.darwinchow.com/logo/南川综合.png" group-title="重庆",南川综合
+https://cqcb.iptv.darwinchow.com/nanchuanHD
+#EXTINF:-1 tvg-name="黔江综合" tvg-logo="https://static.iptv.darwinchow.com/logo/黔江综合.png" group-title="重庆",黔江综合
+https://cqcb.iptv.darwinchow.com/qianjiang
+#EXTINF:-1 tvg-name="荣昌综合" tvg-logo="https://static.iptv.darwinchow.com/logo/荣昌综合.png" group-title="重庆",荣昌综合
+https://cqcb.iptv.darwinchow.com/rongchangHD
+#EXTINF:-1 tvg-name="铜梁综合" tvg-logo="https://static.iptv.darwinchow.com/logo/铜梁综合.png" group-title="重庆",铜梁综合
+https://cqcb.iptv.darwinchow.com/tongliangzongheHD
+#EXTINF:-1 tvg-name="万盛综合" tvg-logo="https://static.iptv.darwinchow.com/logo/万盛综合.png" group-title="重庆",万盛综合
+https://cqcb.iptv.darwinchow.com/wanshengHD
+#EXTINF:-1 tvg-name="万州综合" tvg-logo="https://static.iptv.darwinchow.com/logo/万州综合.png" group-title="重庆",万州综合
+https://cqcb.iptv.darwinchow.com/wanzhouHD
+#EXTINF:-1 tvg-name="巫溪综合" tvg-logo="https://static.iptv.darwinchow.com/logo/巫溪综合.png" group-title="重庆",巫溪综合
+https://cqcb.iptv.darwinchow.com/wxzh
+#EXTINF:-1 tvg-name="武隆综合" tvg-logo="https://static.iptv.darwinchow.com/logo/武隆综合.png" group-title="重庆",武隆综合
+https://cqcb.iptv.darwinchow.com/wlzh
+#EXTINF:-1 tvg-name="秀山综合" tvg-logo="https://static.iptv.darwinchow.com/logo/秀山综合.png" group-title="重庆",秀山综合
+https://cqcb.iptv.darwinchow.com/xiushan
+#EXTINF:-1 tvg-name="永川综合" tvg-logo="https://static.iptv.darwinchow.com/logo/永川综合.png" group-title="重庆",永川综合
+https://cqcb.iptv.darwinchow.com/yczh
+#EXTINF:-1 tvg-name="酉阳综合" tvg-logo="https://static.iptv.darwinchow.com/logo/酉阳综合.png" group-title="重庆",酉阳综合
+https://cqcb.iptv.darwinchow.com/youyang
+#EXTINF:-1 tvg-name="长寿综合" tvg-logo="https://static.iptv.darwinchow.com/logo/长寿综合.png" group-title="重庆",长寿综合
+https://cqcb.iptv.darwinchow.com/changshou
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/重庆卫视.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
+https://cqcb.iptv.darwinchow.com/jiangsuHD
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/北京卫视.png" group-title="卫视",北京卫视
+https://cqcb.iptv.darwinchow.com/beijingHD
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/浙江卫视.png" group-title="卫视",浙江卫视
+https://cqcb.iptv.darwinchow.com/zhejiangHD
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/东方卫视.png" group-title="卫视",东方卫视
+https://cqcb.iptv.darwinchow.com/shanghaiHD
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://cqcb.iptv.darwinchow.com/shenzhenHD
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://cqcb.iptv.darwinchow.com/liaoningHD
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/天津卫视.png" group-title="卫视",天津卫视
+https://cqcb.iptv.darwinchow.com/tianjinHD
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/贵州卫视.png" group-title="卫视",贵州卫视
+https://cqcb.iptv.darwinchow.com/guizhouHD
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/四川卫视.png" group-title="卫视",四川卫视
+https://cqcb.iptv.darwinchow.com/sichuanHD
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/云南卫视.png" group-title="卫视",云南卫视
+https://cqcb.iptv.darwinchow.com/yunnanSD
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/东南卫视.png" group-title="卫视",东南卫视
+https://cqcb.iptv.darwinchow.com/dongnanHD
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+https://cqcb.iptv.darwinchow.com/heilongjiangHD
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/安徽卫视.png" group-title="卫视",安徽卫视
+https://cqcb.iptv.darwinchow.com/anhuiSD
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/河北卫视.png" group-title="卫视",河北卫视
+https://cqcb.iptv.darwinchow.com/hebeiSD
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/江西卫视.png" group-title="卫视",江西卫视
+https://cqcb.iptv.darwinchow.com/jiangxiHD
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/湖北卫视.png" group-title="卫视",湖北卫视
+https://cqcb.iptv.darwinchow.com/hubeiSD
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/海南卫视.png" group-title="卫视",海南卫视
+https://cqcb.iptv.darwinchow.com/hainanSD
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/吉林卫视.png" group-title="卫视",吉林卫视
+https://cqcb.iptv.darwinchow.com/jilinHD
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/广西卫视.png" group-title="卫视",广西卫视
+https://cqcb.iptv.darwinchow.com/guangxiHD
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://cqcb.iptv.darwinchow.com/neimengkuSD
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/湖南卫视.png" group-title="卫视",湖南卫视
+https://cqcb.iptv.darwinchow.com/hunanHD
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/广东卫视.png" group-title="卫视",广东卫视
+https://cqcb.iptv.darwinchow.com/guangdongHD
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/河南卫视.png" group-title="卫视",河南卫视
+https://cqcb.iptv.darwinchow.com/henanHD
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/兵团卫视.png" group-title="卫视",兵团卫视
+https://cqcb.iptv.darwinchow.com/bingtuanSD
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+https://cqcb.iptv.darwinchow.com/ningxia
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/三沙卫视.png" group-title="卫视",三沙卫视
+https://cqcb.iptv.darwinchow.com/sanshaSD
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/青海卫视.png" group-title="卫视",青海卫视
+https://cqcb.iptv.darwinchow.com/qinghaiSD
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/山东教育.png" group-title="卫视",山东教育卫视
+https://cqcb.iptv.darwinchow.com/sdjiaoyuSD
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/新疆卫视.png" group-title="卫视",新疆卫视
+https://cqcb.iptv.darwinchow.com/xinjiangSD
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/西藏卫视.png" group-title="卫视",西藏卫视
+https://cqcb.iptv.darwinchow.com/xizangSD
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/北京卫视.png" group-title="北京",北京卫视
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://static.iptv.darwinchow.com/logo/卡酷少儿.png" group-title="北京",卡酷少儿
+https://cqcb.iptv.darwinchow.com/bjkakuSD
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://static.iptv.darwinchow.com/logo/北京纪实科教.png" group-title="北京",纪实科教
+https://cqcb.iptv.darwinchow.com/bjayjsSD
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://static.iptv.darwinchow.com/logo/环球旅游.png" group-title="北京",环球旅游
+https://cqcb.iptv.darwinchow.com/huanqiulvyou
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://static.iptv.darwinchow.com/logo/环球奇观.png" group-title="北京",环球奇观
+https://cqcb.iptv.darwinchow.com/car
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://static.iptv.darwinchow.com/logo/聚鲨环球精选.png" group-title="北京",聚鲨环球精选
+https://cqcb.iptv.darwinchow.com/jusha
+#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://static.iptv.darwinchow.com/logo/生态环境.png" group-title="北京",生态环境
+https://cqcb.iptv.darwinchow.com/shengtai
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://static.iptv.darwinchow.com/logo/四海钓鱼.png" group-title="北京",四海钓鱼
+https://cqcb.iptv.darwinchow.com/diaoyu
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://static.iptv.darwinchow.com/logo/优优宝贝.png" group-title="北京",优优宝贝
+https://cqcb.iptv.darwinchow.com/youxi
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="https://static.iptv.darwinchow.com/logo/中华特产.png" group-title="北京",中华特产
+https://cqcb.iptv.darwinchow.com/techan
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/东方卫视.png" group-title="上海",东方卫视
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://static.iptv.darwinchow.com/logo/东方财经.png" group-title="上海",东方财经
+https://cqcb.iptv.darwinchow.com/dfcj
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://static.iptv.darwinchow.com/logo/动漫秀场.png" group-title="上海",动漫秀场
+https://cqcb.iptv.darwinchow.com/dmxcHD
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://static.iptv.darwinchow.com/logo/都市剧场.png" group-title="上海",都市剧场
+https://cqcb.iptv.darwinchow.com/dsjcHD
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://static.iptv.darwinchow.com/logo/法治天地.png" group-title="上海",法治天地
+https://cqcb.iptv.darwinchow.com/fazhi
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://static.iptv.darwinchow.com/logo/金色学堂.png" group-title="上海",金色学堂
+https://cqcb.iptv.darwinchow.com/jinse
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://static.iptv.darwinchow.com/logo/魅力足球.png" group-title="上海",魅力足球
+https://cqcb.iptv.darwinchow.com/mlzqHD
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://static.iptv.darwinchow.com/logo/生活时尚.png" group-title="上海",生活时尚
+https://cqcb.iptv.darwinchow.com/shenghuo
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://static.iptv.darwinchow.com/logo/游戏风云.png" group-title="上海",游戏风云
+https://cqcb.iptv.darwinchow.com/yxfyHD
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://static.iptv.darwinchow.com/logo/CETV1.png" group-title="其他",CETV-1
+https://cqcb.iptv.darwinchow.com/cetv-1SD
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://static.iptv.darwinchow.com/logo/CETV4.png" group-title="其他",CETV-4
+https://cqcb.iptv.darwinchow.com/cetv-4SD
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://static.iptv.darwinchow.com/logo/早期教育.png" group-title="其他",CETV-早期教育
+https://cqcb.iptv.darwinchow.com/zaojiaoHD
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://static.iptv.darwinchow.com/logo/CHC动作电影.png" group-title="其他",CHC动作电影
+https://cqcb.iptv.darwinchow.com/chcdzdyHD
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://static.iptv.darwinchow.com/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
+https://cqcb.iptv.darwinchow.com/chcjtyyHD
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://static.iptv.darwinchow.com/logo/CHC影迷电影.png" group-title="其他",CHC影迷电影
+https://cqcb.iptv.darwinchow.com/chcgqdyHD
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://static.iptv.darwinchow.com/logo/金鹰卡通.png" group-title="其他",金鹰卡通
+https://cqcb.iptv.darwinchow.com/jinyingSD
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://static.iptv.darwinchow.com/logo/动漫秀场.png" group-title="其他",动漫秀场
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://static.iptv.darwinchow.com/logo/卡酷少儿.png" group-title="其他",卡酷少儿
+#EXTINF:-1 tvg-name="经典剧场" tvg-logo="https://static.iptv.darwinchow.com/logo/重温经典.png" group-title="其他",重温经典
+https://cqcb.iptv.darwinchow.com/cwjdHD
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://static.iptv.darwinchow.com/logo/中国天气.png" group-title="其他",中国天气
+https://cqcb.iptv.darwinchow.com/tianqiSD
+#EXTINF:-1 tvg-name="爱看导视" tvg-logo="https://static.iptv.darwinchow.com/logo/爱看导视.png" group-title="其他",爱看导视
+https://cqcb.iptv.darwinchow.com/aikanHD
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://static.iptv.darwinchow.com/logo/财富天下.png" group-title="其他",财富天下
+https://cqcb.iptv.darwinchow.com/caifu
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://static.iptv.darwinchow.com/logo/国学.png" group-title="其他",国学频道
+https://cqcb.iptv.darwinchow.com/guoxue
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://static.iptv.darwinchow.com/logo/快乐垂钓.png" group-title="其他",快乐垂钓
+https://cqcb.iptv.darwinchow.com/klcdHD
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://static.iptv.darwinchow.com/logo/求索纪录.png" group-title="其他",求索纪录
+https://cqcb.iptv.darwinchow.com/qsjlHD
+#EXTINF:-1 tvg-name="收藏天下" tvg-logo="https://static.iptv.darwinchow.com/logo/收藏天下.png" group-title="其他",收藏天下
+https://cqcb.iptv.darwinchow.com/soucang
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://static.iptv.darwinchow.com/logo/书画.png" group-title="其他",书画
+https://cqcb.iptv.darwinchow.com/shuhua
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://static.iptv.darwinchow.com/logo/天元围棋.png" group-title="其他",天元围棋
+https://cqcb.iptv.darwinchow.com/weiqi
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://static.iptv.darwinchow.com/logo/央广购物.png" group-title="其他",央广购物
+https://cqcb.iptv.darwinchow.com/yggw
+#EXTINF:-1 tvg-name="优购物" tvg-logo="https://static.iptv.darwinchow.com/logo/优购物.png" group-title="其他",优购物
+https://cqcb.iptv.darwinchow.com/yougouwu
+#EXTINF:-1 tvg-name="中视购物" tvg-logo="https://static.iptv.darwinchow.com/logo/中视购物.png" group-title="其他",中视购物
+https://cqcb.iptv.darwinchow.com/ysgw
+#EXTINF:-1 tvg-name="风尚购物" tvg-logo="https://static.iptv.darwinchow.com/logo/好享购物.png" group-title="其他",好享购物
+https://cqcb.iptv.darwinchow.com/fsgw
