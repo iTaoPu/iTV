@@ -23,7 +23,7 @@ jobs:
 
     - name: Update Files
       run: |
-        # 下载基础源文件（新增第二个源）
+        # 下载基础源文件（新增第三个源）
         wget -q http://live.laobaitv.net/tv.m3u -O Base1.m3u
         wget -q https://iptv.catvod.com/tv.m3u -O Base2.m3u
         wget -q https://sub.iptv.darwinchow.com/cqcb.m3u8 -O Base3.m3u
