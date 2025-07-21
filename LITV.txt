@@ -58,6 +58,40 @@ CCTV15,http://171.118.162.149:9003/hls/16/index.m3u8
 CCTV16,http://171.118.162.149:9003/hls/17/index.m3u8
 CCTV17,http://171.118.162.149:9003/hls/18/index.m3u8
 CCTV-央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+CCTV-1综合,https://cqcb.iptv.darwinchow.com/cctv1HD
+CCTV-2财经,https://cqcb.iptv.darwinchow.com/cctv2HD
+CCTV-3综艺,https://cqcb.iptv.darwinchow.com/cctv3HD
+CCTV-4中文国际,https://cqcb.iptv.darwinchow.com/cctv4HD
+CCTV-5体育,https://cqcb.iptv.darwinchow.com/cctv5HD
+CCTV-5+体育赛事,https://cqcb.iptv.darwinchow.com/cctv5SportHD
+CCTV-6电影,https://cqcb.iptv.darwinchow.com/cctv6HD
+CCTV-7国防军事,https://cqcb.iptv.darwinchow.com/cctv7HD
+CCTV-8电视剧,https://cqcb.iptv.darwinchow.com/cctv8HD
+CCTV-9纪录,https://cqcb.iptv.darwinchow.com/cctv9HD
+CCTV-10科教,https://cqcb.iptv.darwinchow.com/cctv10HD
+CCTV-11戏曲,https://cqcb.iptv.darwinchow.com/cctv11HD
+CCTV-12社会与法,https://cqcb.iptv.darwinchow.com/cctv12HD
+CCTV-13新闻,https://cqcb.iptv.darwinchow.com/CCTVNewsHD
+CCTV-14少儿,https://cqcb.iptv.darwinchow.com/cctvseHD
+CCTV-15音乐,https://cqcb.iptv.darwinchow.com/cctv15HD
+CCTV-16奥林匹克,https://cqcb.iptv.darwinchow.com/cctv16HD
+CCTV-16奥林匹克4K,https://cqcb.iptv.darwinchow.com/CCTV16_4K
+CCTV-17农业农村,https://cqcb.iptv.darwinchow.com/cctv17HD
+CCTV-4K,https://cqcb.iptv.darwinchow.com/CCTV4K
+CGTN,https://cqcb.iptv.darwinchow.com/cgtnSD
+第一剧场,https://cqcb.iptv.darwinchow.com/diyijuchangHD
+怀旧剧场,https://cqcb.iptv.darwinchow.com/hjjcHD
+风云剧场,https://cqcb.iptv.darwinchow.com/fyjcHD
+风云音乐,https://cqcb.iptv.darwinchow.com/fyyyHD
+风云足球,https://cqcb.iptv.darwinchow.com/fyzqHD
+央视台球,https://cqcb.iptv.darwinchow.com/ystqHD
+高尔夫网球,https://cqcb.iptv.darwinchow.com/golfHD
+女性时尚,https://cqcb.iptv.darwinchow.com/nvxing
+兵器科技,https://cqcb.iptv.darwinchow.com/bqkjHD
+央视文化精品,https://cqcb.iptv.darwinchow.com/yswhHD
+发现之旅,https://cqcb.iptv.darwinchow.com/faxian
+老故事,https://cqcb.iptv.darwinchow.com/gushi
+中学生,https://cqcb.iptv.darwinchow.com/qicai
 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/beijing.m3u8
 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/hunan.m3u8
 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/jiangsu.m3u8
@@ -122,46 +156,46 @@ tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/�
 斗鱼 炊事班的故事,https://live.chinacert.cftest5.cn/douyu/319576
 斗鱼 海绵宝宝,https://live.chinacert.cftest5.cn/douyu/12400977
 斗鱼 RunningMan,https://live.chinacert.cftest5.cn/douyu/131977
-2025-07-21 04:40:23,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
-07/20 18:50_中乙联赛_北京理工vs湖北青年星_解说,https://www.freetv.top/migu/956434485.m3u8?migutoken=b5c91f29f6a538636c3fcec3fd623e761ccf7a766c61eefca1bab4f26dcc990a378e12140f308361c1dc07f6d0593dfc759244757551046b9b9c2a78ac463af1f899fcd6134587fd27b250db33
-07/20 18:50_江苏城市足球联赛_常州队vs徐州队_解说,https://www.freetv.top/migu/955239041.m3u8?migutoken=98ab1098095003013ba3a564e7ff9f62c88dbe07b57a39d31f976edac65c692eba6fe2b905720394a3e773b24bff97c4583d6d8aa9f1d0cf0e7279f3235d89bb74feb2906f795df551c3f85aac
-07/20 18:50_江苏城市足球联赛_苏州队vs镇江队_解说,https://www.freetv.top/migu/955238949.m3u8?migutoken=af10094a84c01f0d156f3e96fbb7a4ad8927c1cd9675c4d136513825c523cfa5c6cbd9a4ed8011d0005f5d78c7aac95199fe9cbdbb3136feea36a551614b62493094f0797a4e85628837387391
-01/01 08:00_上海明日之星篮球争冠赛_英格兰篮球UK50精英队vs中国国家U16青年队_2025上海明日之星篮球争冠赛决赛全场集锦：英格兰篮球UK50精英队63:61中国国家U16青年队,https://www.freetv.top/migu/956469014.m3u8?migutoken=2ec10a9d6baff4175dcdedaa28725a464e6f2f3089f8939e9e0c02af3ceab1309515ceda41c636fcb23708746a00740d22c4fa5652ab6b65519d3d52e0bc243654b0278eab30b35fd05c681a1b
-07/20 18:50_上海明日之星篮球争冠赛_英格兰篮球UK50精英队vs中国国家U16青年队_解说,https://www.freetv.top/migu/956108210.m3u8?migutoken=24676d3fcb1a039bfed33438d67ad436f8fe96de0f83115bc7a3b69c929bd038ea38d172ff717eeb37f5e71446733f1f44734aed14bd280cc9ae322084de12654679cde7f90e6edcaddccc9141
-07/20 19:00_WBG vs TES_WBG vs TES_官方解说,https://www.freetv.top/migu/956385553.m3u8?migutoken=c1d6a8ed4a18e40cd14722255f6c4e2412e12056389396efa41ae26096dc6601d417d5205612be05fe8971b2c0a91f99ec9ed4c751ff0c0aa4aaea3a43629ed87aa8aee5265c67c1d149815cb7
-07/20 18:50_3WL 靖江赛区第2站 Day2晚间场_3WL 靖江赛区第2站 Day2晚间场_清流播出,https://www.freetv.top/migu/956222643.m3u8?migutoken=e714a2ff00a0d673885d314bed684c3da3104549f355e448d5c8c85e54bdbc8af4c3fa4dd1fc324ca3819d1c5c222188255a95f72d69339b63ba7f605cd7fa512c9eaf44df2a4638e2a1cd02d6
-07/20 18:50_超三联赛 北京争霸赛 半决赛及决赛_超三联赛 北京争霸赛 半决赛及决赛_字诚,https://www.freetv.top/migu/956242440.m3u8?migutoken=3e4f41c8ca94f5a2e7b6fa2d8e9e8c2538e68a909e907decf3115200eb19443a4698178562bccc68f9ab5429ac78dbcfdfd1024e6d93a9aa13c3584c8944f49752a5253067a99c817c4e91e4f1
-07/20 19:00_常山UUG vs 北京WB_常山UUG vs 北京WB_官方解说,https://www.freetv.top/migu/956444031.m3u8?migutoken=c8f0b740e38a18ad5fb7cf7394df39c3298df046eb3d1363203c330576107308eae697923310eba47313d2de43e07213d39b8d368970797a21085c7f0f95fd871d997ef401785e47d1bc12fd2d
-07/20 19:20_中甲联赛_定南赣联 vs 陕西联合_解说,https://www.freetv.top/migu/956346658.m3u8?migutoken=21224dffb34bbee90457b4b32e5eee309e462bf7b8a84f30333dec8fbf1b46c9a7c98e29397d590372ec3768b006d942be91e0a844e95fafc69e659de9f4b08b0030c3c535408418f56beeb7a9
-07/20 19:20_中甲联赛_南京城市 vs 广西平果_解说,https://www.freetv.top/migu/956346677.m3u8?migutoken=096cb01490443a94bdaf3dd363cd5b8d162b98b73457d1353e48cb6cf70572704dd277e75f561eb66284761b72cc1489054c509a205933c743475d5b311b32bacaa7e2a3d22fa20a9c23b204e6
-07/20 19:20_中乙联赛_贵州筑城竞技vs成都蓉城B队_解说,https://www.freetv.top/migu/956434382.m3u8?migutoken=cbe4b075f47f8d102fd9214809b41d904a2aa220e2ea2f5bd2878753b352e4df330ef8534f9dd81199e84bb316858506647bb20d2325bc019850ee9c03027c71b8b55fbe4ce2bcefb0353ac407
-07/20 19:20_中乙联赛_江西庐山vs海门珂缔缘_解说,https://www.freetv.top/migu/956434420.m3u8?migutoken=8f5a16caf6633e31e5af54c9373e7a831bce77ffc638cfe3a55fdf950fe820bcb16fafee54bad40dc24a30d6a704ee738ee58a6c86909e12bb8d4e1e1f8786aea7fbb1f6ecdce03fd19b5628c3
-07/20 19:20_江苏城市足球联赛_扬州队vs南京队_解说,https://www.freetv.top/migu/955239076.m3u8?migutoken=f523bff1006a24225cbb029a798251e21bd3d6ca78214d8e97f77f7fdae45396412646b479436fb057a7cd70d07e0cc3d7aab9ce9ef5e6d7068d2ba709d735187ee213225f706766c84147a3f4
-07/20 19:30_欧锦赛个人决赛I_欧锦赛个人决赛I_解说,https://www.freetv.top/migu/956152308.m3u8?migutoken=74b2f8711574cff0c803c4b93f59fc9e4ca00727a4d4e5c4c6a00cb83665ffb6b65aba83e3ff187398098a1e42a2398d97639dc193cbb2f933570bf72c22432333cfc055063306bfce5a1d3909
-07/20 19:20_NBL_盐南苏科雄狮vs广西威壮_解说,https://www.freetv.top/migu/956172853.m3u8?migutoken=d5ecaa7be30276c5191773e033c55bb86c17c41594bc3f33ee5483435f601b6bd61704eec9bfb46a5550fbc91c7c942c6ba4363de6c03fbb8e932f87eb218b6275369be716d8e158539a765d84
-07/20 19:20_NBL_盐南苏科雄狮vs广西威壮_现场原声,https://www.freetv.top/migu/956172908.m3u8?migutoken=9e0cb5fc80d1d7ad5aa658210b90571dc41473b4a4a7f46adb395427ed0d8835cbdc8f00de31fe315bebc203e74bd871171b2fef59d6bb734a2237a9dd51e7820958e31b0b221fd92e6b37731a
-07/20 19:20_NBL_长沙勇胜vs石家庄翔蓝_解说,https://www.freetv.top/migu/956172946.m3u8?migutoken=a58c758d96b4ca2cb668e58f456c8f5bc79e50f11045938d4ff81c09b5c5d8ea4859c39c2b7900ac48eae1b1a6b9a9772a4c33fdf7fc7472bda2d21acb0d617ff7acdaa4ec8c8a38820275235c
-07/20 19:20_NBL_长沙勇胜vs石家庄翔蓝_现场原声,https://www.freetv.top/migu/956172957.m3u8?migutoken=bfd930404d54137dfa5378814ed9b17e10d15d00300e1839a46160592b56649d25146624d1a6baf6891b3075667e0a1368d67d7b9c84c045d4123120d06618d86aa72c9f8f199e78df7871f3a6
-07/20 19:20_女篮亚洲杯决赛_澳大利亚vs日本_殷雪怡 季孟年,https://www.freetv.top/migu/956460948.m3u8?migutoken=5334f5cb3a3007c0a0a4633d399b0de9dcf2285d2e9338b8821c303ca37d1e20a9dea15e1c92e815f6dfaa369a7b87404ebe51106f39d9c78c5c0014f20ed0ad1b83cedd8b8eda2ab67fd6ce7c
-07/20 19:20_女篮亚洲杯决赛_澳大利亚vs日本_现场原声,https://www.freetv.top/migu/956460615.m3u8?migutoken=e8394d96f5ec87494ad7a8803418400e1aec20afad9c0b82e11666d7d1ba255a5226c7d34c2aaf6e8980a0420a42b6f77cb54c4f1901b031b8935314f381df8e4fc9f222797653be41d7f0da3d
-07/20 19:25_江苏城市足球联赛_无锡队vs淮安队_解说,https://www.freetv.top/migu/955239157.m3u8?migutoken=493a501bc5b643786ab4dd35a2b12852a4a8fa533a0005e6a340f56feeb419003f4394a2bc766a6ded2b60a61242085c5dfead05a9588c090c469437dfac83fb74d28c4489f776150fc3bf9295
-07/20 20:00_布瓦松夺个人首冠_布瓦松夺个人首冠_清流,https://www.freetv.top/migu/956171693.m3u8?migutoken=90d0e003aa829b956fc3a0b209369607a952ca2ccde147ee029fd8db837c94ad451d09392c65e5c61896c4483627c12044c5b77fcbc54773940739f33f87723a021395c764018a1af7deee09c5
-07/20 20:00_布瓦松夺个人首冠_布瓦松夺个人首冠_英文原声,https://www.freetv.top/migu/956171754.m3u8?migutoken=821d8e3a8b4c20a95e8fe5fd3ca3e76c79b2d88f222ad7d21c8afa2adc8217de0d2df2d876a5f47c628ab053208a43b2e8528da9ce7a0ebbef1b29039c05a729baa910743f3c9f72968987fd40
-07/20 20:54_收官日！陈亚轩、张静蕾问鼎男女单_收官日！陈亚轩、张静蕾问鼎男女单_官方解说,https://www.freetv.top/migu/956340233.m3u8?migutoken=380f45b545f39cb6f7748ee137f7010f5050845cf3cb07cf3352810b3ee22134ff11f57a83a0520a40b07ae4870053b52a4435309eb3041f9e63a97ca1cb575c7c6541e33ef85eb9e99aebb3a8
-07/20 22:00_欧锦赛个人决赛II_欧锦赛个人决赛II_解说,https://www.freetv.top/migu/956152337.m3u8?migutoken=76d594f9e193a25bc0bc4f1dfce179706b400b5bc979b3ad3722f5652119c344cad66585eec047605453ddffd95f07b6a009af9c9143a1b18b945726907a6f5578eadcbdda2f066801bddd8430
-07/20 22:30_贝古2-0泰希曼夺冠_贝古2-0泰希曼夺冠_清流,https://www.freetv.top/migu/956171872.m3u8?migutoken=a4eda8e37daa025ec09f586442f8af021d00fd711ae6555326fabe8aab6169059ce5dff5a2f7d06a77472b655db73d8327b30344faed12372b19b8f3e7e705497b8a61f5ba4e0f75a1d4249782
-07/20 22:30_贝古2-0泰希曼夺冠_贝古2-0泰希曼夺冠_英文原声,https://www.freetv.top/migu/956171937.m3u8?migutoken=8145a96ce5f3cb1e5e01bf4c9b90b792dcb20ae204f8903f5aafa03532a3abc5c2620366175e9cf752c533fe41ad21ba6a97c01f777a7b875328a121f7386e59f8a1bec757f533d87b0ea68644
-07/21 05:55_NBA夏季联赛_老鹰VS凯尔特人_蔡凯臣,https://www.freetv.top/migu/956445233.m3u8?migutoken=cf92c7bc835bef45b4d0d37136300afdf28cef5b7fa269ccb554f6ef9f467ec2cae065a5204aeb14cea6ce2dbf23ed00a0b947debc36fc1e26f59c10983764f77c8f9d60989cca37c4b6b3d76f
-07/21 05:55_NBA夏季联赛_老鹰VS凯尔特人_英文原声,https://www.freetv.top/migu/956445259.m3u8?migutoken=26a532acb13dec46e9e5eeaacab10cb9e0c9f947a972e1d1bbf267aa24206f4f05f09c26e4877be28dc035a4c46cb9ab4e0f2f5d501732dd4fd98180fef7eb593b8ee24df532ae4e3b01e80beb
-07/21 07:55_NBA夏季联赛_灰熊VS快船_罗森,https://www.freetv.top/migu/956445262.m3u8?migutoken=7332aa52d1f7001364a0971514abe6fafdcb268d1a4a3126053e6052e99de9de034098cdf7c7a9a52bdba286323ed3aaefb3cea71ec2405b6eb315c7b794443d222290f8847dc20689645914c4
-07/21 07:55_NBA夏季联赛_灰熊VS快船_英文原声,https://www.freetv.top/migu/956445265.m3u8?migutoken=2cfd15d403745fd4dc9112fd217d64fbf8d4770e0d600de6ce5aab8e7f424f6dd177191611ee29b4b4d8ad6bc4d50c82790f50d6a1ea69f4e4c9b22076e46cfe42d2c5f29703ca555a0ff842f5
-07/21 09:55_NBA夏季联赛_国王VS黄蜂_陈鑫隆,https://www.freetv.top/migu/956445276.m3u8?migutoken=ef28ab6b80550270e569ec69e4ac944421aebb8c92c6523850b4f1c7cf60e1d2adf4b3647b6e90ca6f1eb56114b07d93844612decb236e5b56cdf268377cc715c0eea4a086694fe333eab0e54a
-07/21 09:55_NBA夏季联赛_国王VS黄蜂_英文原声,https://www.freetv.top/migu/956445296.m3u8?migutoken=878516fe53a66c82c77c5f82a196343310d919fb4f1445079814dc4f773ffba7618583a826eddba64f5ff99aaae3a03d2c49dff56a0aec984ae7186f63e4d0c554daf639f069fe803ec1f88fdb
-07/21 16:30_UP vs TT_UP vs TT_官方解说,https://www.freetv.top/migu/956386198.m3u8?migutoken=732744eb08a5373abab883998ec3f2ff06013257c3ab2e723d78d15a14bd7a1d6e014affcfa364114cd3c1b1d2b181f5c57257c920a28cf6678a3cf65d1afbde568de126eac37516a3f2303878
-07/21 19:00_LNG vs NIP_LNG vs NIP_官方解说,https://www.freetv.top/migu/956386383.m3u8?migutoken=ca6bbf8468eb4dd9b4cb9b07537b6a87658c4bf4bcf12766ac87bb681612df034f97a4ef9ffb337a8ca7984ad07e3271811854ae21aaca7d401d8c89ee24c099d104f6c25baf277bb8ce548b5c
-07/20 19:20_中甲联赛_深圳青年人 vs 上海嘉定汇龙_解说,https://www.freetv.top/migu/956346639.m3u8?migutoken=254177a6cfa1101501219b3b6e4f4b8f51acd08c576054da632a5cbae5cf16df4d5a9d08087c6c262e141affeadbf0d0741f864d0504025b4cb59fb3e8c1c4694e00139ce77db4e10a6fa6287a
-07/21 23:00_WTA华盛顿站第一日_WTA华盛顿站第一日_清流,https://www.freetv.top/migu/956345895.m3u8?migutoken=825f046d44c91bce0eec0d12afc4a28ad683da4e8ea00d347ca2d19009d296fe651145fd105792af28748f052740afa6cea71f26a00b2b8d3f5b3a87efb9e0d4087c98848f9f5ef6cc856c5905
-07/21 23:00_WTA华盛顿站第一日_WTA华盛顿站第一日_英文原声,https://www.freetv.top/migu/956345901.m3u8?migutoken=5c2d4a7a3eb8d9938efb8662ffc53cdf591c8326cb887b14f74e1389ba49c1f491851df753c3aedde16472f7297a8c993dcd776122cb654286d1f241fffa6da2267f68a0d76e8ea894814c200e
+2025-07-21 07:38:41,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
+07/20 18:50_中乙联赛_北京理工vs湖北青年星_解说,https://www.freetv.top/migu/956434485.m3u8?migutoken=ec70d88428e4846f6d54138cbcb00aee3a4e0aabe50647a8ad0d20e00149f3a328f8f9bda8f177762b393332dedfa201e02fa848bc214a4ca3b1d404aa1421ee982b2a2e08d58ba6a2bce83ae7
+07/20 18:50_江苏城市足球联赛_常州队vs徐州队_解说,https://www.freetv.top/migu/955239041.m3u8?migutoken=561052411969cd320c484bff61ebf54a0d2504155c516e4b21e4065e2e24f8f3ff239e03447d42e7d5c289012744fba951f377792236780979ae77bf2cf2638fe230bc2711493b612118628f17
+07/20 18:50_江苏城市足球联赛_苏州队vs镇江队_解说,https://www.freetv.top/migu/955238949.m3u8?migutoken=e941490f2cba874d6b3e6ed6d6065884070b631fef2ea175319982bcb5dd28652988ec4a122824d3db69137e5b02b9072b65937c7ee94caef4404ffce2e451f1a1dee283f9163ab724de70cbc1
+01/01 08:00_上海明日之星篮球争冠赛_英格兰篮球UK50精英队vs中国国家U16青年队_2025上海明日之星篮球争冠赛决赛全场集锦：英格兰篮球UK50精英队63:61中国国家U16青年队,https://www.freetv.top/migu/956469014.m3u8?migutoken=816350621ebccb615493ffba1f5b9124e07bf16bc39eda75690156a5d7948ce37a4379fefe04c8de2b216dc4a614d9fdd24b11fdd6bd5e8f3a66a56446289a3cfa553ebdd44eae1d054f0aad62
+07/20 18:50_上海明日之星篮球争冠赛_英格兰篮球UK50精英队vs中国国家U16青年队_解说,https://www.freetv.top/migu/956108210.m3u8?migutoken=3fa307bbeffe1055e3c101fb468d8856669485bc97811dc07c2914fed5f498459752bb825c0a25c886acec7573defaa1be7864f3425ec608ee9234ec2d8ce0a1aaaf0c6bb5cf65b6ac9f44059d
+07/20 19:00_WBG vs TES_WBG vs TES_官方解说,https://www.freetv.top/migu/956385553.m3u8?migutoken=74ffc283a6b85a1c5b0c9d9a21bb85b61b9c9cc20176fbfdb0795cde2b164d933564d61868cc778d3ba5b9c4535bbbe62b093dba214e19c288d8a074af567f4bc9daf12d1ac7d36f8e330959ae
+07/20 18:50_3WL 靖江赛区第2站 Day2晚间场_3WL 靖江赛区第2站 Day2晚间场_清流播出,https://www.freetv.top/migu/956222643.m3u8?migutoken=df3a1f1c5558a5acf846b41a8aa11b2770f6963f95384a0bd696456e1783cfb9f642dd3dd4e23509d471ace9d0e9734351a0903e9828bb8cd5ca718e69138a62b1eed012c5bea4eab8bbf9687d
+07/20 18:50_超三联赛 北京争霸赛 半决赛及决赛_超三联赛 北京争霸赛 半决赛及决赛_字诚,https://www.freetv.top/migu/956242440.m3u8?migutoken=8c891134ec00c1f45da6379f51cbc67e6ee310f5ea1a81d7ddc803feae5fd3bdda7d36d625d8a5321a3571456f40d3b02c0e2f53d9a4cd8439843b737463ff0a12835cd7d4823e592bf7935fdd
+07/20 19:00_常山UUG vs 北京WB_常山UUG vs 北京WB_官方解说,https://www.freetv.top/migu/956444031.m3u8?migutoken=cb73637eec67ef7c6b3bc4527a871fb05362072886094b1e3b7246837a33fb70453fde54f8754a67c8ecfba096d587098e7a570a98357fe1330bb3983e54e5c7aacb60969c5ea91908576d5598
+07/20 19:20_中甲联赛_定南赣联 vs 陕西联合_解说,https://www.freetv.top/migu/956346658.m3u8?migutoken=e46338d88a6903dcd9fa5ae6fbe7df55ddce476d490db7882455d0505fdeeff3fcbde978938764344649258b77b0b99b346dbab1feac69f1317a75a1bc899b65cc1ed0700fe869622427b6b2f0
+07/20 19:20_中甲联赛_南京城市 vs 广西平果_解说,https://www.freetv.top/migu/956346677.m3u8?migutoken=32641586e0377d8796b327e1e1fc56170fbcc90b407113c9e344bbb1d0c2e7ccddd715fe53627b8adf2d262d81811cee6de95119ba2b02ac6f46e91bf2b7eb0c10ca8f61fd17215af4072a2c7d
+07/20 19:20_中乙联赛_贵州筑城竞技vs成都蓉城B队_解说,https://www.freetv.top/migu/956434382.m3u8?migutoken=dd3cc12097031e1d44dce90a83b1c3af814bb021a142e5f0621ddc708ca4ae367eaa7f919c3bd4840941d22e9431205b425fc1fd526fe7057006b35dd3018d2d06423c4b7a7a494e0f37ce8710
+07/20 19:20_中乙联赛_江西庐山vs海门珂缔缘_解说,https://www.freetv.top/migu/956434420.m3u8?migutoken=890c55b5729f2ba215f54846c265e2c9d0697fca375dbf044af578dd124c6ea00a8f51bac42d060b905136923f36ee06ed152df84994afc9e269dc07bcf4cc4e6f985df57151713e0d70ddd399
+07/20 19:20_江苏城市足球联赛_扬州队vs南京队_解说,https://www.freetv.top/migu/955239076.m3u8?migutoken=3dc4a0075b9d8933ad083126983635928d0f0fc78c7a744aac269e3e7852bd95e2a12a6104376bac41e6a18f8055778fc59f4dab1d1bf5f5f57a57cf664cdee4a3515f992af48ae0a8ea4899df
+07/20 19:30_欧锦赛个人决赛I_欧锦赛个人决赛I_解说,https://www.freetv.top/migu/956152308.m3u8?migutoken=652904ffd62b178bf9cad07ca5d48ff7f2a276fb827974cafe11a76aa616995cb4d70a393fc8bb645551b7dcc8b682f739bd578b80e786e6b78b9bdd8435238dbb9ab7c5facc29d6e484178214
+07/20 19:20_NBL_盐南苏科雄狮vs广西威壮_解说,https://www.freetv.top/migu/956172853.m3u8?migutoken=d76bfc0a3b72a47f007f7208eb613838d6616f739516a19016f7c7bb5f1530aba9073b71eb3bc9c2477c40d52d504603978f1c83aa7fe89f691a5c2317968c76df95b746f085c334ad74212059
+07/20 19:20_NBL_盐南苏科雄狮vs广西威壮_现场原声,https://www.freetv.top/migu/956172908.m3u8?migutoken=45d5ee6ea4f3d740035cffc167b7ec2200ef0880e560435d705ac0f275bcca7dccd3698f7fd3194a96fce3684ad3254b3f2cf8e6ccd8f93a4ae1b386222dccc13b55bee09f0a9f08242974f9c8
+07/20 19:20_NBL_长沙勇胜vs石家庄翔蓝_解说,https://www.freetv.top/migu/956172946.m3u8?migutoken=1a0d1caf2c947b1479ee450de26b23b76f649cdc8598f26b32d7254b8ebbef60f30d09cbecb4adcb1edbab449dfd4e7f8c39edcc61e74fc4acb1b6cbfeeafaec7aaef9df1ba14d2d2050485944
+07/20 19:20_NBL_长沙勇胜vs石家庄翔蓝_现场原声,https://www.freetv.top/migu/956172957.m3u8?migutoken=fbc5963a672b3480b97a39e4fbfab3c8432515a958085960b18da738b537528d2bcd0451e52e4fe1576bcd8f50180a758e873ed877d094978dadc255f9945c3e91435f686fd5cc56bddef07953
+07/20 19:20_女篮亚洲杯决赛_澳大利亚vs日本_殷雪怡 季孟年,https://www.freetv.top/migu/956460948.m3u8?migutoken=a9517005ab59d626b933ce666423fa8a78323c75162060083086ce1ecceef7c82efc81cb53558ed9a6973693b4e5f9fbe7b8b81887ae18acb9e43f24849afda74f7e1b90cc7b51a54752373d9d
+07/20 19:20_女篮亚洲杯决赛_澳大利亚vs日本_现场原声,https://www.freetv.top/migu/956460615.m3u8?migutoken=c2c96ac45262185f9a31d0b2e4ec1fa827e6b6db85c090ba395d7fba0fdc06473ea9fe4e548e041685871a93938fb07091e27cbf042ef3c3e5f79c6631da1f4bdccce5f10e7b5da632c5591965
+07/20 19:25_江苏城市足球联赛_无锡队vs淮安队_解说,https://www.freetv.top/migu/955239157.m3u8?migutoken=1fc3d463dd7ac403de78dbdda535525bf84c1949dc3cd6e0dfed42f0843aa64c518efc58d7fdcd49de3752dae0d965c5e9da2d56580fc114e3598455bdbf60c0d0677867171290b8f2de98735b
+07/20 20:00_布瓦松夺个人首冠_布瓦松夺个人首冠_清流,https://www.freetv.top/migu/956171693.m3u8?migutoken=85a2bae30eb07a24ba731bb6c26d3536a15d54bdc4b533ef6369a8e52c6babdbbe607f54a2b006179b8a7c3631e56f91ee15684a5d9a1ae1d36dc727314a03061397c5bdd518c371e7ff99c543
+07/20 20:00_布瓦松夺个人首冠_布瓦松夺个人首冠_英文原声,https://www.freetv.top/migu/956171754.m3u8?migutoken=28175a0faf1eb31edbbac48961fd1f05ca8da6e6179a2d58eec1914e44c9ee5716034583c7619082ba11139586c4633fdba1547b0d373a605d100902dc0f866345014a9b45fdff950cebee503d
+07/20 20:54_收官日！陈亚轩、张静蕾问鼎男女单_收官日！陈亚轩、张静蕾问鼎男女单_官方解说,https://www.freetv.top/migu/956340233.m3u8?migutoken=1add0fb8f22d2de8aede1d1cad7d4a2a84efff69faed21941f2cd03c29ba59c349ec34580a03e41e7784df28de0d25ecb8318f5ccae00a8f3394c6c8c31082d380a85a1204069e2a16c15ef816
+07/20 22:00_欧锦赛个人决赛II_欧锦赛个人决赛II_解说,https://www.freetv.top/migu/956152337.m3u8?migutoken=119a62ca61bf9262015dc624f519d7045e6aebd8fe45a5d66473a61413024855f02534057f6603afe8354462be4d281fd69bc59050da8f9d68cb5c49ab42889224b17306c52d6c9595f7e280f4
+07/20 22:30_贝古2-0泰希曼夺冠_贝古2-0泰希曼夺冠_清流,https://www.freetv.top/migu/956171872.m3u8?migutoken=459ffa2ef2361c492364644dedecc743ac7c94f3b1d22b80b2855532942da01150167f11d9d7a55e2937924b5c35efd5e654277360a5311f5267df88b68da75141113c8ead74fca158de063b3f
+07/20 22:30_贝古2-0泰希曼夺冠_贝古2-0泰希曼夺冠_英文原声,https://www.freetv.top/migu/956171937.m3u8?migutoken=4f730d92ca857d7ae8e85a67efd11e5674cb0979291be9e5412521b2662444ddfe630cfd9e31c2e8b1c21cbf0df87cd1d6fd4dc1f3c05473fbfde2e5edc10ad58e5ad4d50e4f6f966f8224127d
+07/21 05:55_NBA夏季联赛_老鹰VS凯尔特人_蔡凯臣,https://www.freetv.top/migu/956445233.m3u8?migutoken=dad29a41a8edbd044eac289fedfa41c42b2aa59a5daaa5b01b4b2bc5a2f2b9e8e095b5d967c3b46394e642e80cf564c5872acb0e04584338251685710644bffdc062028e35cc7b9586e121718e
+07/21 05:55_NBA夏季联赛_老鹰VS凯尔特人_英文原声,https://www.freetv.top/migu/956445259.m3u8?migutoken=bf1a8fbc5e2f2e01df8cc8717c88fc3a446a3316c35aef727b3ed883b3d7ece1b5aa153d94231214bec30f5205a2a9b7d3f856c932341cd0f03becc4f6696306b79b9bfe4fc3976ea463e77991
+07/21 07:55_NBA夏季联赛_灰熊VS快船_罗森,https://www.freetv.top/migu/956445262.m3u8?migutoken=959a810afe04b682940f3e3759cc7060d2cd8b5be9f7eaab8671a57682fe97c02dae1c423e30e12950af93a68cdce7b48005c7bb0dbaefb329e307a7480b14b2d3e242ef82ca62254fea6d144e
+07/21 07:55_NBA夏季联赛_灰熊VS快船_英文原声,https://www.freetv.top/migu/956445265.m3u8?migutoken=3f0a29d3c73e05088e89b9bb15713085921e182301c36c0ca521fccffe234f3e2fb1f174e7e96972e491e6f150b5b59512330888592a69b250c9e985ff1508ba47f830c4ff9df4d7979a043b55
+07/21 09:55_NBA夏季联赛_国王VS黄蜂_陈鑫隆,https://www.freetv.top/migu/956445276.m3u8?migutoken=ab48824ec154a4503ec335c3cb094cdaffb0dedc5803aa0c9fafdda26cc87c2e5cdc7f8542a8278678870d50ef3d6880f234bb26aade3d66fb7b5e5640e2fb2494986250da61e9b691f175631a
+07/21 09:55_NBA夏季联赛_国王VS黄蜂_英文原声,https://www.freetv.top/migu/956445296.m3u8?migutoken=8fcaf48f825470fea2cf12de68a4b77327d64776ccfeee452bc738b550e09ec54e3126c2e1763528ca5aa6ad738cb1eb0e963ce34d97355129cc00d743e26cdddfe57a0f80e008d0e89665c472
+07/21 16:30_UP vs TT_UP vs TT_官方解说,https://www.freetv.top/migu/956386198.m3u8?migutoken=d9c31abdf0f60a9902b9d13aafdb5afac120ec673ef75aac42712ca948d40616902c4dc8895873698564937bb0a48eaa0f950062d8076dcf102501fd15ef332be32c656c7607978eb593de2c09
+07/21 19:00_LNG vs NIP_LNG vs NIP_官方解说,https://www.freetv.top/migu/956386383.m3u8?migutoken=71f849d7e82c7bc6a2bd4cdfcf262fcc9cfa2fd0a567d04623eeea375b08938d81a85813b2ac69866802785f385884e9c4dc090096ff4bb5e646936a073415e2731308e244e9ea0b61036452c6
+07/20 19:20_中甲联赛_深圳青年人 vs 上海嘉定汇龙_解说,https://www.freetv.top/migu/956346639.m3u8?migutoken=3f4776ac1ca623cdd194c5e3e91b418abbd282869c1993f5c2c253813aa60bef3ef10f06144feea1aef8c338964176cb486bb30bf4792bd53dc446026eb1da10c6bd0fd898961267d0af7dc4ab
+07/21 23:00_WTA华盛顿站第一日_WTA华盛顿站第一日_清流,https://www.freetv.top/migu/956345895.m3u8?migutoken=b4bafa3ea0ab2d0198edea4b3d2ffa28f3ab07ea1d6f01c235847bb832796668b7ee746d0fc507a1f550a8e05e2037b8c788de9a03c442b869df4fbad2c92b226c9a98f0094585859334276e51
+07/21 23:00_WTA华盛顿站第一日_WTA华盛顿站第一日_英文原声,https://www.freetv.top/migu/956345901.m3u8?migutoken=d4dee2c8557b0ee1d674066b6a63e6852dfa2238df7bf735eeb8baa0bdc2376b38aa4646b42b06373ed0fa47b44e38a44340408997cc0805c16a7df2ae0fd09d5f71b7cdba9bb89b0795745aa8
 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="8K频道",https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 上海新闻综合,http://live.chinacert.cftest5.cn/mgtv/651632657.m3u8
 上视东方影视,http://live.chinacert.cftest5.cn/mgtv/617290047.m3u8
@@ -328,3 +362,107 @@ tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/C
 辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
+重庆卫视,https://cqcb.iptv.darwinchow.com/chongqingHD
+重庆新闻,https://cqcb.iptv.darwinchow.com/CQTVNewsHD
+重庆影视剧,https://cqcb.iptv.darwinchow.com/cqyingshiHD
+重庆社会与法,https://cqcb.iptv.darwinchow.com/CQTVTrendyHD
+重庆红岩文化,https://cqcb.iptv.darwinchow.com/cqssgwHD
+重庆文体娱乐,https://cqcb.iptv.darwinchow.com/cqwtylHD
+重庆新农村,https://cqcb.iptv.darwinchow.com/cqggncHD
+重庆少儿,https://cqcb.iptv.darwinchow.com/cqseHD
+重庆红叶,https://cqcb.iptv.darwinchow.com/CQTVkejiaoHD
+重庆汽摩,https://cqcb.iptv.darwinchow.com/cqcarSD
+重庆移动,https://cqcb.iptv.darwinchow.com/mryyHD
+重广融媒,https://cqcb.iptv.darwinchow.com/cqrongmei
+重庆党员教育,https://cqcb.iptv.darwinchow.com/dyjyHD
+北碚综合,https://cqcb.iptv.darwinchow.com/beibeiHD
+城口综合,https://cqcb.iptv.darwinchow.com/chengkouHD
+璧山综合,https://cqcb.iptv.darwinchow.com/bishanHD
+垫江综合,https://cqcb.iptv.darwinchow.com/dianjiangHD
+丰都综合,https://cqcb.iptv.darwinchow.com/fdzh
+奉节综合,https://cqcb.iptv.darwinchow.com/fengjieHD
+涪陵综合,https://cqcb.iptv.darwinchow.com/fulingzh
+合川综合,https://cqcb.iptv.darwinchow.com/hechuan
+云阳综合,https://cqcb.iptv.darwinchow.com/jiangjinHD
+开州综合,https://cqcb.iptv.darwinchow.com/kaizhouHD
+南川综合,https://cqcb.iptv.darwinchow.com/nanchuanHD
+黔江综合,https://cqcb.iptv.darwinchow.com/qianjiang
+荣昌综合,https://cqcb.iptv.darwinchow.com/rongchangHD
+铜梁综合,https://cqcb.iptv.darwinchow.com/tongliangzongheHD
+万盛综合,https://cqcb.iptv.darwinchow.com/wanshengHD
+万州综合,https://cqcb.iptv.darwinchow.com/wanzhouHD
+巫溪综合,https://cqcb.iptv.darwinchow.com/wxzh
+武隆综合,https://cqcb.iptv.darwinchow.com/wlzh
+秀山综合,https://cqcb.iptv.darwinchow.com/xiushan
+永川综合,https://cqcb.iptv.darwinchow.com/yczh
+酉阳综合,https://cqcb.iptv.darwinchow.com/youyang
+长寿综合,https://cqcb.iptv.darwinchow.com/changshou
+重庆卫视,#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://static.iptv.darwinchow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
+北京卫视,https://cqcb.iptv.darwinchow.com/beijingHD
+浙江卫视,https://cqcb.iptv.darwinchow.com/zhejiangHD
+东方卫视,https://cqcb.iptv.darwinchow.com/shanghaiHD
+深圳卫视,https://cqcb.iptv.darwinchow.com/shenzhenHD
+辽宁卫视,https://cqcb.iptv.darwinchow.com/liaoningHD
+天津卫视,https://cqcb.iptv.darwinchow.com/tianjinHD
+贵州卫视,https://cqcb.iptv.darwinchow.com/guizhouHD
+四川卫视,https://cqcb.iptv.darwinchow.com/sichuanHD
+云南卫视,https://cqcb.iptv.darwinchow.com/yunnanSD
+东南卫视,https://cqcb.iptv.darwinchow.com/dongnanHD
+黑龙江卫视,https://cqcb.iptv.darwinchow.com/heilongjiangHD
+安徽卫视,https://cqcb.iptv.darwinchow.com/anhuiSD
+河北卫视,https://cqcb.iptv.darwinchow.com/hebeiSD
+江西卫视,https://cqcb.iptv.darwinchow.com/jiangxiHD
+湖北卫视,https://cqcb.iptv.darwinchow.com/hubeiSD
+海南卫视,https://cqcb.iptv.darwinchow.com/hainanSD
+吉林卫视,https://cqcb.iptv.darwinchow.com/jilinHD
+广西卫视,https://cqcb.iptv.darwinchow.com/guangxiHD
+内蒙古卫视,https://cqcb.iptv.darwinchow.com/neimengkuSD
+湖南卫视,https://cqcb.iptv.darwinchow.com/hunanHD
+广东卫视,https://cqcb.iptv.darwinchow.com/guangdongHD
+河南卫视,https://cqcb.iptv.darwinchow.com/henanHD
+兵团卫视,https://cqcb.iptv.darwinchow.com/bingtuanSD
+宁夏卫视,https://cqcb.iptv.darwinchow.com/ningxia
+三沙卫视,https://cqcb.iptv.darwinchow.com/sanshaSD
+青海卫视,https://cqcb.iptv.darwinchow.com/qinghaiSD
+山东教育卫视,https://cqcb.iptv.darwinchow.com/sdjiaoyuSD
+新疆卫视,https://cqcb.iptv.darwinchow.com/xinjiangSD
+西藏卫视,https://cqcb.iptv.darwinchow.com/xizangSD
+北京卫视,#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://static.iptv.darwinchow.com/logo/卡酷少儿.png" group-title="北京",卡酷少儿
+纪实科教,https://cqcb.iptv.darwinchow.com/bjayjsSD
+环球旅游,https://cqcb.iptv.darwinchow.com/huanqiulvyou
+环球奇观,https://cqcb.iptv.darwinchow.com/car
+聚鲨环球精选,https://cqcb.iptv.darwinchow.com/jusha
+生态环境,https://cqcb.iptv.darwinchow.com/shengtai
+四海钓鱼,https://cqcb.iptv.darwinchow.com/diaoyu
+优优宝贝,https://cqcb.iptv.darwinchow.com/youxi
+中华特产,https://cqcb.iptv.darwinchow.com/techan
+东方卫视,#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://static.iptv.darwinchow.com/logo/东方财经.png" group-title="上海",东方财经
+动漫秀场,https://cqcb.iptv.darwinchow.com/dmxcHD
+都市剧场,https://cqcb.iptv.darwinchow.com/dsjcHD
+法治天地,https://cqcb.iptv.darwinchow.com/fazhi
+金色学堂,https://cqcb.iptv.darwinchow.com/jinse
+魅力足球,https://cqcb.iptv.darwinchow.com/mlzqHD
+生活时尚,https://cqcb.iptv.darwinchow.com/shenghuo
+游戏风云,https://cqcb.iptv.darwinchow.com/yxfyHD
+CETV-1,https://cqcb.iptv.darwinchow.com/cetv-1SD
+CETV-4,https://cqcb.iptv.darwinchow.com/cetv-4SD
+CETV-早期教育,https://cqcb.iptv.darwinchow.com/zaojiaoHD
+CHC动作电影,https://cqcb.iptv.darwinchow.com/chcdzdyHD
+CHC家庭影院,https://cqcb.iptv.darwinchow.com/chcjtyyHD
+CHC影迷电影,https://cqcb.iptv.darwinchow.com/chcgqdyHD
+金鹰卡通,https://cqcb.iptv.darwinchow.com/jinyingSD
+动漫秀场,#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://static.iptv.darwinchow.com/logo/卡酷少儿.png" group-title="其他",卡酷少儿
+重温经典,https://cqcb.iptv.darwinchow.com/cwjdHD
+中国天气,https://cqcb.iptv.darwinchow.com/tianqiSD
+爱看导视,https://cqcb.iptv.darwinchow.com/aikanHD
+财富天下,https://cqcb.iptv.darwinchow.com/caifu
+国学频道,https://cqcb.iptv.darwinchow.com/guoxue
+快乐垂钓,https://cqcb.iptv.darwinchow.com/klcdHD
+求索纪录,https://cqcb.iptv.darwinchow.com/qsjlHD
+收藏天下,https://cqcb.iptv.darwinchow.com/soucang
+书画,https://cqcb.iptv.darwinchow.com/shuhua
+天元围棋,https://cqcb.iptv.darwinchow.com/weiqi
+央广购物,https://cqcb.iptv.darwinchow.com/yggw
+优购物,https://cqcb.iptv.darwinchow.com/yougouwu
+中视购物,https://cqcb.iptv.darwinchow.com/ysgw
+好享购物,https://cqcb.iptv.darwinchow.com/fsgw
