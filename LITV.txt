@@ -14,19 +14,8 @@ CCTV12社会与法,http://live.chinacert.cftest5.cn/mgtv/673168185.m3u8
 CCTV13新闻,http://live.chinacert.cftest5.cn/mgtv/608807423.m3u8
 CCTV14少儿,http://live.chinacert.cftest5.cn/mgtv/624878440.m3u8
 CCTV15音乐,http://live.chinacert.cftest5.cn/mgtv/673168223.m3u8
-CCTV17农业农村,http://live.chinacert.cftest5.cn/mgtv/673168256.m3u8
-CCTV4欧洲,http://live.chinacert.cftest5.cn/mgtv/608807419.m3u8
-CCTV4美洲,http://live.chinacert.cftest5.cn/mgtv/608807416.m3u8
-CGTN外语纪录,http://live.chinacert.cftest5.cn/mgtv/609006487.m3u8
-CGTN阿拉伯语,http://live.chinacert.cftest5.cn/mgtv/609154345.m3u8
-CGTN西班牙语,http://live.chinacert.cftest5.cn/mgtv/609006450.m3u8
-CGTN法语,http://live.chinacert.cftest5.cn/mgtv/609006476.m3u8
-CGTN俄语,http://live.chinacert.cftest5.cn/mgtv/609006446.m3u8
-老故事,http://live.chinacert.cftest5.cn/mgtv/884121956.m3u8
-发现之旅,http://live.chinacert.cftest5.cn/mgtv/624878970.m3u8
-中学生,http://live.chinacert.cftest5.cn/mgtv/708869532.m3u8
-CGTN,http://live.chinacert.cftest5.cn/mgtv/609017205.m3u8
 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",http://live.chinacert.cftest5.cn/nptv/cctv16.m3u8
+CCTV17农业农村,http://live.chinacert.cftest5.cn/mgtv/673168256.m3u8
 tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",http://live.chinacert.cftest5.cn/nptv/cctv4k.m3u8
 tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",http://live.chinacert.cftest5.cn/nptv/cctv8k.m3u8
 tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://epg.v1.mk/logo/CGTNALBY.png" group-title="央视",http://live.chinacert.cftest5.cn/nptv/cgtnar.m3u8
@@ -38,25 +27,17 @@ tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" gr
 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",http://live.chinacert.cftest5.cn/nptv/dyjc.m3u8
 tvg-id="cctv8k" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",http://live.chinacert.cftest5.cn/nptv/fyjc.m3u8
 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://epg.v1.mk/logo/怀旧剧场.png" group-title="央视",http://live.chinacert.cftest5.cn/nptv/hjjc.m3u8
-CCTV1,https://live.catvod.com/catvod.php?id=cctv1
-CCTV2,https://live.catvod.com/catvod.php?id=cctv2
-CCTV3,https://live.catvod.com/catvod.php?id=cctv3
-CCTV4,https://live.catvod.com/catvod.php?id=cctv4
-CCTV4欧洲,https://live.catvod.com/catvod.php?id=cctv4o
-CCTV4美洲,https://live.catvod.com/catvod.php?id=cctv4a
-CCTV5,https://live.catvod.com/catvod.php?id=cctv5
-CCTV5+,https://live.catvod.com/catvod.php?id=cctv5p
-CCTV6,https://live.catvod.com/catvod.php?id=cctv6
-CCTV7,https://live.catvod.com/catvod.php?id=cctv7
-CCTV8,https://live.catvod.com/catvod.php?id=cctv8
-CCTV9,https://live.catvod.com/catvod.php?id=cctv9
-CCTV10,https://live.catvod.com/catvod.php?id=cctv10
-CCTV11,https://live.catvod.com/catvod.php?id=cctv11
-CCTV12,https://live.catvod.com/catvod.php?id=cctv12
-CCTV13,https://live.catvod.com/catvod.php?id=cctv13
-CCTV14,https://live.catvod.com/catvod.php?id=cctv14
-CCTV15,https://live.catvod.com/catvod.php?id=cctv15
-CCTV17,https://live.catvod.com/catvod.php?id=cctv17
+CCTV4欧洲,http://live.chinacert.cftest5.cn/mgtv/608807419.m3u8
+CCTV4美洲,http://live.chinacert.cftest5.cn/mgtv/608807416.m3u8
+CGTN外语记录,http://live.chinacert.cftest5.cn/mgtv/609006487.m3u8
+CGTN阿拉伯语,http://live.chinacert.cftest5.cn/mgtv/609154345.m3u8
+CGTN西班牙语,http://live.chinacert.cftest5.cn/mgtv/609006450.m3u8
+CGTN法语,http://live.chinacert.cftest5.cn/mgtv/609006476.m3u8
+CGTN俄语,http://live.chinacert.cftest5.cn/mgtv/609006446.m3u8
+老故事,http://live.chinacert.cftest5.cn/mgtv/884121956.m3u8
+发现之旅,http://live.chinacert.cftest5.cn/mgtv/624878970.m3u8
+中学生,http://live.chinacert.cftest5.cn/mgtv/708869532.m3u8
+CGTN,http://live.chinacert.cftest5.cn/mgtv/609017205.m3u8
 CCTV-1综合,https://cqcb.iptv.darwinchow.com/cctv1HD
 CCTV-2财经,https://cqcb.iptv.darwinchow.com/cctv2HD
 CCTV-3综艺,https://cqcb.iptv.darwinchow.com/cctv3HD
@@ -91,83 +72,6 @@ CGTN,https://cqcb.iptv.darwinchow.com/cgtnSD
 发现之旅,https://cqcb.iptv.darwinchow.com/faxian
 老故事,https://cqcb.iptv.darwinchow.com/gushi
 中学生,https://cqcb.iptv.darwinchow.com/qicai
-4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/index.m3u8
-4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/index.m3u8
-东方卫视,http://live.chinacert.cftest5.cn/mgtv/651632648.m3u8
-江苏卫视,http://live.chinacert.cftest5.cn/mgtv/623899368.m3u8
-广东卫视,http://live.chinacert.cftest5.cn/mgtv/608831231.m3u8
-江西卫视,http://live.chinacert.cftest5.cn/mgtv/783847495.m3u8
-河南卫视,http://live.chinacert.cftest5.cn/mgtv/790187291.m3u8
-陕西卫视,http://live.chinacert.cftest5.cn/mgtv/738910838.m3u8
-大湾区卫视,http://live.chinacert.cftest5.cn/mgtv/608917627.m3u8
-湖北卫视,http://live.chinacert.cftest5.cn/mgtv/947472496.m3u8
-吉林卫视,http://live.chinacert.cftest5.cn/mgtv/947472500.m3u8
-青海卫视,http://live.chinacert.cftest5.cn/mgtv/947472506.m3u8
-东南卫视,http://live.chinacert.cftest5.cn/mgtv/849116810.m3u8
-海南卫视,http://live.chinacert.cftest5.cn/mgtv/947472502.m3u8
-海峡卫视,http://live.chinacert.cftest5.cn/mgtv/849119120.m3u8
-上海新闻综合,http://live.chinacert.cftest5.cn/mgtv/651632657.m3u8
-上视东方影视,http://live.chinacert.cftest5.cn/mgtv/617290047.m3u8
-上海第一财经,http://live.chinacert.cftest5.cn/mgtv/608780988.m3u8
-南京新闻综合频道,http://live.chinacert.cftest5.cn/mgtv/838109047.m3u8
-南京教科频道,http://live.chinacert.cftest5.cn/mgtv/838153729.m3u8
-南京十八频道,http://live.chinacert.cftest5.cn/mgtv/838151753.m3u8
-体育休闲频道,http://live.chinacert.cftest5.cn/mgtv/626064707.m3u8
-江苏城市频道,http://live.chinacert.cftest5.cn/mgtv/626064714.m3u8
-江苏国际,http://live.chinacert.cftest5.cn/mgtv/626064674.m3u8
-江苏教育,http://live.chinacert.cftest5.cn/mgtv/628008321.m3u8
-江苏影视频道,http://live.chinacert.cftest5.cn/mgtv/626064697.m3u8
-江苏综艺频道,http://live.chinacert.cftest5.cn/mgtv/626065193.m3u8
-公共新闻频道,http://live.chinacert.cftest5.cn/mgtv/626064693.m3u8
-盐城新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731825.m3u8
-淮安新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731826.m3u8
-泰州新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731818.m3u8
-连云港新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731715.m3u8
-宿迁新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731832.m3u8
-徐州新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731747.m3u8
-优漫卡通频道,http://live.chinacert.cftest5.cn/mgtv/626064703.m3u8
-江阴新闻综合,http://live.chinacert.cftest5.cn/mgtv/955227979.m3u8
-南通新闻综合,http://live.chinacert.cftest5.cn/mgtv/955227985.m3u8
-宜兴新闻综合,http://live.chinacert.cftest5.cn/mgtv/955227996.m3u8
-苏州新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731952.m3u8
-溧水新闻综合,http://live.chinacert.cftest5.cn/mgtv/639737327.m3u8
-高能悬疑 推理时刻,http://live.chinacert.cftest5.cn/mgtv/625133682.m3u8
-青春怀旧剧场,http://live.chinacert.cftest5.cn/mgtv/617432318.m3u8
-新片放映厅,http://live.chinacert.cftest5.cn/mgtv/619495952.m3u8
-CHC影迷电影,http://live.chinacert.cftest5.cn/mgtv/952383261.m3u8
-CHC动作电影,http://live.chinacert.cftest5.cn/mgtv/644368714.m3u8
-CHC家庭影院,http://live.chinacert.cftest5.cn/mgtv/644368373.m3u8
-和美乡途轮播台,http://live.chinacert.cftest5.cn/mgtv/713591450.m3u8
-高清大片,http://live.chinacert.cftest5.cn/mgtv/629943678.m3u8
-南方影视,http://live.chinacert.cftest5.cn/mgtv/614961829.m3u8
-血色山河·抗日战争影像志,http://live.chinacert.cftest5.cn/mgtv/713600957.m3u8
-深度对话,http://live.chinacert.cftest5.cn/mgtv/625703337.m3u8
-熊猫频道1,http://live.chinacert.cftest5.cn/mgtv/608933610.m3u8
-熊猫频道2,http://live.chinacert.cftest5.cn/mgtv/608933640.m3u8
-熊猫频道3,http://live.chinacert.cftest5.cn/mgtv/608934619.m3u8
-熊猫频道4,http://live.chinacert.cftest5.cn/mgtv/608934721.m3u8
-熊猫频道5,http://live.chinacert.cftest5.cn/mgtv/608935104.m3u8
-熊猫频道6,http://live.chinacert.cftest5.cn/mgtv/608935797.m3u8
-熊猫频道7,http://live.chinacert.cftest5.cn/mgtv/609169286.m3u8
-熊猫频道8,http://live.chinacert.cftest5.cn/mgtv/609169287.m3u8
-熊猫频道9,http://live.chinacert.cftest5.cn/mgtv/609169226.m3u8
-熊猫频道10,http://live.chinacert.cftest5.cn/mgtv/609169285.m3u8
-最强综艺趴,http://live.chinacert.cftest5.cn/mgtv/629942228.m3u8
-嘉佳卡通,http://live.chinacert.cftest5.cn/mgtv/614952364.m3u8
-经典动画大集合,http://live.chinacert.cftest5.cn/mgtv/629942219.m3u8
-新动力量创一流,http://live.chinacert.cftest5.cn/mgtv/713589837.m3u8
-钱塘江,http://live.chinacert.cftest5.cn/mgtv/647370520.m3u8
-五环传奇,http://live.chinacert.cftest5.cn/mgtv/707671890.m3u8
-赛事最经典,http://live.chinacert.cftest5.cn/mgtv/646596895.m3u8
-掼蛋精英赛,http://live.chinacert.cftest5.cn/mgtv/631354620.m3u8
-体坛名栏汇,http://live.chinacert.cftest5.cn/mgtv/629943305.m3u8
-咪咕24小时体育台,http://live.chinacert.cftest5.cn/mgtv/654102378.m3u8
-CETV1,http://live.chinacert.cftest5.cn/mgtv/923287154.m3u8
-CETV2,http://live.chinacert.cftest5.cn/mgtv/923287211.m3u8
-CETV4,http://live.chinacert.cftest5.cn/mgtv/923287339.m3u8
-tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",http://live.chinacert.cftest5.cn/nptv/cetv1.m3u8
-tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="8K频道",https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/beijing.m3u8
 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/hunan.m3u8
 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/jiangsu.m3u8
@@ -201,6 +105,132 @@ tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/�
 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/gansu.m3u8
 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/yunnan.m3u8
 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+东方卫视,http://live.chinacert.cftest5.cn/mgtv/651632648.m3u8
+江苏卫视,http://live.chinacert.cftest5.cn/mgtv/623899368.m3u8
+广东卫视,http://live.chinacert.cftest5.cn/mgtv/608831231.m3u8
+江西卫视,http://live.chinacert.cftest5.cn/mgtv/783847495.m3u8
+河南卫视,http://live.chinacert.cftest5.cn/mgtv/790187291.m3u8
+陕西卫视,http://live.chinacert.cftest5.cn/mgtv/738910838.m3u8
+大湾区卫视,http://live.chinacert.cftest5.cn/mgtv/608917627.m3u8
+湖北卫视,http://live.chinacert.cftest5.cn/mgtv/947472496.m3u8
+吉林卫视,http://live.chinacert.cftest5.cn/mgtv/947472500.m3u8
+青海卫视,http://live.chinacert.cftest5.cn/mgtv/947472506.m3u8
+东南卫视,http://live.chinacert.cftest5.cn/mgtv/849116810.m3u8
+海南卫视,http://live.chinacert.cftest5.cn/mgtv/947472502.m3u8
+海峡卫视,http://live.chinacert.cftest5.cn/mgtv/849119120.m3u8
+掼蛋精英赛,http://live.chinacert.cftest5.cn/mgtv/631354620.m3u8
+虎牙 JJ斗地主,https://live.chinacert.cftest5.cn/huya/14079954
+虎牙 JJ斗地主-轮播,https://live.chinacert.cftest5.cn/huya/jjworld
+虎牙 JJ斗地主-副房间,https://live.chinacert.cftest5.cn/huya/23695493
+虎牙 城市掼蛋联赛,#https://live.chinacert.cftest5.cn/huya/406324
+虎牙 虎牙掼蛋赛事,https://live.chinacert.cftest5.cn/huya/139167
+抖音 掼蛋冠军杯,https://live.chinacert.cftest5.cn/douyin/120711859724
+虎牙 出奇智胜斗地主,https://live.chinacert.cftest5.cn/huya/139168
+虎牙 电影轮播-1,https://live.chinacert.cftest5.cn/huya/11342412
+虎牙 电影轮播-周星驰,https://live.chinacert.cftest5.cn/huya/25646817
+虎牙 蜡笔小新,https://live.chinacert.cftest5.cn/huya/30362138
+虎牙 蜡笔小新-2,https://live.chinacert.cftest5.cn/huya/29862625
+虎牙 爱情公寓,https://live.chinacert.cftest5.cn/huya/11336726
+斗鱼 电影轮播-1,https://live.chinacert.cftest5.cn/douyu/12434419
+斗鱼 柯南轮播,https://live.chinacert.cftest5.cn/douyu/1487654?stream=flv
+斗鱼 炊事班的故事,https://live.chinacert.cftest5.cn/douyu/319576
+斗鱼 海绵宝宝,https://live.chinacert.cftest5.cn/douyu/12400977
+斗鱼 RunningMan,https://live.chinacert.cftest5.cn/douyu/131977
+2025-07-24 17:29:05,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
+07/23 18:50_足协杯四分之一决赛_上海申花 vs 河南_涂远,https://www.freetv.top/migu/956347801.m3u8?migutoken=b925961bfd8aeea0c9b54e5b94daab1b6bb6e68fcb0b081d528135fad047d63300bc774065de47b940bc2def69ebe1a1813b1a8a36d5c405ec99fde6490046c26cb563cbb86c9929eae868b8a4
+07/23 18:50_足协杯四分之一决赛_上海申花 vs 河南_赛场原声,https://www.freetv.top/migu/956347782.m3u8?migutoken=8aba4afd58104291789b4e619aa1f64c8149274d64f6bd2876be01db6f8992ba7b8771117f7bd7fa6570cceb19cd507205051c4984e3d149d15ec05dabd65b53ddc76bd390997d7e2b3e5e8556
+07/23 19:00_WE vs WBG_WE vs WBG_官方解说,https://www.freetv.top/migu/956380303.m3u8?migutoken=0de9511d661099cb4f5f334c1514a4614b5af6019d2f79bf85d6ac4fd63f2967ba4012d0d5322ad98841326c1ae056b6d6451e5f169133e2eb11202c0a51f1dee1edb5d7669aa8bd181782fa33
+07/23 18:50_3WL 总决赛 排位赛及决赛_3WL 总决赛 排位赛及决赛_清流播出,https://www.freetv.top/migu/956222670.m3u8?migutoken=025e2e2d38abffb3e451c9ebc107d9025bcc797e4a8162111877a3ddc041dffb991949c75ded67f991cc106c7ee01f6d04bdd50eb56d435754e01528ac706266032eac6c848b2f9c287e7a343e
+07/23 19:20_NBL_广西威壮vs香港金牛_解说,https://www.freetv.top/migu/956173054.m3u8?migutoken=acf54b7db086716c09ce133fd92071b52556717fb81d76d55adb1b59ff295cb4cfd5c50f1ac4c5fed50d8cd167b34afbae721eb9fb334e58cd2de0d639b5b9e3e4a1f8376992cd4fb067db7323
+07/23 19:20_NBL_广西威壮vs香港金牛_现场原声,https://www.freetv.top/migu/956173061.m3u8?migutoken=978cb3b4d3979a01cf6288a2be5907e713dfa7248c3487ab63e182c18b7e0d2b4d4b4cb5bbbe46bbc3dd4ca1bb93bda05e8a0c0edcd2c5b02ca9273773c6332aa5c957afcafdcbe5b838dc65cf
+07/23 19:20_NBL_湖北文旅vs盐南苏科雄狮_解说,https://www.freetv.top/migu/956173084.m3u8?migutoken=f69e4e595d45ca4675331c10d1ad3ba3002f44674d66fd2d1306490765889bc3c3f2f001bbdc354c53327ad587dc892da7324584fb1fcdbc49c4328c778c2eb11028d9331821f0bdc043e64437
+07/23 19:20_NBL_湖北文旅vs盐南苏科雄狮_现场原声,https://www.freetv.top/migu/956173100.m3u8?migutoken=d1de3a9ca4918cad37e83e08810bb1efdb26bcc16ef4d88d6c34e1adfcbc9fc293c877d8ea45e64a87ebe40b70adaf6ab6ec7e6a3f1eaff8cbd2bd5179f01acac1b8ee41785a9c95bd95fe38d0
+07/23 19:20_中女超联赛_武汉车谷江大女足VS江苏无锡女足_清流播出,https://www.freetv.top/migu/956482416.m3u8?migutoken=44a57085cb121631757abafaa64d8b4c7937ed2a6850cdec190a149d1ae8ba4268c49dab0a9dc277476dace3ec7cb591388dc6504598ad33051ca503950a1bcca78056ced0c4d7e374bd244c5d
+07/23 19:25_足协杯四分之一决赛_青岛海牛 vs 成都蓉城_袁甲,https://www.freetv.top/migu/956347469.m3u8?migutoken=cb0a249ebfe859cf6b978f24e61754c5e2722837f7d0176da50258722ba806869253641e6793d3a7329c5c380fcfdd58ed77b8794625a3eb685cfa69baef460dcf595cfffbba5f4aebd6207e79
+07/23 19:25_足协杯四分之一决赛_青岛海牛 vs 成都蓉城_赛场原声,https://www.freetv.top/migu/956347447.m3u8?migutoken=a30d93c96238ff92f72bdae36a4ce90df90adbe47c2dc5859238eebe6e6e3856e47407f105a3f02af0c11f8a68cab00ce3ac32184c8366d295d83f16a24b04d906c8da8aec313bcfc3f1233d5f
+07/23 17:00_诺德雷斯特晋级 罗兰/帕瓦德取胜_诺德雷斯特晋级 罗兰/帕瓦德取胜_3号桌,https://www.freetv.top/migu/956347419.m3u8?migutoken=394e1672e7083fb4417ad4aee0ec975a61131d734ccc5de4c6dbfb00a0846a840d1c40b248dd4ba0f5c17409c6d849b6ee532af5d8ed628c1a2a892eef492894e827b38d034e9bb0194190fe99
+07/23 21:00_黄禹乔横扫 洪敬恺止步男单资格赛_黄禹乔横扫 洪敬恺止步男单资格赛_1号桌,https://www.freetv.top/migu/956347592.m3u8?migutoken=f1eb44e9f229a7078f4ed2f7454a6ce1bcadb768b798175287a578d746bec4507bc622b99078efcb4c33abb123f6346ecf37a9284753a3059289ec45d97b2440a86c0e8d58af42c3aa811f2a42
+07/23 23:00_纳瓦罗出局 张帅/汤森德晋级4强_纳瓦罗出局 张帅/汤森德晋级4强_清流,https://www.freetv.top/migu/956346017.m3u8?migutoken=170175096d483a37e55ee43f4b1ae2e94655539981e1d8afc9586abd1574bc1cfc39ca940b3a1c1b69406fa47eb33b5dc3976eae07802106fb2e057800062a3647f3e51cb516aa310013ef041e
+07/23 23:00_纳瓦罗出局 张帅/汤森德晋级4强_纳瓦罗出局 张帅/汤森德晋级4强_英文原声,https://www.freetv.top/migu/956346042.m3u8?migutoken=9984992926f467d6861492b9a69df35a3e1d57f02f4a945751fbf00b0e9062b9d6ae5247ae31c285fce0101254c889fbba10f510b43b151ea74b84b18c479393c2e2d356875005bf792ac310d4
+07/24 12:50_超三联赛 靖江赛区第2站 小组赛第一轮及第二轮_超三联赛 靖江赛区第2站 小组赛第一轮及第二轮_清流播出,https://www.freetv.top/migu/956221222.m3u8?migutoken=86fccbc391ed551960fc541bbce20423877f240011f4b81fecfa7bf5397ef75b0a9990bc5d896e6b51f0cc89a1fb840c4d506fbd1c7a513543e99a660a47a089a1395f355ed2fecc27b7c8139b
+07/24 16:30_JDG vs IG_JDG vs IG_官方解说,https://www.freetv.top/migu/956380594.m3u8?migutoken=e58479b02994d90d640143530ecefc7d4cfd40ad901d5362fb269694090d89e9db006432d79cd5754248125c2f4d54ba058f82fd630b27b47f3e30c52cb0ba4a357d2426c330a9dca19873676e
+07/24 17:00_布兹科娃PK安·李 王欣瑜冲击四强_布兹科娃PK安·李 王欣瑜冲击四强_清流,https://www.freetv.top/migu/956345158.m3u8?migutoken=47b8b0a2ce003acf01ebab739d9645e21994f67c56086cb2cdaf7c53cd8f4fd32be122d89055e5dc0f1a563bfc45c224518702edb02874ca667006a1ff715dacf69089d41b1def2ef7c12bf00c
+07/24 17:00_布兹科娃PK安·李 王欣瑜冲击四强_布兹科娃PK安·李 王欣瑜冲击四强_英文原声,https://www.freetv.top/migu/956345173.m3u8?migutoken=3d72b5c60acd53b578ad049ebb7808546435d863e11d01f064576cbd75496e237d4db48030c3cd1ccbf5afcb5c93991da965a4fd6e45fae02037cb78c855096cc2545dfc65b23bcf7fbf85bd9b
+07/24 17:00_孟凡博出战 早田希娜迎战阿库拉_孟凡博出战 早田希娜迎战阿库拉_1号桌,https://www.freetv.top/migu/956347496.m3u8?migutoken=b4fc773b89a287a20dfd156afcd28810e31293a860f9dd15d02cd61e1807400618dee0e0d5a604edab1305a8b631a14eb23007c452334616e5893f3b0aaf8dcd1ec282c16c281aaa4462d21a4f
+07/24 17:00_孟凡博出战 早田希娜迎战阿库拉_孟凡博出战 早田希娜迎战阿库拉_2号桌,https://www.freetv.top/migu/956347531.m3u8?migutoken=a5a113b7ea6751f54f648389dc72ae3722e932b0cb11c1ce5d4debeb09e0e4c8f0edfdfe17dfd6ab3fc1b5f9454854e5842e0a1a370c5e63bcceb3dc277f8119a8ccf9d1819623a12f28aa8ea5
+07/24 17:00_孟凡博出战 早田希娜迎战阿库拉_孟凡博出战 早田希娜迎战阿库拉_3号桌,https://www.freetv.top/migu/956347566.m3u8?migutoken=f4c09f70bb2ae1e74bafdffe8013fca55e2f2813f5a8eda129f4d26c235c21e3cc91ca53ce153eaf6c3ea4242d3d71d8cbf8e5416ae2dafd39345e1de798be848dff4b401c6c1c153a2029bfb2
+07/24 17:00_孟凡博出战 早田希娜迎战阿库拉_孟凡博出战 早田希娜迎战阿库拉_4号桌,https://www.freetv.top/migu/956347596.m3u8?migutoken=bb83ebaaf069f2f2f4df485e4a7e6332ec5547b1776456e23b68a99f6f14acbbeae008a98b710cd74bd0e1c078f25f4bbd1688f628067f05b44aedbec6228af87efb4c9c0c4eb6425ee992f0bf
+07/24 17:00_孟凡博出战 早田希娜迎战阿库拉_孟凡博出战 早田希娜迎战阿库拉_英文解说,https://www.freetv.top/migu/956347639.m3u8?migutoken=2ff4323ee41a50fbffb472457159f4e683f9aabbe94951290a09395ce106e9fbc45d7b58afafc6cf957b205ab8ec3b4e93ab24c5fc0348cf4503ecb2ea642a2d23e9a6986eb52ee15b8a01c827
+07/24 19:00_TT vs LNG_TT vs LNG_官方解说,https://www.freetv.top/migu/956380929.m3u8?migutoken=f58126a4119619a849cc49793491e48a70f484cbadc51f23282b313e8e7a054590c41c096d15b0de541c135a2a702b0cc3fbed96f595391056b1030f26de2d62b876ffaff350ce6588da772ece
+07/24 18:50_超三联赛 靖江赛区第2站 小组赛第三轮_超三联赛 靖江赛区第2站 小组赛第三轮_解说,https://www.freetv.top/migu/956221289.m3u8?migutoken=cfde52017b5b4dbf9681caa49d67c8e6b117326519f46e073396a83953f7d58230bb4b951ee85fa8e923bada3681a9b7cd3a3280cd1d75c09d4e27afe70e55c6533866450e145fe58ba665d82f
+07/24 19:20_NBL_石家庄翔蓝vs合肥狂风峻茂_解说,https://www.freetv.top/migu/956173119.m3u8?migutoken=6dede6edec42a1edae17a5ac79e260429ccf6fd018e8ee8cdb6340c9205ae794db4bc8797cd95643d771fb1ef4214cb6e2f9a9a5ae7ab02a633b2931cf9eb49cb88a91febaf26c3de14d322828
+07/24 19:20_NBL_石家庄翔蓝vs合肥狂风峻茂_现场原声,https://www.freetv.top/migu/956173133.m3u8?migutoken=838a6d06bab91bf09cade72fc61ee706b42dec2f7def433ff8073f8366e03571e7ade1a72f999d7f56bf8a383f9aff5a553e2c83dba35a9d64e06365be4caf7e101ca83f500cd828d270033e4f
+07/24 19:20_中国男篮系列热身赛_中国vs委内瑞拉_连睿 周鹏,https://www.freetv.top/migu/956546444.m3u8?migutoken=852190b81f8ae53b29cb9e8e790f4f617c6490195b20f3950c307c506449d0ee1a88f6d6672a5e9c23113a5ea3fc578125554ed41487615816b7749f63af05869b59d2841de296209fb1b16d05
+07/24 19:20_中国男篮系列热身赛_中国vs委内瑞拉_现场原声,https://www.freetv.top/migu/956504219.m3u8?migutoken=6bbc32a5c810a55ad304be020877eb6813dd2e2aff06d0a5b22db5c679cba1af2130dc5a07ce8ab918836e19c087c35c48ce7230dfd8c6ded32fa889dda247a5b1d98675187ff7a9ef8881a925
+07/24 21:00_雨果情侣组合迎首战冲刺混双八强_雨果情侣组合迎首战冲刺混双八强_1号桌,https://www.freetv.top/migu/956347778.m3u8?migutoken=b08bd1f44c5e1884712d6f5710c4e514994b47fbd3b62b4c65e3e916d211f1f8fd78dd56577aeb7200f7d068db7d0085c24a9a307716924f4615f95cf8f841f07e0a066e097c0ad79c3691d11e
+07/24 21:00_雨果情侣组合迎首战冲刺混双八强_雨果情侣组合迎首战冲刺混双八强_2号桌,https://www.freetv.top/migu/956347803.m3u8?migutoken=818d42c214e4f9930f238df85c159c816e0c45dfaeb489b5b5bb61bb158f58e7f7d67aafdfca718281c7e65d22fca865cd33891afc434dcab5c8d1ebaf874c9cfb54c21a7105e089fc8e97dab6
+07/24 21:00_雨果情侣组合迎首战冲刺混双八强_雨果情侣组合迎首战冲刺混双八强_3号桌,https://www.freetv.top/migu/956347832.m3u8?migutoken=0bfec297689f1256a5d98c7f89066c885dcc6ac15ecfa9ad93304d282fcccfaf7ce2860154653f5faba60b31a1bcfe8e6604e555219ce58c8b430426eedaec1642249093e2d9208e6948d5902b
+07/24 21:00_雨果情侣组合迎首战冲刺混双八强_雨果情侣组合迎首战冲刺混双八强_4号桌,https://www.freetv.top/migu/956347858.m3u8?migutoken=d5822cb369718549ae0076136f309f1b88bf6a657ce573f4278f6cf815016027e7457dfd3c8fca530cc4948eb4b0fb5f6103d8f1e9feccd1ccc923a3b1cb605c8d1be761dd98c39d91bd569771
+07/24 21:00_雨果情侣组合迎首战冲刺混双八强_雨果情侣组合迎首战冲刺混双八强_英文解说,https://www.freetv.top/migu/956347901.m3u8?migutoken=812662a688764782384b49ed66a840b28f7f11b97bfdda90050c60a9e7f41478a14434aabb646cda742dbe185b11929935faa7219c883b70b2f1072088ab33b13ecd1f7592825c8e2b3694908d
+07/25 01:00_拉杜卡努PK大坂直美 佩古拉冲八强_拉杜卡努PK大坂直美 佩古拉冲八强_清流,https://www.freetv.top/migu/956346057.m3u8?migutoken=2e09141eb55de560635541cf96768202f97406cb4a1d9839d385f0f0ad79942a5b64492d44586237c98063c4887144a78631192a7b0960ab5d69e45543df4b79dfb23ddf56efd7b001dcb5dc6c
+07/25 01:00_拉杜卡努PK大坂直美 佩古拉冲八强_拉杜卡努PK大坂直美 佩古拉冲八强_英文原声,https://www.freetv.top/migu/956346074.m3u8?migutoken=c07d964fbd3251f58711ec62abcf4a161543f0c2dddc63ab26fc1722bfbb5d5191ceeaa39cab6001223bcb7f31c76124e7a0caab5e222122e57b8d35afc2df85ea33f5ca0461c8aa90910a2631
+tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="8K频道",https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+上海新闻综合,http://live.chinacert.cftest5.cn/mgtv/651632657.m3u8
+上视东方影视,http://live.chinacert.cftest5.cn/mgtv/617290047.m3u8
+上海第一财经,http://live.chinacert.cftest5.cn/mgtv/608780988.m3u8
+南京新闻综合频道,http://live.chinacert.cftest5.cn/mgtv/838109047.m3u8
+南京教科频道,http://live.chinacert.cftest5.cn/mgtv/838153729.m3u8
+南京十八频道,http://live.chinacert.cftest5.cn/mgtv/838151753.m3u8
+体育休闲频道,http://live.chinacert.cftest5.cn/mgtv/626064707.m3u8
+江苏城市频道,http://live.chinacert.cftest5.cn/mgtv/626064714.m3u8
+江苏国际,http://live.chinacert.cftest5.cn/mgtv/626064674.m3u8
+江苏教育,http://live.chinacert.cftest5.cn/mgtv/628008321.m3u8
+江苏影视频道,http://live.chinacert.cftest5.cn/mgtv/626064697.m3u8
+江苏综艺频道,http://live.chinacert.cftest5.cn/mgtv/626065193.m3u8
+公共新闻频道,http://live.chinacert.cftest5.cn/mgtv/626064693.m3u8
+盐城新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731825.m3u8
+淮安新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731826.m3u8
+泰州新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731818.m3u8
+连云港新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731715.m3u8
+宿迁新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731832.m3u8
+徐州新闻综合,http://live.chinacert.cftest5.cn/mgtv/639731747.m3u8
+优漫卡通频道,http://live.chinacert.cftest5.cn/mgtv/626064703.m3u8
+《长安的荔枝》主演作品集,http://live.chinacert.cftest5.cn/mgtv/625133682.m3u8
+中国航天“逆袭”之路,http://live.chinacert.cftest5.cn/mgtv/617432318.m3u8
+新片放映厅,http://live.chinacert.cftest5.cn/mgtv/619495952.m3u8
+CHC影迷电影,http://live.chinacert.cftest5.cn/mgtv/952383261.m3u8
+CHC动作电影,http://live.chinacert.cftest5.cn/mgtv/644368714.m3u8
+CHC家庭影院,http://live.chinacert.cftest5.cn/mgtv/644368373.m3u8
+和美乡途轮播台,http://live.chinacert.cftest5.cn/mgtv/713591450.m3u8
+高清大片,http://live.chinacert.cftest5.cn/mgtv/629943678.m3u8
+南方影视,http://live.chinacert.cftest5.cn/mgtv/614961829.m3u8
+红色轮播台,http://live.chinacert.cftest5.cn/mgtv/713600957.m3u8
+深度对话,http://live.chinacert.cftest5.cn/mgtv/625703337.m3u8
+熊猫频道1,http://live.chinacert.cftest5.cn/mgtv/608933610.m3u8
+熊猫频道2,http://live.chinacert.cftest5.cn/mgtv/608933640.m3u8
+熊猫频道3,http://live.chinacert.cftest5.cn/mgtv/608934619.m3u8
+熊猫频道4,http://live.chinacert.cftest5.cn/mgtv/608934721.m3u8
+熊猫频道5,http://live.chinacert.cftest5.cn/mgtv/608935104.m3u8
+熊猫频道6,http://live.chinacert.cftest5.cn/mgtv/608935797.m3u8
+熊猫频道7,http://live.chinacert.cftest5.cn/mgtv/609169286.m3u8
+熊猫频道8,http://live.chinacert.cftest5.cn/mgtv/609169287.m3u8
+熊猫频道9,http://live.chinacert.cftest5.cn/mgtv/609169226.m3u8
+熊猫频道10,http://live.chinacert.cftest5.cn/mgtv/609169285.m3u8
+华语乐坛最强音,http://live.chinacert.cftest5.cn/mgtv/707671890.m3u8
+最强综艺趴,http://live.chinacert.cftest5.cn/mgtv/629942228.m3u8
+嘉佳卡通,http://live.chinacert.cftest5.cn/mgtv/614952364.m3u8
+经典动画大集合,http://live.chinacert.cftest5.cn/mgtv/629942219.m3u8
+新动力量创一流,http://live.chinacert.cftest5.cn/mgtv/713589837.m3u8
+开封鼓楼,http://live.chinacert.cftest5.cn/mgtv/681448619.m3u8
+钱塘江,http://live.chinacert.cftest5.cn/mgtv/647370520.m3u8
+赛事最经典,http://live.chinacert.cftest5.cn/mgtv/646596895.m3u8
+体坛名栏汇,http://live.chinacert.cftest5.cn/mgtv/629943305.m3u8
+咪咕24小时体育台,http://live.chinacert.cftest5.cn/mgtv/654102378.m3u8
+CETV1,http://live.chinacert.cftest5.cn/mgtv/923287154.m3u8
+CETV2,http://live.chinacert.cftest5.cn/mgtv/923287211.m3u8
+CETV4,http://live.chinacert.cftest5.cn/mgtv/923287339.m3u8
+tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",http://live.chinacert.cftest5.cn/nptv/cetv1.m3u8
+tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4K频道",http://live.chinacert.cftest5.cn/itv/3000000010000005180.m3u8?cdn=FifastbLive
 tvg-id="咪咕4K" tvg-name="咪咕4K" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png" group-title="4K频道",http://live.chinacert.cftest5.cn/itv/3000000010000015686.m3u8?cdn=FifastbLive
 tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="4K频道",https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -251,43 +281,6 @@ tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.
 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",http://live.chinacert.cftest5.cn/itv/3000000010000025380.m3u8?cdn=FifastbLive
 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",http://live.chinacert.cftest5.cn/itv/3000000010000027691.m3u8?cdn=FifastbLive
 tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",http://live.chinacert.cftest5.cn/itv/3000000010000031669.m3u8?cdn=FifastbLive
-CHC影迷电影,https://live.catvod.com/catvod.php?id=chcym
-CHC动作电影,https://live.catvod.com/catvod.php?id=chcdz
-CHC家庭影院,https://live.catvod.com/catvod.php?id=chcjt
-北京卫视,https://live.catvod.com/catvod.php?id=bjws
-东方卫视,https://live.catvod.com/catvod.php?id=dfws
-天津卫视,https://live.catvod.com/catvod.php?id=tjws
-重庆卫视,https://live.catvod.com/catvod.php?id=cqws
-黑龙江卫视,https://live.catvod.com/catvod.php?id=hljws
-吉林卫视,https://live.catvod.com/catvod.php?id=jlws
-辽宁卫视,https://live.catvod.com/catvod.php?id=lnws
-内蒙古卫视,https://live.catvod.com/catvod.php?id=nmws
-宁夏卫视,https://live.catvod.com/catvod.php?id=nxws
-甘肃卫视,https://live.catvod.com/catvod.php?id=gsws
-青海卫视,https://live.catvod.com/catvod.php?id=qhws
-陕西卫视,https://live.catvod.com/catvod.php?id=sxws
-河北卫视,https://live.catvod.com/catvod.php?id=hbws
-山西卫视,https://live.catvod.com/catvod.php?id=sxiws
-山东卫视,https://live.catvod.com/catvod.php?id=sdws
-安徽卫视,https://live.catvod.com/catvod.php?id=ahws
-河南卫视,https://live.catvod.com/catvod.php?id=hnws
-湖北卫视,https://live.catvod.com/catvod.php?id=hubws
-湖南卫视,https://live.catvod.com/catvod.php?id=hunws
-江西卫视,https://live.catvod.com/catvod.php?id=jxws
-浙江卫视,https://live.catvod.com/catvod.php?id=zjws
-东南卫视,https://live.catvod.com/catvod.php?id=dnws
-厦门卫视,https://live.catvod.com/catvod.php?id=xmws
-广东卫视,https://live.catvod.com/catvod.php?id=gdws
-深圳卫视,https://live.catvod.com/catvod.php?id=szws
-广西卫视,https://live.catvod.com/catvod.php?id=gxws
-云南卫视,https://live.catvod.com/catvod.php?id=ynws
-贵州卫视,https://live.catvod.com/catvod.php?id=gzws
-四川卫视,https://live.catvod.com/catvod.php?id=scws
-新疆卫视,https://live.catvod.com/catvod.php?id=xjws
-兵团卫视,https://live.catvod.com/catvod.php?id=btws
-西藏卫视,https://live.catvod.com/catvod.php?id=xzws
-海南卫视,https://live.catvod.com/catvod.php?id=hinws
-三沙卫视,https://live.catvod.com/catvod.php?id=ssws
 重庆卫视,https://cqcb.iptv.darwinchow.com/chongqingHD
 重庆新闻,https://cqcb.iptv.darwinchow.com/CQTVNewsHD
 重庆影视剧,https://cqcb.iptv.darwinchow.com/cqyingshiHD
