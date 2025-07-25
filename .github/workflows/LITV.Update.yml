@@ -24,7 +24,7 @@ jobs:
     - name: Update Files
       run: |
         # 下载基础源文件
-        wget -q https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u -O Base1.m3u
+        wget -q https://raw.githubusercontent.com/Jifeng4ever/iptv/main/china.m3u -O Base1.m3u
         wget -q https://raw.githubusercontent.com/Jifeng4ever/iptv/main/hkmt.m3u8 -O Base2.m3u
         wget -q https://raw.githubusercontent.com/Jifeng4ever/iptv/main/global.m3u8 -O Base3.m3u
         
