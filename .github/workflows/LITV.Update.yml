@@ -24,7 +24,7 @@ jobs:
     - name: Update Files
       run: |
         # 下载基础源文件
-        wget -q https://raw.githubusercontent.com/Jifeng4ever/iptv/main/china.m3u -O Base1.m3u
+        wget -q https://raw.githubusercontent.com/zqs1qiwan/laobaitv/main/test/test/main.m3u -O Base1.m3u
         wget -q https://sub.iptv.darwinchow.com/cqcb.m3u8 -O Base2.m3u
         
         # 合并并去重基础源
