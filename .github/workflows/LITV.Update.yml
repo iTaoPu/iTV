@@ -39,7 +39,7 @@ jobs:
         
         # 生成最终M3U
         echo '#EXTM3U x-tvg-url="https://erw.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > IPTV.m3u
-        cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> IPTV.m3u
+        cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> LITV.m3u
         
         # 生成TXT播放列表
         awk '/^#EXTINF:/ {
@@ -50,7 +50,7 @@ jobs:
             gsub(/\r/, "", url);
             sub(/^ /, "", name);
             print name "," url;
-        }' IPTV.m3u | awk '!seen[$0]++' > IPTV.txt
+        }' LITV.m3u | awk '!seen[$0]++' > LITV.txt
         
         # 清理临时文件
         rm -f Base.m3u CCTV.m3u CNTV.m3u
