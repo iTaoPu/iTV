@@ -1,4 +1,4 @@
-name: IPTV Update
+name: LITV.Update
 
 on:
   workflow_dispatch:
