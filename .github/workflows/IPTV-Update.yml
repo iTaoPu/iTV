@@ -37,26 +37,26 @@ jobs:
         cat CCTV.m3u CNTV.m3u >> IPTV.m3u
 
         # 使用awk去除重复直播源地址（仅去除URL完全相同的行，保留元数据）
-        awk -v 'FS=URL' -v 'OFS=URL' '
+        awk '
           function url2line(url) {
             if (url in lines) return lines[url]
             # 将URL插回原行并返回
-            split(key, a, "URL=");
+            split(key, a, "URL=")
             return a[1] "URL=" url
           }
           {
             # 检查当前行是否已经处理过
             if (!seen[$0]) {
               # 将当前行拆分成两部分：包含URL的部分和其他部分
-              split($0, parts, "URL=", 2);
-              key = parts[2];
+              split($0, parts, "URL=", 2)
+              key = parts[2]
               # 如果URL重复，则跳过，否则记录并输出
               if (seen[key]) {
                 # 重复URL，跳过
                 next
               } else {
-                seen[key] = 1;
-                lines[key] = url2line(key);
+                seen[key] = 1
+                lines[key] = url2line(key)
               }
             }
             # 输出未重复的行
@@ -66,7 +66,7 @@ jobs:
         mv IPTV_tmp.m3u IPTV.m3u
         
         # 清理临时文件
-        rm -f Base.m3u CCTV.m3u CNTV.m3u
+        rm -f Base.m3u CCTV.m3u CNTV.m3u IPTV_tmp.m3u
 
     - name: Generate TXT Playlist
       run: |
