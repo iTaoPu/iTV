@@ -66,7 +66,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add IPTV.m3u LITV.txt README.md
+        git add IPTV.m3u IPTV.txt README.md
         git commit -m "${{ steps.date.outputs.date }}"
 
     - name: Push Update
