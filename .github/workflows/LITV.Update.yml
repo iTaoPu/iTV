@@ -39,11 +39,17 @@ jobs:
         
         # 生成最终M3U
         echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > LITV.m3u
-        cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> LITV.m3u
+        
+        # 添加自定义提示
+        echo '#EXTINF:-1 tvg-id="温馨提示" tvg-name="温馨提示" tvg-logo="https://logo.shrimp.cloudns.biz/img/温馨提示.png" group-title="🦧温馨提示",温馨提示' >> LITV.m3u
+        echo 'https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4' >> LITV.m3u
+        
+        # 合并源文件
+        cat CCTV.m3u CNTV.m3u >> LITV.m3u
         
         # 生成TXT播放列表
         awk '/^#EXTINF:/ {
-            split($0, a, ","); 
+            split($0, a, ",");
             name = a[2];
             getline url;
             gsub(/\r/, "", name);
