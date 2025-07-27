@@ -47,6 +47,10 @@ jobs:
         # 添加新增提示 (谨防诈骗)
         echo '#EXTINF:-1 tvg-id="谨防诈骗" tvg-name="谨防诈骗" tvg-logo="https://logo.shrimp.cloudns.biz/img/谨防诈骗.png" group-title="🦧温馨提示",谨防诈骗' >> LITV.m3u
         echo 'https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4' >> LITV.m3u
+
+        # 添加新增提示 (禁止蕉绿)
+        echo '#EXTINF:-1 tvg-id="禁止蕉绿" tvg-name="禁止蕉绿" tvg-logo="https://logo.shrimp.cloudns.biz/img/禁止蕉绿.png" group-title="🦧温馨提示",禁止蕉绿' >> LITV.m3u
+        echo 'https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4' >> LITV.m3u
         
         # 合并源文件
         cat CCTV.m3u CNTV.m3u >> LITV.m3u
