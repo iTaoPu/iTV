@@ -26,21 +26,21 @@ jobs:
         # 下载基础源文件
         wget -q https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u -O Base.m3u
         
-        # 移除原有的#EXTM3U
-        awk '!/^#/ {print}' Base.m3u > Base_Cleaned.m3u
+        # 处理央视源
+        grep -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CCTV.m3u
+        
+        # 处理非央视源
+        grep -v -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CNTV.m3u
         
         # 创建最终M3U文件
-        echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > IPTV.m3u
+        echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\"' > IPTV.m3u
         
         # 添加自定义提示频道
         echo '#EXTINF:-1 tvg-id="温馨提示" tvg-name="温馨提示" tvg-logo="https://logo.shrimp.cloudns.biz/img/温馨提示.png" group-title="🦧温馨提示",温馨提示' >> IPTV.m3u
         echo 'https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4' >> IPTV.m3u
         
-        # 处理央视源
-        grep -A 1 '央视' Base_Cleaned.m3u | grep -v '^--$' | awk '!seen[$0]++' >> IPTV.m3u
-        
-        # 处理非央视源
-        grep -v -A 1 '央视' Base_Cleaned.m3u | grep -v '^--$' | awk '!seen[$0]++' >> IPTV.m3u
+        # 合并频道列表
+        cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> IPTV.m3u
         
         # 生成TXT播放列表
         awk '/^#EXTINF:/ {
@@ -54,7 +54,7 @@ jobs:
         }' IPTV.m3u | awk '!seen[$0]++' > IPTV.txt
         
         # 清理临时文件
-        rm -f Base.m3u Base_Cleaned.m3u
+        rm -f Base.m3u CCTV.m3u CNTV.m3u
 
     - name: Commit Changes
       run: |
