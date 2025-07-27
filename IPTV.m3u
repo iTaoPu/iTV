@@ -91,17 +91,19 @@ http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMH
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+#https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+#https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="央视新闻" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CCTV13.png" group-title="卫视频道",央视新闻
 http://tencentplaygsm.gztv.com/live/jingsai.m3u8
+#EXTINF:-1 tvg-id="温馨提示" tvg-name="温馨提示" tvg-logo="https://logo.shrimp.cloudns.biz/img/温馨提示.png" group-title="🦧温馨提示",温馨提示
+https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
 #https://0472.org/hls/cgtn.m3u8
 #https://0472.org/hls/cgtnd.m3u8
 #https://0472.org/hls/cgtne.m3u8
 #https://0472.org/hls/cgtnf.m3u8
-#https://0472.org/hls/cgtnx.m3u8
-#https://0472.org/hls/cgtna.m3u8
 
 #卫视频道
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视频道",北京卫视
