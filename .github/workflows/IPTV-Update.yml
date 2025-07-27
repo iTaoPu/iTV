@@ -17,7 +17,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: Get Time
+    - name: GetTime
       id: date
       run: echo "date=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_OUTPUT
 
@@ -32,62 +32,26 @@ jobs:
         # 处理非央视源
         grep -v -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CNTV.m3u
         
-        # 生成最终M3U文件，只去除完全相同的直播源地址
+        # 生成最终M3U
         echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > IPTV.m3u
-        cat CCTV.m3u CNTV.m3u >> IPTV.m3u
-
-        # 使用awk去除重复直播源地址（仅去除URL完全相同的行，保留元数据）
-        awk '
-          function url2line(url) {
-            if (url in lines) return lines[url]
-            # 将URL插回原行并返回
-            split(key, a, "URL=")
-            return a[1] "URL=" url
-          }
-          {
-            # 检查当前行是否已经处理过
-            if (!seen[$0]) {
-              # 将当前行拆分成两部分：包含URL的部分和其他部分
-              split($0, parts, "URL=", 2)
-              key = parts[2]
-              # 如果URL重复，则跳过，否则记录并输出
-              if (seen[key]) {
-                # 重复URL，跳过
-                next
-              } else {
-                seen[key] = 1
-                lines[key] = url2line(key)
-              }
-            }
-            # 输出未重复的行
-            if ($0 != "") print url2line(key)
-          }
-        ' IPTV.m3u > IPTV_tmp.m3u
-        mv IPTV_tmp.m3u IPTV.m3u
+        cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> IPTV.m3u
         
-        # 清理临时文件
-        rm -f Base.m3u CCTV.m3u CNTV.m3u IPTV_tmp.m3u
-
-    - name: Generate TXT Playlist
-      run: |
-        # 从M3U文件提取并去重URL（只保留第一次出现的URL）
+        # 生成TXT播放列表
         awk '/^#EXTINF:/ {
-            split($0, a, ",");
+            split($0, a, ","); 
             name = a[2];
             getline url;
-            sub(/^[ \t]+/, "", name);
-            sub(/^[ \t]+/, "", url);
-            key = url;
-            if (!seen[key]) {
-                seen[key] = 1;
-                print name "," url;
-            }
-        }' IPTV.m3u > IPTV_tmp.txt
-        mv IPTV_tmp.txt IPTV.txt
+            gsub(/\r/, "", name);
+            gsub(/\r/, "", url);
+            sub(/^ /, "", name);
+            print name "," url;
+        }' IPTV.m3u | awk '!seen[$0]++' > IPTV.txt
+        
+        # 清理临时文件
+        rm -f Base.m3u CCTV.m3u CNTV.m3u
 
-    - name: Update README
-      run: |
-        echo -e "# IPTV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（IPTV.M3U）\n- [TXT播放列表](IPTV.txt)（IPTV.TXT）" > README.md
+        # 更新README
+        echo -e "# IPTV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（IPTV.M3U）\n- [TXT播放列表](IPTV.txt)（IPTV.TXT）\n- [M3U播放列表](LITV.m3u)（LITV.M3U）\n- [TXT播放列表](LITV.txt)（LITV.TXT）" > README.md
 
     - name: Commit Changes
       run: |
