@@ -17,7 +17,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: Get Time
+    - name: GetTime
       id: date
       run: echo "date=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_OUTPUT
 
@@ -32,19 +32,13 @@ jobs:
         # 处理非央视源
         grep -v -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CNTV.m3u
         
-        # 创建最终M3U文件
-        echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\"' > IPTV.m3u
-        
-        # 添加自定义提示频道
-        echo '#EXTINF:-1 tvg-id="温馨提示" tvg-name="温馨提示" tvg-logo="https://logo.shrimp.cloudns.biz/img/温馨提示.png" group-title="🦧温馨提示",温馨提示' >> IPTV.m3u
-        echo 'https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4' >> IPTV.m3u
-        
-        # 合并频道列表
+        # 生成最终M3U
+        echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > IPTV.m3u
         cat CCTV.m3u CNTV.m3u | awk '!seen[$0]++' >> IPTV.m3u
         
         # 生成TXT播放列表
         awk '/^#EXTINF:/ {
-            split($0, a, ",");
+            split($0, a, ","); 
             name = a[2];
             getline url;
             gsub(/\r/, "", name);
@@ -57,14 +51,14 @@ jobs:
         rm -f Base.m3u CCTV.m3u CNTV.m3u
 
         # 更新README
-        echo -e "# IPTV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（IPTV.M3U）\n- [TXT播放列表](IPTV.txt)（IPTV.TXT）\n- [M3U播放列表](LITV.m3u)（LITV.M3U）\n- [TXT播放列表](LITV.txt)（LITV.TXT）" > README.md
+        echo -e "# IPTV 自动更新\n\n### 更新于 ${{ steps.date.outputs.date }}\n\n### 包含格式:\n- [M3U播放列表](IPTV.m3u)（标准IPTV格式）\n- [TXT播放列表](IPTV.txt)（格式：频道名称,直播源URL）" > README.md
 
     - name: Commit Changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add IPTV.m3u IPTV.txt
-        git commit -m "更新于 ${{ steps.date.outputs.date }}"
+        git add IPTV.m3u IPTV.txt README.md
+        git commit -m "${{ steps.date.outputs.date }}"
 
     - name: Push Update
       run: git push
