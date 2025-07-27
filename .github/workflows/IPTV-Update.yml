@@ -33,10 +33,10 @@ jobs:
         grep -v -A 1 '央视' Base.m3u | grep -v '^--$' | awk '!seen[$0]++' > CNTV.m3u
         
         # 创建最终M3U文件
-        echo '#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"' > IPTV.m3u
+        echo '#EXTM3U x-tvg-url=\"https://112114.shrimp.cloudns.biz/epg.xml\" catchup=\"append\" catchup-source=\"?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\"' > IPTV.m3u
         
         # 添加自定义提示频道
-        echo '#EXTINF:-1 tvg-id="温馨提示" tvg-name="温馨提示" tvg-logo="https://logo.shrimp.cloudns.biz/img/温馨提示.png" group-title="🦧温馨提示",温馨提示' >> IPTV.m3u
+        echo '#EXTINF:-1 tvg-id=\"温馨提示\" tvg-name=\"温馨提示\" tvg-logo=\"https://logo.shrimp.cloudns.biz/img/温馨提示.png\" group-title=\"🦧温馨提示\",温馨提示' >> IPTV.m3u
         echo 'https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4' >> IPTV.m3u
         
         # 合并频道列表
@@ -60,7 +60,7 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add IPTV.m3u IPTV.txt README.md
+        git add IPTV.m3u IPTV.txt
         git commit -m "更新于 ${{ steps.date.outputs.date }}"
 
     - name: Push Update
