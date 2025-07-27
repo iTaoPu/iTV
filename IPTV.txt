@@ -1,3 +1,4 @@
+温馨提示,https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4
 CCTV1综合,http://fn.tmde.top:35455/mgtv/608807420.m3u8
 CCTV2财经,http://fn.tmde.top:35455/mgtv/631780532.m3u8
 CCTV3综艺,http://fn.tmde.top:35455/mgtv/624878271.m3u8
@@ -45,6 +46,8 @@ CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTe
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN西语,#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 央视新闻,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
+CGTN西语,#https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,#https://0472.org/hls/cgtna.m3u8
 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视频道",http://fn.tmde.top:35455/nptv/beijing.m3u8
 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视频道",http://fn.tmde.top:35455/nptv/hunan.m3u8
 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视频道",http://fn.tmde.top:35455/nptv/jiangsu.m3u8
