@@ -1,3 +1,4 @@
+温馨提示,https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4
 CCTV1综合,http://live.chinacert.cftest5.cn/mgtv/608807420.m3u8
 CCTV2财经,http://live.chinacert.cftest5.cn/mgtv/631780532.m3u8
 CCTV3综艺,http://live.chinacert.cftest5.cn/mgtv/624878271.m3u8
@@ -91,7 +92,6 @@ CCTV13,https://live.catvod.com/catvod.php?id=cctv13
 CCTV14,https://live.catvod.com/catvod.php?id=cctv14
 CCTV15,https://live.catvod.com/catvod.php?id=cctv15
 CCTV17,https://live.catvod.com/catvod.php?id=cctv17
-温馨提示,https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4
 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/beijing.m3u8
 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/hunan.m3u8
 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",http://live.chinacert.cftest5.cn/nptv/jiangsu.m3u8
