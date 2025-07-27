@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}\"
-#EXTINF:-1 tvg-id="温馨提示" tvg-name="温馨提示" tvg-logo="https://logo.shrimp.cloudns.biz/img/温馨提示.png" group-title="🦧温馨提示",温馨提示
-https://itcoffe.5iclub.us.kg/Loong/iTV/Disclaimer.mp4
+#EXTM3U x-tvg-url="https://112114.shrimp.cloudns.biz/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #央视频道
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视频道", CCTV1综合
 http://fn.tmde.top:35455/mgtv/608807420.m3u8
