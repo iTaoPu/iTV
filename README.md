@@ -1,9 +1,9 @@
 # IPTV 自动更新
 
-### 更新于 2025-07-28 16:35:17 CST
+### 更新于 2025-07-28 20:21:58 CST
 
 ### 包含格式:
 - [M3U播放列表](IPTV.m3u)（IPTV.M3U）
 - [TXT播放列表](IPTV.txt)（IPTV.TXT）
-- [M3U播放列表](LITV.m3u)（LITV.m3u）
+- [M3U播放列表](LITV.m3u)（LITV.M3U）
 - [TXT播放列表](LITV.txt)（LITV.TXT）
